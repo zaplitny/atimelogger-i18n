@@ -1,0 +1,189 @@
+"Activities" = "記録画面";
+"History" = "履歴";
+"Activity types" = "ログ";
+"Types" = "ログ";
+"tab.category" = "カテゴリ";
+"More" = "設定";
+"Backup/Restore" = "バックアップ／復元";
+"Reports" = "レポート";
+"Settings" = "環境設定";
+"About" = "About";
+
+"Save" = "保存";
+"Update"  = "更新";
+"Edit" = "編集";
+"Delete" = "削除";
+"Cancel" = "キャンセル";
+"Back" = "戻る";
+"Close" = "閉じる";
+
+"Day" = "日";
+"Week" = "週";
+"Month" = "月";
+
+"Group" = "グループ";
+"Groups" = "グループ";
+"Activity type" = "ログ";
+
+"Name" = "名前";
+"Image" = "アイコン";
+"Color" = "色";
+"Icon" = "アイコン";
+"Select icon" = "Select icon";
+
+"Number of activities" = "ログ数";
+"Restore" = "復元";
+
+// Activities
+"Are you sure you want to pause the activity?" = "記録を中断しますか？";
+"Are you sure you want to stop the activity?" = "記録を停止しますか？";
+"Are you sure you want to resume the activity?" = "記録を再開しますか？";
+"Are you sure you want to pause/stop running activities and resume this one?" = "現在の記録を中断／停止してこの記録を再開しますか？";
+"Are you sure you want to start the activity?" = "記録を開始しますか？";
+"Are you sure you want to pause/stop running activities and start this one?" = "現在の記録を中断／停止してこの記録を開始しますか？";
+"Create activity" = "ログの作成";
+"Edit activity" = "編集";
+"Intervals" = "間隔";
+"Running" = "記録中";
+"Paused" = "中断";
+"Stopped" = "停止";
+"Touch «+» to add time interval" = "時間を追加するには＋をタップ";
+"Enter comment" = "コメントの入力";
+"Time Left" = "経過時間";
+"Overtime" = "超過時間";
+
+"Date range" = "期間";
+"Select range" = "期間の選択";
+"Send by email" = "メールで送信";
+"Select activity type" = "ログの選択";
+"Select type" = "ログの選択";
+"Create report" = "レポートの作成";
+"Creating report..." = "レポートの作成...";
+"Report" = "レポート";
+"Select format" = "フォーマットの選択";
+"Export" = "エクスポート";
+
+"Twitter" = "Twitter";
+"Untracked time" = "非記録時間";
+"Details" = "詳細";
+"None" = "なし";
+"Stop" = "停止";
+"Pause" = "中断";
+"Start" = "開始";
+"Resume" = "再開";
+"Planned duration" = "予定時間";
+"Comment" = "コメント";
+"Today" = "今日";
+"Yesterday" = "昨日";
+
+// Notifications. Used when planned duration is set. If we set planned duration to sleep then notification  with text 'Sleep : Time to finish' will appear
+"Time to finish" = "終了時刻";
+
+// Intervals
+"Edit interval" = "期間の編集";
+"From" = "開始日";
+"To" = "終了日";
+"Duration" = "時間";
+
+// Format
+"%dh %dm" = "%d時間 %d分";
+"%dm" = "%d分";
+"%dh" = "%時間";
+"< 1m" = "< 1分";
+"MMMM d" = "MM月 d日";
+"MMM dd" = "MM月 d日";
+
+// History
+"Total time tracked" = "合計時間";
+"Nothing tracked for selected period" = "この期間には記録がありません";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "＋をタップして期間を変更するか、別の記録アイコンを選択してください";
+
+// Activity Types
+"Create group" = "グループの作成";
+"Create type" = "ログの作成";
+"Edit group" = "グループの編集";
+"Edit type" = "ログの編集";
+"Bar chart" = "棒グラフ";
+"Total time" = "合計時間";
+"Days" = "日";
+"Hours" = "時間";
+"No activity types" = "ログが存在しません";
+"You can't track anything without activity types. Click «+» to add activity type" = "ログがないと記録を取ることができません。＋をタップしてログを作成してください。";
+"Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+
+// Reports
+"All" = "全て";
+"%d activity types" = "%d 種類";
+"Show 'Other' time" = "非記録時間を表示";
+"Other" = "その他";
+
+// Backups
+"Backups" = "バックアップ";
+"Backup details" = "バックアップの詳細";
+"Create backup" = "バックアップの作成";
+"Edit backup" = "バックアップの編集";
+"Restoring backup..." = "バックアップの復元中...";
+"Restore complete" = "復元が完了しました";
+"Restored successfully" = "復元が成功しました";
+
+// More
+"Version" = "Version";
+"Help" = "ヘルプ";
+"Loading..." = "Loading...";
+"Contact us" = "Contact us";
+"Review us on iTunes" = "Review us on iTunes";
+"Follow us on Twitter" = "Twitterでフォローする";
+"Like us on Facebook" = "Facebookでいいね！を押す";
+
+// Settings
+"Week starts on" = "開始曜日";
+"Theme" = "テーマ";
+"Action on start" = "開始時の動作";
+"Warnings" = "警告";
+"Formats" = "形式";
+"Advanced" = "詳細";
+"Select theme" = "テーマの選択";
+"Select day" = "日付の選択";
+"Select action" = "開始時の動作";
+"Time picker interval" = "時間間隔の設定";
+"%d minutes" = "%d 分";
+"%d min" = "%d 分";
+"Activity status change" = "ログの変更時";
+
+// Warnings
+"Warning" = "警告";
+"Delete time interval?" = "削除しますか？";
+"Delete activity?" = "記録を削除しますか？";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "ログを削除するとその記録がすべて削除されます。よろしいですか？";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "グループを削除するとそのサブグループ、ログ、記録がすべて削除されます。よろしいですか？";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "復元すると過去の記録が削除されてバックアップデータで上書きされます。よろしいですか？";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "すでにグループが作成されているため、設定を無効にできませんでした。まずグループを削除してください";
+"welcome.message" = "aTimelogger 2にようこそ！初めての起動です。初めて使う方のための簡易マニュアルと旧バージョンからの移行手順を案内しています。";
+"Welcome" = "ようこそ";
+"View" = "表示する";
+"No, thanks" = "表示しない";
+
+// Predefined Activity Types
+"Sleep" = "睡眠";
+"Transport" = "移動";
+"Work" = "仕事";
+"Eat" = "食事";
+"Sport" = "運動";
+"Read" = "読書";
+"Shop" = "買い物";
+"Entertainment" = "娯楽";
+"Housework" = "家事";
+"Cinema" = "映画";
+"Walk" = "散歩";
+"Study" = "勉強";
+"Internet" = "インターネット";
+"Drink" = "飲み";
+
+// Days of week
+"Monday" = "月曜日";
+"Tuesday" = "火曜日";
+"Wednesday" = "水曜日";
+"Thursday" = "木曜日";
+"Friday" = "金曜日";
+"Saturday" = "土曜日";
+"Sunday" = "日曜日";

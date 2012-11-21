@@ -1,0 +1,191 @@
+"Activities" = "Активности";
+"History" = "История";
+"Activity types" = "Типы активностей";
+"Types" = "Типы";
+"tab.category" = "Типы";
+"More" = "Еще";
+"Backup/Restore" = "Бэкапы";
+"Reports" = "Отчеты";
+"Settings" = "Настройки";
+"About" = "О программе";
+
+"Save" = "Сохранить";
+"Update" = "Сохранить";
+"Edit" = "Ред";
+"Delete" = "Удалить";
+"Cancel" = "Отмена";
+"Back" = "Назад";
+"Close" = "Закрыть";
+
+"Day" = "День";
+"Week" = "Неделя";
+"Month" = "Месяц";
+
+"Group" = "Группа";
+"Groups" = "Группы";
+"Activity type" = "Тип активности";
+
+"Name" = "Имя";
+"Image" = "Иконка";
+"Color" = "Цвет";
+"Icon" = "Иконка";
+"Select icon" = "Выберите иконку";
+
+"Number of activities" = "Активности";
+"Restore" = "Восстановить";
+
+// Activities
+"Are you sure you want to pause the activity?" = "Поставить активность на паузу?";
+"Are you sure you want to stop the activity?" = "Остановить активность?";
+"Are you sure you want to resume the activity?" = "Продолжить активность?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "Продолжить активность и остановить/поставить на паузу текущие активности?";
+"Are you sure you want to start the activity?" = "Начать новую активность?";
+"Are you sure you want to pause/stop running activities and start this one?" = "Начать новую активность и остановить/поставить на паузу текущие активности?";
+"Create activity" = "";
+"Edit activity" = "";
+"Intervals" = "Интервалы";
+"Running" = "Активно";
+"Paused" = "Пауза";
+"Stopped" = "Закончено";
+"Touch «+» to add time interval" = "Нажмите «+» чтобы добавить интервал";
+"Enter comment" = "Введите комментарий";
+"Time Left" = "Time Left";
+"Overtime" = "Overtime";
+
+"Date range" = "Период";
+"Select range" = "Выберите период";
+"Create backup" = "Создать бэкап";
+"Send by email" = "Послать на email";
+"Select activity type" = "Выберите тип активности";
+"Select type" = "Select type";
+"Create report" = "Создать отчет";
+"Creating report..." = "Создание отчета...";
+"Report" = "Отчет";
+"Select format" = "Выберите формат";
+"Export" = "Экспорт";
+
+"Twitter" = "Twitter";
+"Untracked time" = "Незаписанное Время";
+"Details" = "Детали";
+"None" = "Нет";
+"Stop" = "Стоп";
+"Pause" = "Пауза";
+"Start" = "Начать";
+"Resume" = "Продолжить";
+"Planned duration" = "План";
+"Comment" = "Комментарий";
+"Today" = "Сегодня";
+"Yesterday" = "Вчера";
+
+// Notifications
+"Time to finish" = "Пора заканчивать";
+
+// Intervals
+"Edit interval" = "";
+"From" = "Начало";
+"To" = "Конец";
+"Duration" = "Продолжительность";
+
+// Format
+"%dh %dm" = "%dч %dм";
+"%dm" = "%dм";
+"%dh" = "%dч";
+"< 1m" = "< 1м";
+"MMMM d" = "MMMM d";
+"MMM dd" = "MMM dd";
+
+// History
+"Total time tracked" = "Всего записано";
+"Nothing tracked for selected period" = "Нет записей в выбранном промежутке времени";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "Смените промежуток или нажмите «+» чтобы записать прошедшую активность";
+
+// Categories
+"Create group" = "Новая группа";
+"Create type" = "Новый тип";
+"Edit group" = "Группа";
+"Edit type" = "";
+"Bar chart" = "Диаграмма";
+"Total time" = "Всего";
+"Days" = "Дни";
+"Hours" = "Часы";
+"No activity types" = "Нет типов активности";
+"You can't track anything without activity types. Click «+» to add activity type" = "Нельзя делать записи без типов активностей. Нажмите «+» чтобы добавить тип";
+"Click «Cancel» to discard or «Update» to apply changes" = "Нажмите «Отмена» чтобы отменить изменения или «Сохранить» чтобы изменения вступили в силу";
+
+// Reports
+"All" = "Все";
+"%d activity types" = "%d типов";
+"Show 'Other' time" = "Показывать 'Другое'";
+"Other" = "Другое";
+
+// Backups
+"Backups" = "Бэкапы";
+"Backup details" = "Детали";
+"Create backup" = "Создать бэкап";
+"Edit backup" = "Бэкап";
+"Restoring backup..." = "Восстанавливаю копию...";
+"Restore complete" = "Восстановление завершено";
+"Restored successfully" = "Восстановление завершено успешно";
+
+// More
+"Version" = "Версия";
+"Help" = "Помощь";
+"Loading..." = "Загрузка...";
+"Contact us" = "Связаться с нами";
+"Review us on iTunes" = "Написать отзыв в iTunes";
+"Follow us on Twitter" = "Читать нас в Twitter";
+"Like us on Facebook" = "Лайкнуть в Facebook";
+
+// Settings
+"Week starts on" = "Начало недели";
+"Theme" = "Тема";
+"Action on start" = "Действие при старте";
+"Warnings" = "Предупреждения";
+"Formats" = "Форматы";
+"Advanced" = "Продвинутый";
+"Select theme" = "Выберите тему";
+"Select day" = "Выберите день";
+"Select action" = "Выберите действие";
+"Time picker interval" = "Интервал в пикере";
+"%d minutes" = "%d минут";
+"%d min" = "%d мин";
+"Activity status change" = "Изменение статуса активности";
+
+// Warnings
+"Warning" = "Внимание";
+"Delete time interval?" = "Удалить интервал?";
+"Delete activity?" = "Удалить активность?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "Вместе с типом активности будут удалены все его записи. Вы уверены?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "Вместе с группой будут удалены подгруппы, типы активностей и их записи. Вы уверены?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "Восстановление перепишет все Ваши данные. Вы уверены?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Sorry. You have groups created. Disabling groups is not possible. Delete groups first";
+"welcome.message" = "Это Ваш первый запуск aTimeLogger 2. Мы приготовили статью для новичков и руководство для пользователей aTimeLogger 1.x.";
+"Welcome" = "Добро пожаловать";
+"View" = "Посмотреть";
+"No, thanks" = "Нет, спасибо";
+
+
+// Categories
+"Sleep" = "Сон";
+"Transport" = "Транспорт";
+"Work" = "Работа";
+"Eat" = "Еда";
+"Sport" = "Спорт";
+"Read" = "Чтение";
+"Shop" = "Магазин";
+"Entertainment" = "Развлечения";
+"Housework" = "Работа по дому";
+"Cinema" = "Кино";
+"Walk" = "Прогулка";
+"Study" = "Учеба";
+"Internet" = "Интернет";
+"Drink" = "Алкоголь";
+
+// Days of week
+"Monday" = "Понедельник";
+"Tuesday" = "Вторник";
+"Wednesday" = "Среда";
+"Thursday" = "Четверг";
+"Friday" = "Пятница";
+"Saturday" = "Суббота";
+"Sunday" = "Воскресенье";
