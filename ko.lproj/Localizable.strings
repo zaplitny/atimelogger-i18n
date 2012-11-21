@@ -9,13 +9,13 @@
 "Settings" = "Settings";
 "About" = "About";
 
-"Save" = "Save";
-"Update"  = "Update";
-"Edit" = "Edit";
-"Delete" = "Delete";
-"Cancel" = "Cancel";
-"Back" = "Back";
-"Close" = "Close";
+"Save" = "저장";
+"Update"  = "업데이트";
+"Edit" = "수정";
+"Delete" = "삭제";
+"Cancel" = "취소";
+"Back" = "뒤로";
+"Close" = "닫기";
 
 "Day" = "Day";
 "Week" = "Week";
