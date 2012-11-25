@@ -35,12 +35,12 @@
 "Restore" = "저장";
 
 // Activities
-"Are you sure you want to pause the activity?" = "이 활동을 일시정지 하시겠습니까?";
-"Are you sure you want to stop the activity?" = "이 활동을 마치시겠습니까?";
-"Are you sure you want to resume the activity?" = "이 활동을 다시 시작하시겠습니까?";
-"Are you sure you want to pause/stop running activities and resume this one?" = "진행 중인 활동을 일시정지/정지하고 이 활동을 다시 시작하시겠습니까?";
-"Are you sure you want to start the activity?" = "이 활동을 시작하시겠습니까?";
-"Are you sure you want to pause/stop running activities and start this one?" = "진행 중인 활동을 일시정지/정지하고 이 활동을 시작하시겠습니다.";
+"Are you sure you want to pause the activity?" = "이 활동을 일시정지 하실건가요?";
+"Are you sure you want to stop the activity?" = "이 활동을 마치실건가요?";
+"Are you sure you want to resume the activity?" = "이 활동을 다시 시작하실건가요?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "진행 중인 활동을 일시정지/정지하고 이 활동을 다시 시작하실건가요?";
+"Are you sure you want to start the activity?" = "이 활동을 시작하실건가요?";
+"Are you sure you want to pause/stop running activities and start this one?" = "진행 중인 활동을 일시정지/정지하고 이 활동을 시작하실건가요?";
 "Create activity" = "활동 생성";
 "Edit activity" = "활동 편집";
 "Intervals" = "활동시간";
@@ -67,8 +67,8 @@
 "Untracked time" = "누락 시간";
 "Details" = "세부설명";
 "None" = "동시진행";
-"Stop" = "마침";
-"Pause" = "일시정지";
+"Stop" = "진행중인 활동 종료";
+"Pause" = "진행중인 활동 일시정지";
 "Start" = "시작";
 "Resume" = "다시 시작";
 "Planned duration" = "시간 계획";
@@ -81,8 +81,8 @@
 
 // Intervals
 "Edit interval" = "활동시간 편집";
-"From" = "From";
-"To" = "To";
+"From" = "시작";
+"To" = "끝";
 "Duration" = "활동시간";
 
 // Format
@@ -95,7 +95,7 @@
 
 // History
 "Total time tracked" = "총 기록시간";
-"Nothing tracked for selected period" = "해당시간에 기록이 없습니다";
+"Nothing tracked for selected period" = "해당시간에 기록이 없어요";
 "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "활동기간 변경이나 활동시작/다시시작하시려면 «+»을 탭해주시고, 새로운 활동을 하시려면 활동아이콘을 탭해주세요";
 
 // Categories
@@ -107,7 +107,7 @@
 "Total time" = "총 시간";
 "Days" = "일";
 "Hours" = "시간";
-"No activity types" = "활동유형 없음";
+"No activity types" = "활동유형이 없어요";
 "You can't track anything without activity types. Click «+» to add activity type" = "활동유형을 선택해주세요. 활동유형을 추가하시려면 «+»을 탭해주세요";
 "Click «Cancel» to discard or «Update» to apply changes" = "삭제하시려면 «취소»를, 변경사항을 적용하시려면 «업데이트»를 탭해주세요";
 
@@ -124,7 +124,7 @@
 "Edit backup" = "백업 편집";
 "Restoring backup..." = "백업 저장 중...";
 "Restore complete" = "저장 완료";
-"Restored successfully" = "저장 완료되었습니다";
+"Restored successfully" = "성공적으로 저장되었어요";
 
 // More
 "Version" = "버젼";
@@ -138,8 +138,8 @@
 // Settings
 "Week starts on" = "한 주의 시작";
 "Theme" = "테마";
-"Action on start" = "Action on start";
-"Warnings" = "주의!";
+"Action on start" = "다른활동 진행 중일때, 새로운 시작";
+"Warnings" = "잠깐!";
 "Formats" = "표시형식";
 "Advanced" = "고급설정";
 "Select theme" = "테마 설정";
@@ -152,16 +152,16 @@
 
 // Warnings
 "Warning" = "잠깐!";
-"Delete time interval?" = "활동시간을 삭제하시겠습니까?";
-"Delete activity?" = "활동을 삭제하시겠습니까?";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "활동유형을 삭제하시면 모든 기록이 삭제됩니다. 삭제하시겠습니까?";
-"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "그룹을 삭제하시면 모든 하위그룹, 활동유형, 모든 기록이 삭제됩니다. 삭제하시겠습니까?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "저장하시면 기존의 기록을 삭제하고 백업된 기록으로 덮어씁니다. 저장하시겠습니까?";
-"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "이미 그룹을 생성하셨기 때문에 그룹비활성화 하실 수 없습니다. 먼저 그룹을 삭제하십시오.";
-"welcome.message" = "aTimeLogger 2에 첫방문 하신 것을 축하드립니다! 간단한 사용설명과 aTimeLogger 1.x 을 사용하다가 오신 분들을 위한 튜토리얼이 있습니다.";
-"Welcome" = "환영합니다";
-"View" = "보기";
-"No, thanks" = "아뇨, 괜찮습니다.";
+"Delete time interval?" = "활동시간을 삭제하실건가요?";
+"Delete activity?" = "활동을 삭제하실건가요?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "활동유형을 삭제하시면 모든 기록이 삭제돼요. 삭제하실건가요?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "그룹을 삭제하시면 모든 하위그룹, 활동유형, 모든 기록이 삭제돼요. 삭제하실건가요?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "저장하시면 기존의 기록을 삭제하고 백업된 기록으로 덮어씌워져요. 저장하실건가요?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "이미 그룹을 생성하셨기 때문에 그룹비활성화를 하실 수 없어요. 먼저 그룹을 삭제해주세요.";
+"welcome.message" = "aTimeLogger 2에 첫방문을 축하드려요! 처음사용하시는 분들을 위한 사용설명과 함께 aTimeLogger 1.x에서 오신 분들을 위한 간단한 튜토리얼이 준비되어 있어요.";
+"Welcome" = "안녕하세요!:D";
+"View" = "지금 볼게요";
+"No, thanks" = "아뇨, 괜찮아요";
 
 //Categories
 "Sleep" = "잠";
@@ -177,7 +177,7 @@
 "Walk" = "걷기";
 "Study" = "공부";
 "Internet" = "인터넷";
-"Drink" = "음주";
+"Drink" = "술자리";
 
 // Days of week
 "Monday" = "월요일";
