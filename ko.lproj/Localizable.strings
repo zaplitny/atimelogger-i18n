@@ -47,7 +47,7 @@
 "Running" = "진행중";
 "Paused" = "일시정지";
 "Stopped" = "마침";
-"Touch «+» to add time interval" = "활동시간을 추가하시려면 «+»를 눌러주세요";
+"Touch «+» to add time interval" = "활동시간을 추가하시려면 «+»를 탭해주세요";
 "Enter comment" = "세부설명 추가";
 "Time Left" = "남은 시간";
 "Overtime" = "시간 초과";
@@ -72,62 +72,62 @@
 "Start" = "시작";
 "Resume" = "다시 시작";
 "Planned duration" = "시간 계획";
-"Comment" = "Comment";
+"Comment" = "설명";
 "Today" = "오늘";
 "Yesterday" = "어제";
 
 // Notifications
-"Time to finish" = "Time to finish";
+"Time to finish" = "종료 시간";
 
 // Intervals
-"Edit interval" = "Edit interval";
+"Edit interval" = "활동시간 편집";
 "From" = "From";
 "To" = "To";
-"Duration" = "Duration";
+"Duration" = "활동시간";
 
 // Format
-"%dh %dm" = "%dh %dm";
-"%dm" = "%dm";
-"%dh" = "%dh";
-"< 1m" = "< 1m";
+"%dh %dm" = "%d시간 %d분";
+"%dm" = "%d분";
+"%dh" = "%d시간";
+"< 1m" = "1분 이하";
 "MMMM d" = "MMMM d";
 "MMM dd" = "MMM dd";
 
 // History
-"Total time tracked" = "Total time tracked";
-"Nothing tracked for selected period" = "Nothing tracked for selected period";
-"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity";
+"Total time tracked" = "총 기록시간";
+"Nothing tracked for selected period" = "해당시간에 기록이 없습니다";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "활동기간 변경이나 활동시작/다시시작하시려면 «+»을 탭해주시고, 새로운 활동을 하시려면 활동아이콘을 탭해주세요";
 
 // Categories
-"Create group" = "그룹 만들기";
-"Create type" = "활동유형 만들기";
-"Edit group" = "그룹 수정";
-"Edit type" = "활동유형 수정";
-"Bar chart" = "막대 그래프";
+"Create group" = "그룹 생성";
+"Create type" = "활동유형 생성";
+"Edit group" = "그룹 편집";
+"Edit type" = "활동유형 편집";
+"Bar chart" = "막대그래프";
 "Total time" = "총 시간";
-"Days" = "Days";
-"Hours" = "Hours";
-"No activity types" = "No activity types";
-"You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
-"Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+"Days" = "일";
+"Hours" = "시간";
+"No activity types" = "활동유형 없음";
+"You can't track anything without activity types. Click «+» to add activity type" = "활동유형을 선택해주세요. 활동유형을 추가하시려면 «+»을 탭해주세요";
+"Click «Cancel» to discard or «Update» to apply changes" = "삭제하시려면 «취소»를, 변경사항을 적용하시려면 «업데이트»를 탭해주세요";
 
 // Reports
 "All" = "모두";
-"%d activity types" = "%d 활동 유형";
-"Show 'Other' time" = "Show 'Other' time";
-"Other" = "Other";
+"%d activity types" = "%d가지 활동유형";
+"Show 'Other' time" = "그 외 시간 표시";
+"Other" = "그 외 시간";
 
 // Backups
 "Backups" = "백업";
-"Backup details" = "Backup details";
-"Create backup" = "Create backup";
-"Edit backup" = "백업 수정";
-"Restoring backup..." = "백업 복원...";
-"Restore complete" = "복원 완료";
-"Restored successfully" = "복원 완료되었습니다.";
+"Backup details" = "백업 세부사항";
+"Create backup" = "백업 생성";
+"Edit backup" = "백업 편집";
+"Restoring backup..." = "백업 저장 중...";
+"Restore complete" = "저장 완료";
+"Restored successfully" = "저장 완료되었습니다";
 
 // More
-"Version" = "Version";
+"Version" = "버젼";
 "Help" = "도움말";
 "Loading..." = "진행 중...";
 "Contact us" = "Contact us";
@@ -140,28 +140,28 @@
 "Theme" = "테마";
 "Action on start" = "Action on start";
 "Warnings" = "주의!";
-"Formats" = "표시 형식";
-"Advanced" = "Advanced";
-"Select theme" = "Select theme";
+"Formats" = "표시형식";
+"Advanced" = "고급설정";
+"Select theme" = "테마 설정";
 "Select day" = "날짜 선택";
 "Select action" = "활동 선택";
 "Time picker interval" = "시간 기록 단위";
 "%d minutes" = "%d 분 간격";
 "%d min" = "%d 분";
-"Activity status change" = "Activity status change";
+"Activity status change" = "활동상태 변경";
 
 // Warnings
 "Warning" = "잠깐!";
-"Delete time interval?" = "시간기록을 삭제하시겠습니까?";
+"Delete time interval?" = "활동시간을 삭제하시겠습니까?";
 "Delete activity?" = "활동을 삭제하시겠습니까?";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "Deleting activity type will delete all its recorded activities. Are you sure?";
-"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "Restore will delete old data and overwrites with backed up data. Are you sure?";
-"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Sorry. You have groups created. Disabling groups is not possible. Delete groups first";
-"welcome.message" = "It's your first run of aTimeLogger 2. We prepared quick introduction for new users and migration tutorial for aTimeLogger 1.x users.";
-"Welcome" = "Welcome";
-"View" = "View";
-"No, thanks" = "No, thanks";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "활동유형을 삭제하시면 모든 기록이 삭제됩니다. 삭제하시겠습니까?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "그룹을 삭제하시면 모든 하위그룹, 활동유형, 모든 기록이 삭제됩니다. 삭제하시겠습니까?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "저장하시면 기존의 기록을 삭제하고 백업된 기록으로 덮어씁니다. 저장하시겠습니까?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "이미 그룹을 생성하셨기 때문에 그룹비활성화 하실 수 없습니다. 먼저 그룹을 삭제하십시오.";
+"welcome.message" = "aTimeLogger 2에 첫방문 하신 것을 축하드립니다! 간단한 사용설명과 aTimeLogger 1.x 을 사용하다가 오신 분들을 위한 튜토리얼이 있습니다.";
+"Welcome" = "환영합니다";
+"View" = "보기";
+"No, thanks" = "아뇨, 괜찮습니다.";
 
 //Categories
 "Sleep" = "잠";
