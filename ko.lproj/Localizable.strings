@@ -1,17 +1,17 @@
 "Activities" = "활동";
 "History" = "히스토리";
-"Activity types" = "활동 유형";
+"Activity types" = "활동유형";
 "Types" = "유형";
 "tab.category" = "카테고리";
-"More" = "More";
-"Backup/Restore" = "Backup/Restore";
-"Reports" = "Reports";
-"Settings" = "Settings";
-"About" = "About";
+"More" = "더 보기";
+"Backup/Restore" = "백업/저장";
+"Reports" = "보고서";
+"Settings" = "설정";
+"About" = "자세히";
 
 "Save" = "저장";
 "Update"  = "업데이트";
-"Edit" = "수정";
+"Edit" = "편집";
 "Delete" = "삭제";
 "Cancel" = "취소";
 "Back" = "뒤로";
@@ -22,55 +22,55 @@
 "Month" = "월";
 
 "Group" = "그룹";
-"Groups" = "그룹";
-"Activity type" = "활동 유형";
+"Groups" = "그룹기능";
+"Activity type" = "활동유형";
 
-"Name" = "활동 이름";
+"Name" = "이름";
 "Image" = "이미지";
 "Color" = "색상";
 "Icon" = "아이콘";
 "Select icon" = "아이콘 선택";
 
-"Number of activities" = "Number of activities";
-"Restore" = "Restore";
+"Number of activities" = "활동횟수";
+"Restore" = "저장";
 
 // Activities
 "Are you sure you want to pause the activity?" = "이 활동을 일시정지 하시겠습니까?";
 "Are you sure you want to stop the activity?" = "이 활동을 마치시겠습니까?";
-"Are you sure you want to resume the activity?" = "이 활동을 재개 하시겠습니까?";
-"Are you sure you want to pause/stop running activities and resume this one?" = "Are you sure you want to pause/stop running activities and resume this one?";
-"Are you sure you want to start the activity?" = "Are you sure you want to start the activity?";
-"Are you sure you want to pause/stop running activities and start this one?" = "Are you sure you want to pause/stop running activities and start this one?";
-"Create activity" = "Create activity";
-"Edit activity" = "Edit activity";
-"Intervals" = "간격";
-"Running" = "진행중인";
-"Paused" = "일시정지된";
-"Stopped" = "마친";
-"Touch «+» to add time interval" = "시간간격을 추가하시려면 «+»을 눌러주세요";
+"Are you sure you want to resume the activity?" = "이 활동을 다시 시작하시겠습니까?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "진행 중인 활동을 일시정지/정지하고 이 활동을 다시 시작하시겠습니까?";
+"Are you sure you want to start the activity?" = "이 활동을 시작하시겠습니까?";
+"Are you sure you want to pause/stop running activities and start this one?" = "진행 중인 활동을 일시정지/정지하고 이 활동을 시작하시겠습니다.";
+"Create activity" = "활동 생성";
+"Edit activity" = "활동 편집";
+"Intervals" = "활동시간";
+"Running" = "진행중";
+"Paused" = "일시정지";
+"Stopped" = "마침";
+"Touch «+» to add time interval" = "활동시간을 추가하시려면 «+»를 눌러주세요";
 "Enter comment" = "세부설명 추가";
-"Time Left" = "Time Left";
+"Time Left" = "남은 시간";
 "Overtime" = "시간 초과";
 
-"Date range" = "데이터 범위";
+"Date range" = "날짜범위";
 "Select range" = "범위 설정";
 "Send by email" = "메일로 보내기";
-"Select activity type" = "활동 유형 선택";
+"Select activity type" = "활동유형 선택";
 "Select type" = "유형 선택";
 "Create report" = "보고서 작성";
 "Creating report..." = "보고서 작성 중...";
 "Report" = "보고서";
 "Select format" = "표시형식 선택";
-"Export" = "Export";
+"Export" = "내보내기";
 
 "Twitter" = "트위터";
-"Untracked time" = "Untracked time";
+"Untracked time" = "누락 시간";
 "Details" = "세부설명";
-"None" = "None";
+"None" = "동시진행";
 "Stop" = "마침";
 "Pause" = "일시정지";
 "Start" = "시작";
-"Resume" = "Resume";
+"Resume" = "다시 시작";
 "Planned duration" = "시간 계획";
 "Comment" = "Comment";
 "Today" = "오늘";
