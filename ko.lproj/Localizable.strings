@@ -71,12 +71,31 @@
 "Pause" = "진행중인 활동 일시정지";
 "Start" = "시작";
 "Resume" = "다시 시작";
-"Planned duration" = "시간 계획";
 "Comment" = "설명";
 "Today" = "오늘";
 "Yesterday" = "어제";
 
 // Notifications
+"Planned duration" = "시간 계획";
+"Planned finish" = "Planned finish";
+"Alert time" = "Alert time";
+"At time of event" = "At time of event";
+"1 min before" = "1 min before";
+"5 min before" = "5 min before";
+"10 min before" = "10 min before";
+"15 min before" = "15 min before";
+"Repeat interval" = "Repeat interval";
+"Every 5 min" = "Every 5 min";
+"Every 10 min" = "Every 10 min";
+"Every 15 min" = "Every 15 min";
+"Repeat times" = "Repeat times";
+"Never" = "Never";
+"Forever" = "Forever";
+"1 time" = "1 time";
+"2 times" = "2 times";
+"3 times" = "3 times";
+"4 times" = "4 times";
+"5 times" = "5 times";
 "Time to finish" = "종료 시간";
 
 // Intervals
@@ -91,6 +110,7 @@
 "%dh" = "%d시간";
 "< 1m" = "1분 이하";
 "MMMM d" = "MMMM d";
+"MMMM d, ccc" = "MMMM d, ccc";
 "MMM dd" = "MMM dd";
 
 // History
@@ -134,6 +154,10 @@
 "Review us on iTunes" = "iTunes에서 평가";
 "Follow us on Twitter" = "Twitter에서 팔로우";
 "Like us on Facebook" = "Facebook에서 좋아요";
+"Credits" = "Credits";
+"Icon design" = "Icon design";
+"Japanese" = "Japanese";
+"Korea Distributor" = "Korea Distributor";
 
 // Settings
 "Week starts on" = "한 주의 시작";
@@ -149,6 +173,9 @@
 "%d minutes" = "%d 분 간격";
 "%d min" = "%d 분";
 "Activity status change" = "활동상태 변경";
+"Select interval" = "Select interval";
+"Day format" = "Day format";
+"Duration format" = "Duration format";
 
 // Warnings
 "Warning" = "잠깐!";
