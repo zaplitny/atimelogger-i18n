@@ -72,12 +72,31 @@
 "Pause" = "Пауза";
 "Start" = "Начать";
 "Resume" = "Продолжить";
-"Planned duration" = "План";
 "Comment" = "Комментарий";
 "Today" = "Сегодня";
 "Yesterday" = "Вчера";
 
 // Notifications
+"Planned duration" = "План";
+"Planned finish" = "Planned finish";
+"Alert time" = "Уведомлять";
+"At time of event" = "Во время события";
+"1 min before" = "За 1 минуту ";
+"5 min before" = "За 5 минут";
+"10 min before" = "За 10 минут";
+"15 min before" = "За 15 минут";
+"Repeat interval" = "Повторять";
+"Every 5 min" = "Каждые 5 минут";
+"Every 10 min" = "Каждые 10 минут";
+"Every 15 min" = "Каждые 15 минут";
+"Repeat times" = "Кол-во повторений";
+"Never" = "Никогда";
+"Forever" = "Всегда";
+"1 time" = "1 раз";
+"2 times" = "2 раза";
+"3 times" = "3 раза";
+"4 times" = "4 раза";
+"5 times" = "5 раз";
 "Time to finish" = "Пора заканчивать";
 
 // Intervals
@@ -92,6 +111,7 @@
 "%dh" = "%dч";
 "< 1m" = "< 1м";
 "MMMM d" = "MMMM d";
+"MMMM d, ccc" = "MMMM d, ccc";
 "MMM dd" = "MMM dd";
 
 // History
@@ -135,6 +155,10 @@
 "Review us on iTunes" = "Написать отзыв в iTunes";
 "Follow us on Twitter" = "Читать нас в Twitter";
 "Like us on Facebook" = "Лайкнуть в Facebook";
+"Credits" = "Огромное спасибо";
+"Icon design" = "Дизайн иконки";
+"Japanese" = "Японский";
+"Korea Distributor" = "Корейский";
 
 // Settings
 "Week starts on" = "Начало недели";
@@ -150,6 +174,9 @@
 "%d minutes" = "%d минут";
 "%d min" = "%d мин";
 "Activity status change" = "Изменение статуса активности";
+"Select interval" = "Выберите интервал";
+"Day format" = "Формат дня";
+"Duration format" = "Формат длительности";
 
 // Warnings
 "Warning" = "Внимание";
