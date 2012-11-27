@@ -1,0 +1,189 @@
+"Activities" = "活动";
+"History" = "History";
+"Activity types" = "类别";
+"Types" = "类别";
+"tab.category" = "类别";
+"More" = "更多";
+"Backup/Restore" = "备份/恢复";
+"Reports" = "报告";
+"Settings" = "设置";
+"About" = "关于";
+
+"Save" = "保存";
+"Update"  = "Update";
+"Edit" = "编辑";
+"Delete" = "删除";
+"Cancel" = "取消";
+"Back" = "Back";
+"Close" = "Close";
+
+"Day" = "天";
+"Week" = "星期";
+"Month" = "月份";
+
+"Group" = "组";
+"Groups" = "Groups";
+"Activity type" = "Activity type";
+
+"Name" = "名称";
+"Image" = "Image";
+"Color" = "Color";
+"Icon" = "图标";
+"Select icon" = "Select icon";
+
+"Number of activities" = "Number of activities";
+"Restore" = "恢复";
+
+// Activities
+"Are you sure you want to pause the activity?" = "Are you sure you want to pause the activity?";
+"Are you sure you want to stop the activity?" = "Are you sure you want to stop the activity?";
+"Are you sure you want to resume the activity?" = "Are you sure you want to resume the activity?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "Are you sure you want to pause/stop running activities and resume this one?";
+"Are you sure you want to start the activity?" = "Are you sure you want to start the activity?";
+"Are you sure you want to pause/stop running activities and start this one?" = "Are you sure you want to pause/stop running activities and start this one?";
+"Create activity" = "Create activity";
+"Edit activity" = "Edit activity";
+"Intervals" = "Intervals";
+"Running" = "Running";
+"Paused" = "Paused";
+"Stopped" = "Stopped";
+"Touch «+» to add time interval" = "Touch «+» to add time interval";
+"Enter comment" = "Enter comment";
+"Time Left" = "Time Left";
+"Overtime" = "Overtime";
+
+"Date range" = "日期范围";
+"Select range" = "Select range";
+"Send by email" = "通过邮件发送";
+"Select activity type" = "选择类别";
+"Select type" = "选择类别";
+"Create report" = "Create report";
+"Creating report..." = "Creating report...";
+"Report" = "报告";
+"Select format" = "选择导出格式";
+"Export" = "导出";
+
+"Twitter" = "Twitter";
+"Untracked time" = "未记录的时间";
+"Details" = "Details";
+"None" = "None";
+"Stop" = "Stop";
+"Pause" = "Pause";
+"Start" = "开始";
+"Resume" = "Resume";
+"Planned duration" = "预期时间长度";
+"Comment" = "注释";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+
+// Notifications
+"Time to finish" = "Time to finish";
+
+// Intervals
+"Edit interval" = "Edit interval";
+"From" = "从";
+"To" = "到";
+"Duration" = "期间";
+
+// Format
+"%dh %dm" = "%d小时 %d分钟";
+"%dm" = "%d分钟";
+"%dh" = "%d小时";
+"< 1m" = "< 1m";
+"MMMM d" = "MMMM d";
+"MMM dd" = "MMM dd";
+
+// History
+"Total time tracked" = "记录的时间合计";
+"Nothing tracked for selected period" = "Nothing tracked for selected period";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity";
+
+// Categories
+"Create group" = "Create group";
+"Create type" = "Create type";
+"Edit group" = "Edit group";
+"Edit type" = "Edit type";
+"Bar chart" = "线条图";
+"Total time" = "Total time";
+"Days" = "天";
+"Hours" = "小时";
+"No activity types" = "No activity types";
+"You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
+"Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+
+// Reports
+"All" = "All";
+"%d activity types" = "%d activity types";
+"Show 'Other' time" = "Show 'Other'";
+"Other" = "其他";
+
+// Backups
+"Backups" = "Backups";
+"Backup details" = "Backup details";
+"Create backup" = "Create backup";
+"Edit backup" = "Edit backup";
+"Restoring backup..." = "Restoring backup...";
+"Restore complete" = "Restore complete";
+"Restored successfully" = "Restored successfully";
+
+// More
+"Version" = "版本";
+"Help" = "帮助";
+"Loading..." = "Loading...";
+"Contact us" = "Contact us";
+"Review us on iTunes" = "Review us on iTunes";
+"Follow us on Twitter" = "Follow us on Twitter";
+"Like us on Facebook" = "Like us on Facebook";
+
+// Settings
+"Week starts on" = "每周第一天";
+"Theme" = "主题";
+"Action on start" = "Action on start";
+"Warnings" = "警告";
+"Formats" = "Formats";
+"Advanced" = "Advanced";
+"Select theme" = "Select theme";
+"Select day" = "Select day";
+"Select action" = "Select action";
+"Time picker interval" = "Time picker interval";
+"%d minutes" = "%d 分钟";
+"%d min" = "%d 分钟";
+"Activity status change" = "Activity status change";
+
+// Warnings
+"Warning" = "Warning";
+"Delete time interval?" = "Delete time interval?";
+"Delete activity?" = "Delete activity?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "Deleting activity type will delete all its recorded activities. Are you sure?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "Restore will delete old data and overwrites with backed up data. Are you sure?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Sorry. You have groups created. Disabling groups is not possible. Delete groups first";
+"welcome.message" = "It's your first run of aTimeLogger 2. We prepared quick introduction for new users and migration tutorial for aTimeLogger 1.x users.";
+"Welcome" = "Welcome";
+"View" = "View";
+"No, thanks" = "No, thanks";
+
+//Categories
+"Sleep" = "睡眠";
+"Transport" = "交通";
+"Work" = "工作";
+"Eat" = "用膳";
+"Sport" = "运动";
+"Read" = "阅读";
+"Shop" = "购物";
+"Entertainment" = "娱乐";
+"Housework" = "家务";
+"Cinema" = "电影";
+"Walk" = "步行";
+"Study" = "学习";
+"Internet" = "上网";
+"Drink" = "喝酒";
+
+// Days of week
+"Monday" = "星期一";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "星期六";
+"Sunday" = "星期日";
