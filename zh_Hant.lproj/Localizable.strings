@@ -1,29 +1,29 @@
-"Activities" = "Activities";
-"History" = "History";
-"Activity types" = "Activity types";
-"Types" = "Types";
-"tab.category" = "Types";
-"More" = "More";
-"Backup/Restore" = "Backup/Restore";
-"Reports" = "Reports";
-"Settings" = "Settings";
-"About" = "About";
+"Activities" = "活動";
+"History" = "紀錄";
+"Activity types" = "活動類型";
+"Types" = 類型";
+"tab.category" = "標籤類別";
+"More" = "更多";
+"Backup/Restore" = "備份/還原";
+"Reports" = "還原";
+"Settings" = "設定";
+"About" = "關於";
 
-"Save" = "Save";
-"Update"  = "Update";
-"Edit" = "Edit";
-"Delete" = "Delete";
-"Cancel" = "Cancel";
-"Back" = "Back";
-"Close" = "Close";
+"Save" = "儲存";
+"Update"  = "更新";
+"Edit" = "編輯";
+"Delete" = "刪除";
+"Cancel" = "取消";
+"Back" = "復原";
+"Close" = "關閉";
 
-"Day" = "Day";
-"Week" = "Week";
-"Month" = "Month";
+"Day" = "天";
+"Week" = "週";
+"Month" = "月";
 
-"Group" = "Group";
-"Groups" = "Groups";
-"Activity type" = "Activity type";
+"Group" = "組別";
+"Groups" = "組別";
+"Activity type" = "活動類別";
 
 "Name" = "Name";
 "Image" = "Image";
