@@ -71,12 +71,31 @@
 "Pause" = "Pause";
 "Start" = "Start";
 "Resume" = "Resume";
-"Planned duration" = "Planned duration";
 "Comment" = "Comment";
 "Today" = "Today";
 "Yesterday" = "Yesterday";
 
 // Notifications
+"Planned duration" = "Planned duration";
+"Planned finish" = "Planned finish";
+"Alert time" = "Alert time";
+"At time of event" = "At time of event";
+"1 min before" = "1 min before";
+"5 min before" = "5 min before";
+"10 min before" = "10 min before";
+"15 min before" = "15 min before";
+"Repeat interval" = "Repeat interval";
+"Every 5 min" = "Every 5 min";
+"Every 10 min" = "Every 10 min";
+"Every 15 min" = "Every 15 min";
+"Repeat times" = "Repeat times";
+"Never" = "Never";
+"Forever" = "Forever";
+"1 time" = "1 time";
+"2 times" = "2 times";
+"3 times" = "3 times";
+"4 times" = "4 times";
+"5 times" = "5 times";
 "Time to finish" = "Time to finish";
 
 // Intervals
@@ -91,6 +110,7 @@
 "%dh" = "%dh";
 "< 1m" = "< 1m";
 "MMMM d" = "MMMM d";
+"MMMM d, ccc" = "MMMM d, ccc";
 "MMM dd" = "MMM dd";
 
 // History
@@ -134,6 +154,10 @@
 "Review us on iTunes" = "Review us on iTunes";
 "Follow us on Twitter" = "Follow us on Twitter";
 "Like us on Facebook" = "Like us on Facebook";
+"Credits" = "Credits";
+"Icon design" = "Icon design";
+"Japanese" = "Japanese";
+"Korea Distributor" = "Korea Distributor";
 
 // Settings
 "Week starts on" = "Week starts on";
@@ -149,6 +173,9 @@
 "%d minutes" = "%d minutes";
 "%d min" = "%d min";
 "Activity status change" = "Activity status change";
+"Select interval" = "Select interval";
+"Day format" = "Day format";
+"Duration format" = "Duration format";
 
 // Warnings
 "Warning" = "Warning";
