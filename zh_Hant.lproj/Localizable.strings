@@ -4,8 +4,8 @@
 "Types" = 類型";
 "tab.category" = "標籤類別";
 "More" = "更多";
-"Backup/Restore" = "備份/還原";
-"Reports" = "還原";
+"Backup/Restore" = "備份/復原";
+"Reports" = "回報";
 "Settings" = "設定";
 "About" = "關於";
 
@@ -14,15 +14,15 @@
 "Edit" = "編輯";
 "Delete" = "刪除";
 "Cancel" = "取消";
-"Back" = "復原";
+"Back" = "返回";
 "Close" = "關閉";
 
-"Day" = "天";
+"Day" = "日";
 "Week" = "週";
 "Month" = "月";
 
-"Group" = "組別";
-"Groups" = "組別";
+"Group" = "群組";
+"Groups" = "群組";
 "Activity type" = "活動類別";
 
 "Name" = "名稱";
@@ -31,7 +31,7 @@
 "Icon" = "圖示";
 "Select icon" = "選擇圖示";
 
-"Number of activities" = "活動的數量";
+"Number of activities" = "活動數量";
 "Restore" = "還原";
 
 // Activities
