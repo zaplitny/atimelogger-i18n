@@ -1,171 +1,198 @@
-"Activities" = "Activities";
-"History" = "History";
-"Activity types" = "類別";
-"Types" = "類別";
-"tab.category" = "類別";
+"Activities" = "活動";
+"History" = "紀錄";
+"Activity types" = "活動類型";
+"Types" = 類型";
+"tab.category" = "標籤類別";
 "More" = "更多";
 "Backup/Restore" = "備份/復原";
-"Reports" = "報告";
+"Reports" = "回報";
 "Settings" = "設定";
 "About" = "關於";
 
 "Save" = "儲存";
-"Update"  = "Update";
+"Update"  = "更新";
 "Edit" = "編輯";
 "Delete" = "刪除";
 "Cancel" = "取消";
-"Back" = "Back";
-"Close" = "Close";
+"Back" = "返回";
+"Close" = "關閉";
 
-"Day" = "天";
-"Week" = "星期";
-"Month" = "月份";
+"Day" = "日";
+"Week" = "週";
+"Month" = "月";
 
 "Group" = "群組";
-"Groups" = "Groups";
-"Activity type" = "類別";
+"Groups" = "群組";
+"Activity type" = "活動類別";
 
 "Name" = "名稱";
-"Image" = "Image";
-"Color" = "Color";
+"Image" = "圖片";
+"Color" = "顏色";
 "Icon" = "圖示";
-"Select icon" = "Select icon";
+"Select icon" = "選擇圖示";
 
-"Number of activities" = "Number of activities";
-"Restore" = "復原";
+"Number of activities" = "活動數量";
+"Restore" = "還原";
 
 // Activities
-"Are you sure you want to pause the activity?" = "Are you sure you want to pause the activity?";
-"Are you sure you want to stop the activity?" = "Are you sure you want to stop the activity?";
-"Are you sure you want to resume the activity?" = "Are you sure you want to resume the activity?";
-"Are you sure you want to pause/stop running activities and resume this one?" = "Are you sure you want to pause/stop running activities and resume this one?";
-"Are you sure you want to start the activity?" = "Are you sure you want to start the activity?";
-"Are you sure you want to pause/stop running activities and start this one?" = "Are you sure you want to pause/stop running activities and start this one?";
-"Create activity" = "Create activity";
-"Edit activity" = "Edit activity";
-"Intervals" = "Intervals";
-"Running" = "Running";
-"Paused" = "Paused";
-"Stopped" = "Stopped";
-"Touch «+» to add time interval" = "Touch «+» to add time interval";
-"Enter comment" = "Enter comment";
-"Time Left" = "Time Left";
-"Overtime" = "Overtime";
+"Are you sure you want to pause the activity?" = "您確定你想要暫停這個活動嗎?";
+"Are you sure you want to stop the activity?" = "您確定你想要結束這個活動嗎?";
+"Are you sure you want to resume the activity?" = "您確定你想重新開始這個活動?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "您確定你想暫停/結束 執行這個活動並且重新開始這個活動?";
+"Are you sure you want to start the activity?" = "您確定你想要開始這個活動??";
+"Are you sure you want to pause/stop running activities and start this one?" = "您確定你想暫停/結束這活動並執行這個新的活動嗎? ";
+"Create activity" = "建立新活動";
+"Edit activity" = "編輯活動";
+"Intervals" = "間隔";
+"Running" = "執行中";
+"Paused" = "暫停";
+"Stopped" = "結束";
+"Touch «+» to add time interval" = "請按 «+» 新增時間的間距";
+"Enter comment" = "發表意見";
+"Time Left" = "剩餘時間";
+"Overtime" = "超過時間";
 
 "Date range" = "日期範圍";
-"Select range" = "Select range";
-"Send by email" = "透過電子信件傳送";
-"Select activity type" = "選擇類別";
-"Select type" = "Select type";
-"Create report" = "Create report";
-"Creating report..." = "Creating report...";
-"Report" = "報告";
-"Select format" = "選取匯出格式";
+"Select range" = "選擇範圍";
+"Send by email" = "發送郵件";
+"Select activity type" = "選擇活動類別";
+"Select type" = "選擇類別";
+"Create report" = "建立報表";
+"Creating report..." = "建立報表中...";
+"Report" = "報表";
+"Select format" = "選擇格式";
 "Export" = "匯出";
 
-"Twitter" = "Twitter";
-"Untracked time" = "Untracked time";
-"Details" = "Details";
-"None" = "None";
-"Stop" = "Stop";
-"Pause" = "Pause";
+"Twitter" = "推特";
+"Untracked time" = "未記錄到的時間";
+"Details" = "詳細資料";
+"None" = "無";
+"Stop" = "結束";
+"Pause" = "暫時";
 "Start" = "開始";
-"Resume" = "Resume";
-"Planned duration" = "Planned duration";
-"Comment" = "Comment";
-"Today" = "Today";
-"Yesterday" = "Yesterday";
+"Resume" = "重新開始";
+"Comment" = "評論建議";
+"Today" = "今天";
+"Yesterday" = "昨天";
 
 // Notifications
-"Time to finish" = "Time to finish";
+"Planned duration" = "計畫持續的時間";
+"Planned finish" = "預計結束的時間";
+"Alert time" = "鬧鈴提醒時間";
+"At time of event" = "事件的時間";
+"1 min before" = "一分鐘前";
+"5 min before" = "五分鐘前";
+"10 min before" = "十分鐘前";
+"15 min before" = "十五分鐘前";
+"Repeat interval" = "重複間隔";
+"Every 5 min" = "每五分鐘";
+"Every 10 min" = "每10分鐘";
+"Every 15 min" = "每十五分鐘";
+"Repeat times" = "重複多次";
+"Never" = "從不";
+"Forever" = "永遠";
+"1 time" = "一次";
+"2 times" = "兩次";
+"3 times" = "三次";
+"4 times" = "四次";
+"5 times" = "五次";
+"Time to finish" = "結束的時間";
 
 // Intervals
-"Edit interval" = "Edit interval";
+"Edit interval" = "編輯間隔";
 "From" = "從";
 "To" = "到";
-"Duration" = "長度";
+"Duration" = "持續多久";
 
 // Format
-"%dh %dm" = "%d 小時 %d 分鐘";
-"%dm" = "%d 分鐘";
-"%dh" = "%d 小時";
+"%dh %dm" = "%小時 %分鐘";
+"%dm" = "%分鐘";
+"%dh" = "%小時";
 "< 1m" = "< 1m";
 "MMMM d" = "MMMM d";
+"MMMM d, ccc" = "MMMM d, ccc";
 "MMM dd" = "MMM dd";
 
 // History
-"Total time tracked" = "記錄的時間合計";
-"Nothing tracked for selected period" = "Nothing tracked for selected period";
-"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity";
+"Total time tracked" = "所有紀錄的時間";
+"Nothing tracked for selected period" = "這段時間內沒有任何紀錄";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "改變時段, 請按 «+» 開始/重新開始一個活動，或者請選擇活動圖標開始新活動";
 
 // Categories
-"Create group" = "Create group";
-"Create type" = "Create type";
-"Edit group" = "Edit group";
-"Edit type" = "Edit type";
-"Bar chart" = "橫條圖";
-"Total time" = "Total time";
-"Days" = "天";
-"Hours" = "小時";
-"No activity types" = "No activity types";
-"You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
-"Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+"Create group" = "建立分類";
+"Create type" = "建立類別";
+"Edit group" = "編輯分類";
+"Edit type" = "編輯類別";
+"Bar chart" = "長條圖";
+"Total time" = "總時間";
+"Days" = "天數";
+"Hours" = "小時數";
+"No activity types" = "無活動類別";
+"You can't track anything without activity types. Click «+» to add activity type" = "您不能在沒有活動類別的情況下記錄任何活動。請按 «+» 新增活動類別";
+"Click «Cancel» to discard or «Update» to apply changes" = "請按 «取消» 放棄變更或按 «更新» 確認變更";
 
 // Reports
-"All" = "All";
-"%d activity types" = "%d activity types";
-"Show 'Other' time" = "Show 'Other'";
-"Other" = "Other";
+"All" = "全部";
+"%d activity types" = "%d 活動類別";
+"Show 'Other' time" = "顯示'其他'時間";
+"Other" = "其他";
 
 // Backups
-"Backups" = "Backups";
-"Backup details" = "Backup details";
-"Create backup" = "Create backup";
-"Edit backup" = "Edit backup";
-"Restoring backup..." = "Restoring backup...";
-"Restore complete" = "Restore complete";
-"Restored successfully" = "Restored successfully";
+"Backups" = "備份";
+"Backup details" = "備分細節";
+"Create backup" = "建立備份";
+"Edit backup" = "編輯備份";
+"Restoring backup..." = "還原被分...";
+"Restore complete" = "還原完畢";
+"Restored successfully" = "還原成功";
 
 // More
-"Version" = "Version";
-"Help" = "Help";
-"Loading..." = "Loading...";
-"Contact us" = "Contact us";
-"Review us on iTunes" = "Review us on iTunes";
-"Follow us on Twitter" = "Follow us on Twitter";
-"Like us on Facebook" = "Like us on Facebook";
+"Version" = "版本";
+"Help" = "求助";
+"Loading..." = "載入中...";
+"Contact us" = "連絡我們";
+"Review us on iTunes" = "在iTunes中檢閱";
+"Follow us on Twitter" = "跟隨我們的推特";
+"Like us on Facebook" = "在臉書按讚";
+"Credits" = "Credits";
+"Icon design" = "圖標設計";
+"Japanese" = "日文";
+"Korea Distributor" = "韓國經銷商";
 
 // Settings
-"Week starts on" = "每週第一天";
-"Theme" = "Theme";
-"Action on start" = "Action on start";
+"Week starts on" = "星期開始於";
+"Theme" = "佈景主題";
+"Action on start" = "開始活動";
 "Warnings" = "警告";
-"Formats" = "Formats";
-"Advanced" = "Advanced";
-"Select theme" = "Select theme";
-"Select day" = "Select day";
-"Select action" = "Select action";
-"Time picker interval" = "Time picker interval";
+"Formats" = "格式";
+"Advanced" = "進階";
+"Select theme" = "選擇佈景主題";
+"Select day" = "選擇時間";
+"Select action" = "選擇活動";
+"Time picker interval" = "時間選擇的間隔";
 "%d minutes" = "%d 分鐘";
 "%d min" = "%d 分鐘";
-"Activity status change" = "Activity status change";
+"Activity status change" = "變更活動狀態";
+"Select interval" = "選擇間隔";
+"Day format" = "日期格式";
+"Duration format" = "持續時間格式";
 
 // Warnings
-"Warning" = "Warning";
-"Delete time interval?" = "Delete time interval?";
-"Delete activity?" = "Delete activity?";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "Deleting activity type will delete all its recorded activities. Are you sure?";
-"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "Restore will delete old data and overwrites with backed up data. Are you sure?";
-"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Sorry. You have groups created. Disabling groups is not possible. Delete groups first";
-"welcome.message" = "It's your first run of aTimeLogger 2. We prepared quick introduction for new users and migration tutorial for aTimeLogger 1.x users.";
-"Welcome" = "Welcome";
-"View" = "View";
-"No, thanks" = "No, thanks";
+"Warning" = "警告";
+"Delete time interval?" = "刪除時間間隔?";
+"Delete activity?" = "刪除活動?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "刪除活動類型將會移除所有該項活動的紀錄。你確定要刪除嗎?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "刪除活動類別將會一併刪除此類別下的所有活動與紀錄。你確定要刪除嗎?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "還原會刪除所有舊的紀錄並寫覆蓋備份的檔案。你確定要還原嗎?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉!你已建立活動類別，無法停止使用。請先刪除活動類別";
+"welcome.message" = "歡迎您!這是您第一次使用aTimeLogger 2 .我們為您準備了簡介和導覽。如果您是aTimeLogger 1.X版本的使用者，我們提供檔案轉移的教學";
+"Welcome" = "歡迎";
+"View" = "檢視";
+"No, thanks" = "不用了，謝謝!";
 
 //Categories
 "Sleep" = "睡眠";
-"Transport" = "運輸";
+"Transport" = "交通";
 "Work" = "工作";
 "Eat" = "用餐";
 "Sport" = "運動";
@@ -174,16 +201,16 @@
 "Entertainment" = "娛樂";
 "Housework" = "家務";
 "Cinema" = "電影";
-"Walk" = "步行";
-"Study" = "學習";
-"Internet" = "網路";
+"Walk" = "走路";
+"Study" = "讀書";
+"Internet" = "上網";
 "Drink" = "喝酒";
 
 // Days of week
 "Monday" = "星期一";
-"Tuesday" = "Tuesday";
-"Wednesday" = "Wednesday";
-"Thursday" = "Thursday";
-"Friday" = "Friday";
+"Tuesday" = "星期二";
+"Wednesday" = "星期三";
+"Thursday" = "星期四";
+"Friday" = "星期五";
 "Saturday" = "星期六";
-"Sunday" = "星期日";
+"Sunday" = "星期天";
