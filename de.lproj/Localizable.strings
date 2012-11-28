@@ -1,0 +1,216 @@
+"Activities" = "Activities";
+"History" = "History";
+"Activity types" = "Activity types";
+"Types" = "Types";
+"tab.category" = "Types";
+"More" = "More";
+"Backup/Restore" = "Backup/Restore";
+"Reports" = "Reports";
+"Settings" = "Settings";
+"About" = "About";
+
+"Save" = "Save";
+"Update"  = "Update";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Back" = "Back";
+"Close" = "Close";
+
+"Day" = "Day";
+"Week" = "Week";
+"Month" = "Month";
+
+"Group" = "Group";
+"Groups" = "Groups";
+"Activity type" = "Activity type";
+
+"Name" = "Name";
+"Image" = "Image";
+"Color" = "Color";
+"Icon" = "Icon";
+"Select icon" = "Select icon";
+
+"Number of activities" = "Number of activities";
+"Restore" = "Restore";
+
+// Activities
+"Are you sure you want to pause the activity?" = "Are you sure you want to pause the activity?";
+"Are you sure you want to stop the activity?" = "Are you sure you want to stop the activity?";
+"Are you sure you want to resume the activity?" = "Are you sure you want to resume the activity?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "Are you sure you want to pause/stop running activities and resume this one?";
+"Are you sure you want to start the activity?" = "Are you sure you want to start the activity?";
+"Are you sure you want to pause/stop running activities and start this one?" = "Are you sure you want to pause/stop running activities and start this one?";
+"Create activity" = "Create activity";
+"Edit activity" = "Edit activity";
+"Intervals" = "Intervals";
+"Running" = "Running";
+"Paused" = "Paused";
+"Stopped" = "Stopped";
+"Touch «+» to add time interval" = "Touch «+» to add time interval";
+"Enter comment" = "Enter comment";
+"Time Left" = "Time Left";
+"Overtime" = "Overtime";
+
+"Date range" = "Date range";
+"Select range" = "Select range";
+"Send by email" = "Send by email";
+"Select activity type" = "Select activity type";
+"Select type" = "Select type";
+"Create report" = "Create report";
+"Creating report..." = "Creating report...";
+"Report" = "Report";
+"Select format" = "Select format";
+"Export" = "Export";
+
+"Twitter" = "Twitter";
+"Untracked time" = "Untracked time";
+"Details" = "Details";
+"None" = "None";
+"Stop" = "Stop";
+"Pause" = "Pause";
+"Start" = "Start";
+"Resume" = "Resume";
+"Comment" = "Comment";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+
+// Notifications
+"Planned duration" = "Planned duration";
+"Planned finish" = "Planned finish";
+"Alert time" = "Alert time";
+"At time of event" = "At time of event";
+"1 min before" = "1 min before";
+"5 min before" = "5 min before";
+"10 min before" = "10 min before";
+"15 min before" = "15 min before";
+"Repeat interval" = "Repeat interval";
+"Every 5 min" = "Every 5 min";
+"Every 10 min" = "Every 10 min";
+"Every 15 min" = "Every 15 min";
+"Repeat times" = "Repeat times";
+"Never" = "Never";
+"Forever" = "Forever";
+"1 time" = "1 time";
+"2 times" = "2 times";
+"3 times" = "3 times";
+"4 times" = "4 times";
+"5 times" = "5 times";
+"Time to finish" = "Time to finish";
+
+// Intervals
+"Edit interval" = "Edit interval";
+"From" = "From";
+"To" = "To";
+"Duration" = "Duration";
+
+// Format
+"%dh %dm" = "%dh %dm";
+"%dm" = "%dm";
+"%dh" = "%dh";
+"< 1m" = "< 1m";
+"MMMM d" = "MMMM d";
+"MMMM d, ccc" = "MMMM d, ccc";
+"MMM dd" = "MMM dd";
+
+// History
+"Total time tracked" = "Total time tracked";
+"Nothing tracked for selected period" = "Nothing tracked for selected period";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity";
+
+// Categories
+"Create group" = "Create group";
+"Create type" = "Create type";
+"Edit group" = "Edit group";
+"Edit type" = "Edit type";
+"Bar chart" = "Bar chart";
+"Total time" = "Total time";
+"Days" = "Days";
+"Hours" = "Hours";
+"No activity types" = "No activity types";
+"You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
+"Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+
+// Reports
+"All" = "All";
+"%d activity types" = "%d activity types";
+"Show 'Other' time" = "Show 'Other' time";
+"Other" = "Other";
+
+// Backups
+"Backups" = "Backups";
+"Backup details" = "Backup details";
+"Create backup" = "Create backup";
+"Edit backup" = "Edit backup";
+"Restoring backup..." = "Restoring backup...";
+"Restore complete" = "Restore complete";
+"Restored successfully" = "Restored successfully";
+
+// More
+"Version" = "Version";
+"Help" = "Help";
+"Loading..." = "Loading...";
+"Contact us" = "Contact us";
+"Review us on iTunes" = "Review us on iTunes";
+"Follow us on Twitter" = "Follow us on Twitter";
+"Like us on Facebook" = "Like us on Facebook";
+"Credits" = "Credits";
+"Icon design" = "Icon design";
+"Japanese" = "Japanese";
+"Korea Distributor" = "Korea Distributor";
+
+// Settings
+"Week starts on" = "Week starts on";
+"Theme" = "Theme";
+"Action on start" = "Action on start";
+"Warnings" = "Warnings";
+"Formats" = "Formats";
+"Advanced" = "Advanced";
+"Select theme" = "Select theme";
+"Select day" = "Select day";
+"Select action" = "Select action";
+"Time picker interval" = "Time picker interval";
+"%d minutes" = "%d minutes";
+"%d min" = "%d min";
+"Activity status change" = "Activity status change";
+"Select interval" = "Select interval";
+"Day format" = "Day format";
+"Duration format" = "Duration format";
+
+// Warnings
+"Warning" = "Warning";
+"Delete time interval?" = "Delete time interval?";
+"Delete activity?" = "Delete activity?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "Deleting activity type will delete all its recorded activities. Are you sure?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "Restore will delete old data and overwrites with backed up data. Are you sure?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Sorry. You have groups created. Disabling groups is not possible. Delete groups first";
+"welcome.message" = "It's your first run of aTimeLogger 2. We prepared quick introduction for new users and migration tutorial for aTimeLogger 1.x users.";
+"Welcome" = "Welcome";
+"View" = "View";
+"No, thanks" = "No, thanks";
+
+//Categories
+"Sleep" = "Sleep";
+"Transport" = "Transport";
+"Work" = "Work";
+"Eat" = "Eat";
+"Sport" = "Sport";
+"Read" = "Read";
+"Shop" = "Shop";
+"Entertainment" = "Entertainment";
+"Housework" = "Housework";
+"Cinema" = "Cinema";
+"Walk" = "Walk";
+"Study" = "Study";
+"Internet" = "Internet";
+"Drink" = "Drink";
+
+// Days of week
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Sunday" = "Sunday";
