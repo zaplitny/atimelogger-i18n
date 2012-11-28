@@ -35,12 +35,12 @@
 "Restore" = "還原";
 
 // Activities
-"Are you sure you want to pause the activity?" = "你確定你想要暫停這個活動嗎?";
-"Are you sure you want to stop the activity?" = "你確定你想要結束這個活動嗎?";
-"Are you sure you want to resume the activity?" = "你確定你想重新開始這個活動?";
-"Are you sure you want to pause/stop running activities and resume this one?" = "你確定你想暫停/結束 執行這個活動並且重新開始這個活動?";
-"Are you sure you want to start the activity?" = "你確定你想要開始這個活動??";
-"Are you sure you want to pause/stop running activities and start this one?" = "你確定你想暫停/結束這活動並執行這個新的活動嗎? ";
+"Are you sure you want to pause the activity?" = "您確定你想要暫停這個活動嗎?";
+"Are you sure you want to stop the activity?" = "您確定你想要結束這個活動嗎?";
+"Are you sure you want to resume the activity?" = "您確定你想重新開始這個活動?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "您確定你想暫停/結束 執行這個活動並且重新開始這個活動?";
+"Are you sure you want to start the activity?" = "您確定你想要開始這個活動??";
+"Are you sure you want to pause/stop running activities and start this one?" = "您確定你想暫停/結束這活動並執行這個新的活動嗎? ";
 "Create activity" = "建立新活動";
 "Edit activity" = "編輯活動";
 "Intervals" = "間隔";
@@ -64,8 +64,8 @@
 "Export" = "匯出";
 
 "Twitter" = "推特";
-"Untracked time" = "沒記錄到的時間";
-"Details" = "細節";
+"Untracked time" = "未記錄到的時間";
+"Details" = "詳細資料";
 "None" = "無";
 "Stop" = "結束";
 "Pause" = "暫時";
@@ -105,17 +105,17 @@
 "Duration" = "持續多久";
 
 // Format
-"%dh %dm" = "%dh %dm";
-"%dm" = "%dm";
-"%dh" = "%dh";
+"%dh %dm" = "%小時 %分鐘";
+"%dm" = "%分鐘";
+"%dh" = "%小時";
 "< 1m" = "< 1m";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MMM dd" = "MMM dd";
 
 // History
-"Total time tracked" = "所以紀錄的時間";
-"Nothing tracked for selected period" = "這段選擇的時間內沒有任何紀錄";
+"Total time tracked" = "所有紀錄的時間";
+"Nothing tracked for selected period" = "這段時間內沒有任何紀錄";
 "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "改變時段, 請按 «+» 開始/重新開始一個活動，或者請選擇活動圖標開始新活動";
 
 // Categories
@@ -191,13 +191,13 @@
 "No, thanks" = "不用了，謝謝!";
 
 //Categories
-"Sleep" = "睡覺";
+"Sleep" = "睡眠";
 "Transport" = "交通";
 "Work" = "工作";
-"Eat" = "吃飯";
+"Eat" = "用餐";
 "Sport" = "運動";
 "Read" = "閱讀";
-"Shop" = "逛街";
+"Shop" = "購物";
 "Entertainment" = "娛樂";
 "Housework" = "家務";
 "Cinema" = "電影";
