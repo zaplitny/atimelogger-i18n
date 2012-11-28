@@ -47,7 +47,7 @@
 "Running" = "執行中";
 "Paused" = "暫停";
 "Stopped" = "結束";
-"Touch «+» to add time interval" = "觸控 «+» 新增時間的間距";
+"Touch «+» to add time interval" = "請按 «+» 新增時間的間距";
 "Enter comment" = "發表意見";
 "Time Left" = "剩餘時間";
 "Overtime" = "超過時間";
@@ -129,7 +129,7 @@
 "Hours" = "小時數";
 "No activity types" = "無活動類別";
 "You can't track anything without activity types. Click «+» to add activity type" = "您不能在沒有活動類別的情況下記錄任何活動。請按 «+» 新增活動類別";
-"Click «Cancel» to discard or «Update» to apply changes" = "請按 «取消» 放棄或按 «更新» 確認改變";
+"Click «Cancel» to discard or «Update» to apply changes" = "請按 «取消» 放棄更改或按 «更新» 確認更改";
 
 // Reports
 "All" = "全部";
