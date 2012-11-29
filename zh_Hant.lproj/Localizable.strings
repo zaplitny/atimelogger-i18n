@@ -108,10 +108,10 @@
 "%dh %dm" = "%小時 %分鐘";
 "%dm" = "%分鐘";
 "%dh" = "%小時";
-"< 1m" = "< 1m";
-"MMMM d" = "MMMM d";
-"MMMM d, ccc" = "MMMM d, ccc";
-"MMM dd" = "MMM dd";
+"< 1m" = "< 1分鐘";
+"MMMM d" = "月 d";
+"MMMM d, ccc" = "月 日, 星期";
+"MMM dd" = "月 日";
 
 // History
 "Total time tracked" = "所有紀錄的時間";
