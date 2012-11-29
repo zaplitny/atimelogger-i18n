@@ -181,9 +181,9 @@
 "Warning" = "警告";
 "Delete time interval?" = "刪除時間間隔?";
 "Delete activity?" = "刪除活動?";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "刪除活動類型將會移除所有該項活動的紀錄。你確定要刪除嗎?";
-"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "刪除活動類別將會一併刪除此類別下的所有活動與紀錄。你確定要刪除嗎?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "還原會刪除所有舊的紀錄並寫覆蓋備份的檔案。你確定要還原嗎?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "刪除活動類型將會移除所有該項活動的紀錄。您確定要刪除嗎?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "刪除活動類別將會一併刪除此類別下的所有活動與紀錄。您確定要刪除嗎?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "還原會刪除所有舊的紀錄並寫覆蓋備份的檔案。您確定要還原嗎?";
 "Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉!你已建立活動類別，無法停止使用。請先刪除活動類別";
 "welcome.message" = "歡迎您!這是您第一次使用aTimeLogger 2 .我們為您準備了簡介和導覽。如果您是aTimeLogger 1.X版本的使用者，我們提供檔案轉移的教學";
 "Welcome" = "歡迎";
