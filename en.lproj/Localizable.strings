@@ -112,6 +112,7 @@
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MMM dd" = "MMM dd";
+"MMM, yyyy" = "MMM, yyyy";
 
 // History
 "Total time tracked" = "Total time tracked";
