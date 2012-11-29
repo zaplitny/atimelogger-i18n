@@ -1,6 +1,6 @@
 "Activities" = "記録画面";
 "History" = "履歴";
-"Activity types" = "ログ";
+"Activity types" = "カテゴリ";
 "Types" = "ログ";
 "tab.category" = "カテゴリ";
 "More" = "設定";
@@ -29,7 +29,7 @@
 "Image" = "アイコン";
 "Color" = "色";
 "Icon" = "アイコン";
-"Select icon" = "Select icon";
+"Select icon" = "アイコンの選択";
 
 "Number of activities" = "ログ数";
 "Restore" = "復元";
@@ -77,25 +77,25 @@
 
 // Notifications. Used when planned duration is set. If we set planned duration to sleep then notification  with text 'Sleep : Time to finish' will appear
 "Planned duration" = "予定時間";
-"Planned finish" = "Planned finish";
-"Alert time" = "Alert time";
-"At time of event" = "At time of event";
-"1 min before" = "1 min before";
-"5 min before" = "5 min before";
-"10 min before" = "10 min before";
-"15 min before" = "15 min before";
-"Repeat interval" = "Repeat interval";
-"Every 5 min" = "Every 5 min";
-"Every 10 min" = "Every 10 min";
-"Every 15 min" = "Every 15 min";
-"Repeat times" = "Repeat times";
-"Never" = "Never";
-"Forever" = "Forever";
-"1 time" = "1 time";
-"2 times" = "2 times";
-"3 times" = "3 times";
-"4 times" = "4 times";
-"5 times" = "5 times";
+"Planned finish" = "終了予定";
+"Alert time" = "アラート";
+"At time of event" = "予定の時刻";
+"1 min before" = "1分前";
+"5 min before" = "5分前";
+"10 min before" = "10分前";
+"15 min before" = "15分前";
+"Repeat interval" = "リピート間隔";
+"Every 5 min" = "5分おき";
+"Every 10 min" = "10分おき";
+"Every 15 min" = "15分おき";
+"Repeat times" = "リピート設定";
+"Never" = "リピートしない";
+"Forever" = "期限なし";
+"1 time" = "1回";
+"2 times" = "2回";
+"3 times" = "3回";
+"4 times" = "4回";
+"5 times" = "5回";
 "Time to finish" = "終了時刻";
 
 // Intervals
@@ -129,7 +129,7 @@
 "Hours" = "時間";
 "No activity types" = "ログが存在しません";
 "You can't track anything without activity types. Click «+» to add activity type" = "ログがないと記録を取ることができません。＋をタップしてログを作成してください。";
-"Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+"Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 
 // Reports
 "All" = "全て";
