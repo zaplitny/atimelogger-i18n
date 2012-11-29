@@ -32,15 +32,15 @@
 "Select icon" = "選擇圖示";
 
 "Number of activities" = "活動數量";
-"Restore" = "還原";
+"Restore" = "復原";
 
 // Activities
-"Are you sure you want to pause the activity?" = "您確定你想要暫停這個活動嗎?";
-"Are you sure you want to stop the activity?" = "您確定你想要結束這個活動嗎?";
-"Are you sure you want to resume the activity?" = "您確定你想重新開始這個活動?";
-"Are you sure you want to pause/stop running activities and resume this one?" = "您確定你想暫停/結束 執行這個活動並且重新開始這個活動?";
-"Are you sure you want to start the activity?" = "您確定你想要開始這個活動??";
-"Are you sure you want to pause/stop running activities and start this one?" = "您確定你想暫停/結束這活動並執行這個新的活動嗎? ";
+"Are you sure you want to pause the activity?" = "您確定要暫停此活動嗎?";
+"Are you sure you want to stop the activity?" = "您確定要結束此活動嗎?";
+"Are you sure you want to resume the activity?" = "您確定要繼續此活動?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "您確定要暫停/結束正在進行的活動並繼續此活動？";
+"Are you sure you want to start the activity?" = "您確定要開始此活動??";
+"Are you sure you want to pause/stop running activities and start this one?" = "您確定要暫停/結束正在進行的活動並開始此活動? ";
 "Create activity" = "建立新活動";
 "Edit activity" = "編輯活動";
 "Intervals" = "間隔";
