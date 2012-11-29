@@ -77,25 +77,25 @@
 
 // Notifications
 "Planned duration" = "시간 계획";
-"Planned finish" = "Planned finish";
-"Alert time" = "Alert time";
-"At time of event" = "At time of event";
-"1 min before" = "1 min before";
-"5 min before" = "5 min before";
-"10 min before" = "10 min before";
-"15 min before" = "15 min before";
-"Repeat interval" = "Repeat interval";
-"Every 5 min" = "Every 5 min";
-"Every 10 min" = "Every 10 min";
-"Every 15 min" = "Every 15 min";
-"Repeat times" = "Repeat times";
-"Never" = "Never";
-"Forever" = "Forever";
-"1 time" = "1 time";
-"2 times" = "2 times";
-"3 times" = "3 times";
-"4 times" = "4 times";
-"5 times" = "5 times";
+"Planned finish" = "종료 예약";
+"Alert time" = "알람";
+"At time of event" = "알람 시각";
+"1 min before" = "1 분 전";
+"5 min before" = "5 분 전";
+"10 min before" = "10 분 전";
+"15 min before" = "15 분 전 ";
+"Repeat interval" = "반복";
+"Every 5 min" = "5 분 마다";
+"Every 10 min" = "10분 마다";
+"Every 15 min" = "15분 마다";
+"Repeat times" = "반복 횟수 ";
+"Never" = "반복 안함";
+"Forever" = "계속 반복";
+"1 time" = "1 번";
+"2 times" = "2 번";
+"3 times" = "3 번";
+"4 times" = "4 번";
+"5 times" = "5 번";
 "Time to finish" = "종료 시간";
 
 // Intervals
@@ -173,9 +173,9 @@
 "%d minutes" = "%d 분 간격";
 "%d min" = "%d 분";
 "Activity status change" = "활동상태 변경";
-"Select interval" = "Select interval";
-"Day format" = "Day format";
-"Duration format" = "Duration format";
+"Select interval" = "시간 설정";
+"Day format" = "날짜 표시형식";
+"Duration format" = "시간 표시형식";
 
 // Warnings
 "Warning" = "잠깐!";
