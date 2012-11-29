@@ -112,6 +112,7 @@
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MMM dd" = "MMM dd";
+"MMM, yyyy" = "yyyy MMM";
 
 // History
 "Total time tracked" = "총 기록시간";
