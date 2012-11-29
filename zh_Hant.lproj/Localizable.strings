@@ -44,7 +44,7 @@
 "Create activity" = "建立新活動";
 "Edit activity" = "編輯活動";
 "Intervals" = "間隔";
-"Running" = "執行中";
+"Running" = "進行中";
 "Paused" = "暫停";
 "Stopped" = "結束";
 "Touch «+» to add time interval" = "請按 «+» 新增時間的間距";
@@ -68,9 +68,9 @@
 "Details" = "詳細資料";
 "None" = "無";
 "Stop" = "結束";
-"Pause" = "暫時";
+"Pause" = "暫停";
 "Start" = "開始";
-"Resume" = "重新開始";
+"Resume" = "繼續始";
 "Comment" = "評論建議";
 "Today" = "今天";
 "Yesterday" = "昨天";
@@ -142,7 +142,7 @@
 "Backup details" = "備分細節";
 "Create backup" = "建立備份";
 "Edit backup" = "編輯備份";
-"Restoring backup..." = "還原被分...";
+"Restoring backup..." = "還原備份...";
 "Restore complete" = "還原完畢";
 "Restored successfully" = "還原成功";
 
@@ -152,9 +152,9 @@
 "Loading..." = "載入中...";
 "Contact us" = "連絡我們";
 "Review us on iTunes" = "在iTunes中檢閱";
-"Follow us on Twitter" = "跟隨我們的推特";
-"Like us on Facebook" = "在臉書按讚";
-"Credits" = "Credits";
+"Follow us on Twitter" = "追蹤我們的推特";
+"Like us on Facebook" = "給我們按個讚";
+"Credits" = "感謝";
 "Icon design" = "圖標設計";
 "Japanese" = "日文";
 "Korea Distributor" = "韓國經銷商";
