@@ -1,11 +1,11 @@
 "Activities" = "活動";
-"History" = "紀錄";
+"History" = "記錄";
 "Activity types" = "活動類型";
 "Types" = "類型";
 "tab.category" = "標籤類別";
 "More" = "更多";
 "Backup/Restore" = "備份/復原";
-"Reports" = "回報";
+"Reports" = "報告";
 "Settings" = "設定";
 "About" = "關於";
 
@@ -23,7 +23,7 @@
 
 "Group" = "群組";
 "Groups" = "群組";
-"Activity type" = "活動類別";
+"Activity type" = "活動類型";
 
 "Name" = "名稱";
 "Image" = "圖片";
@@ -35,12 +35,12 @@
 "Restore" = "復原";
 
 // Activities
-"Are you sure you want to pause the activity?" = "您確定要暫停此活動嗎?";
-"Are you sure you want to stop the activity?" = "您確定要結束此活動嗎?";
-"Are you sure you want to resume the activity?" = "您確定要繼續此活動?";
+"Are you sure you want to pause the activity?" = "您確定要暫停此活動嗎？";
+"Are you sure you want to stop the activity?" = "您確定要結束此活動嗎？";
+"Are you sure you want to resume the activity?" = "您確定要繼續此活動？";
 "Are you sure you want to pause/stop running activities and resume this one?" = "您確定要暫停/結束正在進行的活動並繼續此活動？";
-"Are you sure you want to start the activity?" = "您確定要開始此活動??";
-"Are you sure you want to pause/stop running activities and start this one?" = "您確定要暫停/結束正在進行的活動並開始此活動? ";
+"Are you sure you want to start the activity?" = "您確定要開始此活動？";
+"Are you sure you want to pause/stop running activities and start this one?" = "您確定要暫停/結束正在進行的活動並開始此活動？";
 "Create activity" = "建立新活動";
 "Edit activity" = "編輯活動";
 "Intervals" = "間隔";
@@ -54,12 +54,12 @@
 
 "Date range" = "日期範圍";
 "Select range" = "選擇範圍";
-"Send by email" = "發送郵件";
-"Select activity type" = "選擇活動類別";
-"Select type" = "選擇類別";
-"Create report" = "建立報表";
-"Creating report..." = "建立報表中...";
-"Report" = "報表";
+"Send by email" = "傳送郵件";
+"Select activity type" = "選擇活動類型";
+"Select type" = "選擇類型";
+"Create report" = "建立報告";
+"Creating report..." = "建立報告中...";
+"Report" = "報告";
 "Select format" = "選擇格式";
 "Export" = "匯出";
 
@@ -115,32 +115,32 @@
 "MMM, yyyy" = "MMM, yyyy";
 
 // History
-"Total time tracked" = "所有紀錄的時間";
-"Nothing tracked for selected period" = "這段時間內沒有任何紀錄";
-"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "改變時段, 請按 «+» 開始/重新開始一個活動，或者請選擇活動圖標開始新活動";
+"Total time tracked" = "所有記錄的時間";
+"Nothing tracked for selected period" = "這段時間內沒有任何記錄";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "變更時段，請按 «+» 開始/重新開始一個活動，或者請選擇活動圖示開始新活動";
 
 // Categories
-"Create group" = "建立分類";
-"Create type" = "建立類別";
-"Edit group" = "編輯分類";
-"Edit type" = "編輯類別";
+"Create group" = "建立群組";
+"Create type" = "建立類型";
+"Edit group" = "編輯群組";
+"Edit type" = "編輯類型";
 "Bar chart" = "長條圖";
 "Total time" = "總時間";
 "Days" = "天數";
 "Hours" = "小時數";
-"No activity types" = "無活動類別";
-"You can't track anything without activity types. Click «+» to add activity type" = "您不能在沒有活動類別的情況下記錄任何活動。請按 «+» 新增活動類別";
+"No activity types" = "無活動類型";
+"You can't track anything without activity types. Click «+» to add activity type" = "您不能在沒有活動類型的情況下記錄任何活動。請按 «+» 新增活動類型";
 "Click «Cancel» to discard or «Update» to apply changes" = "請按 «取消» 放棄變更或按 «更新» 確認變更";
 
 // Reports
 "All" = "全部";
-"%d activity types" = "%d 活動類別";
+"%d activity types" = "%d 活動類型";
 "Show 'Other' time" = "顯示'其他'時間";
 "Other" = "其他";
 
 // Backups
 "Backups" = "備份";
-"Backup details" = "備分細節";
+"Backup details" = "備分詳細資料";
 "Create backup" = "建立備份";
 "Edit backup" = "編輯備份";
 "Restoring backup..." = "還原備份...";
@@ -152,11 +152,11 @@
 "Help" = "求助";
 "Loading..." = "載入中...";
 "Contact us" = "連絡我們";
-"Review us on iTunes" = "在iTunes中檢閱";
+"Review us on iTunes" = "在 iTunes 中檢閱";
 "Follow us on Twitter" = "追蹤我們的推特";
 "Like us on Facebook" = "給我們按個讚";
 "Credits" = "感謝";
-"Icon design" = "圖標設計";
+"Icon design" = "圖示設計";
 "Japanese" = "日文";
 "Korea Distributor" = "韓國經銷商";
 
@@ -180,16 +180,16 @@
 
 // Warnings
 "Warning" = "警告";
-"Delete time interval?" = "刪除時間間隔?";
-"Delete activity?" = "刪除活動?";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "刪除活動類型將會移除所有該項活動的紀錄。您確定要刪除嗎?";
-"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "刪除活動類別將會一併刪除此類別下的所有活動與紀錄。您確定要刪除嗎?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "還原會刪除所有舊的紀錄並寫覆蓋備份的檔案。您確定要還原嗎?";
-"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉!你已建立活動類別，無法停止使用。請先刪除活動類別";
-"welcome.message" = "歡迎您!這是您第一次使用aTimeLogger 2 .我們為您準備了簡介和導覽。如果您是aTimeLogger 1.X版本的使用者，我們提供檔案轉移的教學";
+"Delete time interval?" = "刪除時間間隔？";
+"Delete activity?" = "刪除活動？";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "刪除活動類型將會移除所有該項活動的記錄。您確定要刪除嗎？";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "刪除群組將會一併刪除此群組下的所有活動與記錄。您確定要刪除嗎？";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "還原會刪除所有舊的記錄並寫覆蓋備份的檔案。您確定要還原嗎？";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉！您已建立群組，無法停止使用群組。請先刪除群組";
+"welcome.message" = "歡迎您！這是您第一次使用 aTimeLogger 2。我們為您準備了簡介和導覽。如果您是 aTimeLogger 1.X 版本的使用者，我們提供檔案轉移的教學";
 "Welcome" = "歡迎";
 "View" = "檢視";
-"No, thanks" = "不用了，謝謝!";
+"No, thanks" = "不用了，謝謝！";
 
 //Categories
 "Sleep" = "睡眠";
