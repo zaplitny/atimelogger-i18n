@@ -1,22 +1,22 @@
-★★★★★ 66% Discount for limited time only ★★★★★ 
-Data migration from aTimeLogger 1.x is possible 
+★★★★★ 限時特價 66% ★★★★★ 
+能夠從 aTimeLogger 1.x 中完全轉移您的資料
 
-Application for tracking your everyday activities. 
+為了追蹤您的每天日常生活最實用的應用程式。
 
-Spending only a few minutes a day on this app you will get daily, weekly and monthly statistics in the form of diagrams and graphs. Using this data you'll be able to control and manage you time. 
+在這套應用程式中，您可以得到每日、 每週和每月甚至只有幾分鐘花在任何事物上的統計資訊，用圖解和圖形式方式告訴您。使用這份資料您可以控制並且好好管理您的時間。
 
-aTimeLogger 2 is the right solution for everyone: 
-- business people with intensive daily routine; 
-- sportsmen who value every minute of their day; 
-- parents in order to control their children's daily activities; 
-- everyone who is interested in what activities they spend their day on and those who want to control and optimize their time. 
+aTimeLogger 2 是每個人管理時間的最好辦法： 
+- 商業人士日常密集的工作； 
+- 每一分鐘都非常重要的運動員； 
+- 父母想要確實掌握孩子的日常活動； 
+- 每個人都有興趣他們每天花上多少的時間在什麼活動上，並且想要規劃和調整這些時間。
 
-Application features: 
-- easy and intuitive interface 
-- simultaneous activities allowed 
-- pause/resume activities 
-- many statistics available in form of graphs and pie charts 
-- reports in different formats (CSV and HTML) 
-- backup and restore 
-- a huge number of icons for categories and ability to change their color 
-- the best support :-)
+應用程式功能：
+- 簡單又直覺化的使用介面 
+- 允許同一時間進行的活動 
+- 暫停/繼續活動 
+- 許多可用在圖解和圓形圖中的表單中的統計數字
+- 不同格式的報告 (CSV 及 HTML 雙格式) 
+- 備份及還原 
+- 類別擁有大量以及可以變更這些圖示的顏色 
+- 最佳的支援 :-)
