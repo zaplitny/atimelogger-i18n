@@ -1,24 +1,34 @@
-★★★★★ 66% Discount for limited time only ★★★★★ 
-Data migration from aTimeLogger 1.x is possible 
+★★★★★ 66% 
 
-Application for tracking your everyday activities. 
 
-Spending only a few minutes a day on this app you will get daily, weekly and monthly statistics in 
-the form of diagrams and graphs. Using this data you'll be able to control and manage you time. 
+aTimeLogger 1 에서 그대로 활동기록과 함께 갈아타세요.
 
-aTimeLogger 2 is the right solution for everyone: 
-- business people with intensive daily routine; 
-- sportsmen who value every minute of their day; 
-- parents in order to control their children's daily activities; 
-- everyone who is interested in what activities they spend their day on and those who want to control 
-and optimize their time. 
+aTimeLogger 2가 매일매일 당신의 시간을 기록, 분석, 관리해줍니다. 
 
-Application features: 
-- easy and intuitive interface 
-- simultaneous activities allowed 
-- pause/resume activities 
-- many statistics available in form of graphs and pie charts 
-- reports in different formats (CSV and HTML) 
-- backup and restore 
-- a huge number of icons for categories and ability to change their color 
-- the best support :-)
+하루 몇분이면 됩니다. 
+일별, 주별, 월별 통계를 도표와 그래프 형태로 확인하실 수 있습니다. 
+이 자료를 통해서 당신의 시간을 관리해보세요.
+
+하루 24시간이 짧다고 생각하시나요. 몇분만 이앱에 투자해주시면, 완전한 하루를 선물해 드릴게요. 
+당신의 하루, 한주, 한달이 어땟는지 한눈에 알아보기쉬버게 도표, 그래포형태로 나타내 드릴게요. 그걸 보시면 하루를 제대로 사용하고싶어지실거에요.
+
+aTimeLogger 2 모두를 위한 앱입니다.
+- 매일 반복되는 업무를 하는 비즈니스맨
+- 1분 1초가 소중한 운동선수
+- 아이의 생활을 관리하고 싶은 부모님
+- 내가 하루에 몇시간을 어디에 쏟아붓는지 궁금한 사람
+- 하루 24시간을 최적화 하고 싶은 사람
+- 시간관리가 필요하다고 생각되는 분
+
+- 쉽고 직관적인 인터페이스
+- 동시에 여러 활동기록(대중교통 이동중 + 독서)
+- 활동 일시정지 기능
+- 다양한 활동 등록가능
+- 한눈에 쏙 들어오는 그래프와 파이 형태의 통계
+- 다른 형식의 보고서 (CSV 및 HTML)
+- 백업 및 저장
+- Twitter 통합 / 활동에 관한 트윗연동 
+- 카테고리를 위한 수 많은 아이콘과 다양한 색상 지원
+
+Contact Us. 
+support.korea@aloggers.com
