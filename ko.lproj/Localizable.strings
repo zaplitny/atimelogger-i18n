@@ -109,10 +109,14 @@
 "%dm" = "%d분";
 "%dh" = "%d시간";
 "< 1m" = "1분 이하";
-"MMMM d" = "MMMM d";
-"MMMM d, ccc" = "MMMM d, ccc";
-"MMM dd" = "MMM dd";
-"MMM, yyyy" = "yyyy MMM";
+"MMMM d" = "MM월 d일";
+"MMMM d, ccc" = "MM월 dd일, ccc";
+"MM/dd" = "MM월/dd일";
+"dd/MM" = "dd일/MM월";
+"dd MMM" = "dd일 MM월";
+"MMM dd" = "MM월 dd일";
+"MMM, yyyy" = "yyyy MM월";
+"MMMM dd, cccc" = "MM월 dd일, cccc";
 
 // History
 "Total time tracked" = "총 기록시간";
@@ -177,6 +181,13 @@
 "Select interval" = "시간 설정";
 "Day format" = "날짜 표시형식";
 "Duration format" = "시간 표시형식";
+"Passcode Lock" = "패스워드";
+"Pie chart" = "파이차트";
+"Top level" = "Top level";
+"On" = "On";
+"Off" = "Off";
+"Color picker" = "Color picker";
+"Predefined" = "Predefined";
 
 // Warnings
 "Warning" = "잠깐!";
