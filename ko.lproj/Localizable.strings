@@ -66,9 +66,9 @@
 "Twitter" = "트위터";
 "Untracked time" = "누락 시간";
 "Details" = "세부설명";
-"None" = "동시진행";
-"Stop" = "진행중인 활동 종료";
-"Pause" = "진행중인 활동 일시정지";
+"None" = "없음";
+"Stop" = "활동 종료";
+"Pause" = "일시정지 기능";
 "Start" = "시작";
 "Resume" = "다시 시작";
 "Comment" = "설명";
@@ -79,15 +79,15 @@
 "Planned duration" = "시간 계획";
 "Planned finish" = "종료 예약";
 "Alert time" = "알람";
-"At time of event" = "알람 시각";
+"At time of event" = "정각에";
 "1 min before" = "1 분 전";
 "5 min before" = "5 분 전";
 "10 min before" = "10 분 전";
 "15 min before" = "15 분 전 ";
 "Repeat interval" = "반복";
 "Every 5 min" = "5 분 마다";
-"Every 10 min" = "10분 마다";
-"Every 15 min" = "15분 마다";
+"Every 10 min" = "10 분 마다";
+"Every 15 min" = "15 분 마다";
 "Repeat times" = "반복 횟수 ";
 "Never" = "반복 안함";
 "Forever" = "계속 반복";
@@ -111,8 +111,8 @@
 "< 1m" = "1분 이하";
 "MMMM d" = "MM월 d일";
 "MMMM d, ccc" = "MM월 dd일, ccc";
-"MM/dd" = "MM월/dd일";
-"dd/MM" = "dd일/MM월";
+"MM/dd" = "MM/dd";
+"dd/MM" = "dd/MM";
 "dd MMM" = "dd일 MM월";
 "MMM dd" = "MM월 dd일";
 "MMM, yyyy" = "yyyy MM월";
@@ -120,12 +120,12 @@
 
 // History
 "Total time tracked" = "총 기록시간";
-"Nothing tracked for selected period" = "해당시간에 기록이 없어요";
-"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "활동기간 변경이나 활동시작/다시시작하시려면 «+»을 탭해주시고, 새로운 활동을 하시려면 활동아이콘을 탭해주세요";
+"Nothing tracked for selected period" = "이 시간엔 기록이 없어요";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "새로운 활동을 시작/다시시작하시려면 «+»을 탭하시거나 첫화면에서 활동아이콘을 탭해주세요";
 
 // Categories
-"Create group" = "그룹 생성";
-"Create type" = "활동유형 생성";
+"Create group" = "그룹 추가";
+"Create type" = "활동유형 추가";
 "Edit group" = "그룹 편집";
 "Edit type" = "활동유형 편집";
 "Bar chart" = "막대그래프";
@@ -139,8 +139,8 @@
 // Reports
 "All" = "모두";
 "%d activity types" = "%d가지 활동유형";
-"Show 'Other' time" = "그 외 시간 표시";
-"Other" = "그 외 시간";
+"Show 'Other' time" = "나머지시간 표시";
+"Other" = "나머지시간";
 
 // Backups
 "Backups" = "백업";
@@ -152,11 +152,11 @@
 "Restored successfully" = "성공적으로 저장되었어요";
 
 // More
-"Version" = "버젼";
+"Version" = "버전";
 "Help" = "도움말";
 "Loading..." = "진행 중...";
 "Contact us" = "Contact us";
-"Review us on iTunes" = "iTunes에서 평가";
+"Review us on iTunes" = "iTunes에서 별점/댓글";
 "Follow us on Twitter" = "Twitter에서 팔로우";
 "Like us on Facebook" = "Facebook에서 좋아요";
 "Credits" = "Credits";
@@ -167,27 +167,27 @@
 // Settings
 "Week starts on" = "한 주의 시작";
 "Theme" = "테마";
-"Action on start" = "다른활동 진행 중일때, 새로운 시작";
-"Warnings" = "잠깐!";
+"Action on start" = "다른활동 진행 중일때";
+"Warnings" = "경고메시지";
 "Formats" = "표시형식";
 "Advanced" = "고급설정";
 "Select theme" = "테마 설정";
 "Select day" = "날짜 선택";
 "Select action" = "활동 선택";
-"Time picker interval" = "시간 기록 단위";
+"Time picker interval" = "시간 측정간격";
 "%d minutes" = "%d 분 간격";
 "%d min" = "%d 분";
-"Activity status change" = "활동상태 변경";
+"Activity status change" = "활동상태 변경할 때";
 "Select interval" = "시간 설정";
 "Day format" = "날짜 표시형식";
 "Duration format" = "시간 표시형식";
-"Passcode Lock" = "패스워드";
+"Passcode Lock" = "비밀번호 잠금";
 "Pie chart" = "파이차트";
 "Top level" = "Top level";
-"On" = "On";
-"Off" = "Off";
-"Color picker" = "Color picker";
-"Predefined" = "Predefined";
+"On" = "켬";
+"Off" = "끔";
+"Color picker" = "색상 추출기";
+"Predefined" = "정해진 색상";
 
 // Warnings
 "Warning" = "잠깐!";
@@ -197,7 +197,7 @@
 "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "그룹을 삭제하시면 모든 하위그룹, 활동유형, 모든 기록이 삭제돼요. 삭제하실건가요?";
 "Restore will delete old data and overwrites with backed up data. Are you sure?" = "저장하시면 기존의 기록을 삭제하고 백업된 기록으로 덮어씌워져요. 저장하실건가요?";
 "Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "이미 그룹을 생성하셨기 때문에 그룹비활성화를 하실 수 없어요. 먼저 그룹을 삭제해주세요.";
-"welcome.message" = "aTimeLogger 2에 첫방문을 축하드려요! 처음사용하시는 분들을 위한 사용설명과 함께 aTimeLogger 1.x에서 오신 분들을 위한 간단한 튜토리얼이 준비되어 있어요.";
+"welcome.message" = "aTimeLogger 2에 첫방문을 축하드려요! 처음 사용하시는 분들을 위한 사용설명과 함께 aTimeLogger 1 에서 갈아타신 분들을 위한 간단한 튜토리얼이 준비되어 있어요.";
 "Welcome" = "안녕하세요!:D";
 "View" = "지금 볼게요";
 "No, thanks" = "아뇨, 괜찮아요";
