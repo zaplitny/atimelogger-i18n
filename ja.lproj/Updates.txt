@@ -17,8 +17,8 @@ New:
 
 Improved:
 ✓ Pie chart's legend shows durations
-✓ Now pie chart can display either only top level grops and activity types or all of them at the same chart — just shake device when pie chart is displayed to switch this display modes
-✓ 'Activities' tab now have mode to show only 'Types' (without groups)
+✓ Now pie chart can display either only top level groups and activity types or all of them in the same chart — just shake device when pie chart is displayed to switch display modes
+✓ 'Activities' tab now has mode to show only 'Types' (without groups)
 ✓ Improved local notifications
 
 Fixed:
