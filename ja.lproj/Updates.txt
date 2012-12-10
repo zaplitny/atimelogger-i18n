@@ -1,15 +1,17 @@
 Version 1.1
 
 Thanks to each of you who cares! Who writes reviews, sends feature requests, reports bugs and 
-spreads a word about aTimeLogger! Your any feedback inspires us and gives the strength to go forward!
-Join us on Facebook and Twitter to keep up to date with latest news and events!
+spreads a word about aTimeLogger! Your feedback inspires us and gives the strength to go forward!
+
+Join us on Facebook and Twitter to keep up to date with latest news and events! 
+For more details about the update see application blog (www.aloggers.com)
 
 New:
 ★ Translations: korean, simplified chinese and traditional chinese
 ★ Calendar view for time period 'Day'
 ★ Pass code protection
 ★ Alternative color picker
-★ Button 'Now'on 'Edit interval' view
+★ Button 'Now' on 'Edit interval' view
 ★ 'Smart' start date is back!
 ★ Display auto-lock can be turned off
 
@@ -20,4 +22,4 @@ Improved:
 ✓ Improved local notifications
 
 Fixed:
-✝ Restore backup with running activity
+✝ Restore old aTimeLogger backup with running activity
