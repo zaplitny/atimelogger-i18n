@@ -1,0 +1,15 @@
+Version 1.1
+
+Added lot of features you missed from old good aTimeLogger. List of all changes: 
+- calendar view for days; 
+- pie chart now have 2 display modes: 'Top level' shows categories and groups of top level and 'Categories' displays categories only. You can switch between 2 modes in Settings or simply by shaking device when pie chart is displayed; 
+- pie chart now shows durations in legend below; 
+- pass code can be set to protect data; 
+- color picker; 
+- 'Activities' tab now have mode to show only 'Types' (without groups); 
+- added 'Now' button on 'Edit interval' view; 
+- notifications improvements; 
+- added korean, simplified chinese, traditional chinese translations; 
+- 'smart' start date; 
+- display auto-lock can be turned off; 
+- bug fixes
