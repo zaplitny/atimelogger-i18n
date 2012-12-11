@@ -1,25 +1,25 @@
 Version 1.1
 
-Thanks to each of you who cares! Who writes reviews, sends feature requests, reports bugs and 
-spreads a word about aTimeLogger! Your feedback inspires us and gives the strength to go forward!
+Спасибо всем за поддержку, отзывы и критику! Мы ничего не оставляем без внимания и совершенствуем приложение с каждой версией, поэтому не стесняйтесь делиться своими идеями. 
 
-Join us on Facebook and Twitter to keep up to date with latest news and events! 
-For more details about the update see application blog (www.aloggers.com)
+Присоединяйтесь к нашей странице в Facebook и Twitter (@atimelogger)! 
+А теперь про новую версию 
 
-New:
-★ Translations: korean, simplified chinese and traditional chinese
-★ Calendar view for time period 'Day'
-★ Pass code protection
-★ Alternative color picker
-★ Button 'Now' on 'Edit interval' view
-★ 'Smart' start date is back!
-★ Display auto-lock can be turned off
+Добавили: 
+★ Просмотр дней в календарном виде 
+★ Защита паролем 
+★ Выбор цвета при помощи другого пикера 
+★ Кнопка "Сейчас" при редактировании интервала 
+★ 'Умная' дата начала активности 
+★ "Автоматическое выключение" экрана может быть отключено 
+★ Переводы на корейский и китайский языки 
 
-Improved:
-✓ Pie chart's legend shows durations
-✓ Now pie chart can display either only top level groups and activity types or all of them in the same chart — just shake device when pie chart is displayed to switch display modes
-✓ 'Activities' tab now has mode to show only 'Types' (without groups)
-✓ Improved local notifications
+Улучшили: 
+✓ Легенда в пироге показывает продолжительность 
+✓ Таб 'Активности' теперь имеет режим без групп 
+✓ В уведомлениях можно задавать не только продолжительность, но и конкретное время 
 
-Fixed:
-✝ Restore old aTimeLogger backup with running activity
+Исправили: 
+✝ Проблема после восстановления из первой версии 
+
+Более подробный разбор полетов можно посмотреть в нашем блоге (www.aloggers.com)
