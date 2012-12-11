@@ -1,25 +1,20 @@
 Version 1.1
 
-Thanks to each of you who cares! Who writes reviews, sends feature requests, reports bugs and 
-spreads a word about aTimeLogger! Your feedback inspires us and gives the strength to go forward!
-
-Join us on Facebook and Twitter to keep up to date with latest news and events! 
-For more details about the update see application blog (www.aloggers.com)
-
-New:
-★ Translations: korean, simplified chinese and traditional chinese
-★ Calendar view for time period 'Day'
-★ Pass code protection
-★ Alternative color picker
-★ Button 'Now' on 'Edit interval' view
-★ 'Smart' start date is back!
-★ Display auto-lock can be turned off
-
-Improved:
-✓ Pie chart's legend shows durations
-✓ Now pie chart can display either only top level groups and activity types or all of them in the same chart — just shake device when pie chart is displayed to switch display modes
-✓ 'Activities' tab now has mode to show only 'Types' (without groups)
-✓ Improved local notifications
-
-Fixed:
-✝ Restore old aTimeLogger backup with running activity
+興味を持ってくれたみんなありがとうございます！レビューを書いたり、機能のアイディアを教えてくれたり、バグレポート出したり、あとaTimeLoggerのことを友達に教えたりして、本当にありがとうございました！みんなからいただくフィードバックが常に私たちを前進させる力となります。
+ぜひツイッターとフェースブックでフォローして、いつでもニュースとエベントの最新情報を手に入れましょう！
+アップデートの詳細はアプリのブログをご覧ください。（www.aloggers.com）
+新しい機能：
+★翻訳：韓国語、中国語（繁体字、簡体字）
+★'一日'のカレンダー表示
+★パスコードロック
+★別の色選択方法
+★「期間の編集」のとこで「今」ボタンを追加
+★開始日の時間が「スマート選択」→自動的に前の記録の終了日の時間を選択するようになりました
+★画面の自動ロックを「オフ」にすることができるようになりました
+改善した機能：
+✓ 円グラフの凡例に時間の詳細を追加
+✓ 円グラフではグループ全体の表示だけが可能、またはカテゴリー別々の表示だけ、または両方を同時に表示、手を振ってシャッフルすれば表示がかわる。
+✓ 「記録画面」ではグループを表示せずに、カテゴリを表示することができるようになりました。
+✓ 位置情報サービスの改善
+バクの修正：
+✝ 旧aTimeLoggerのバックアップを復元する時に、実行中のログがある場合のバグを修正
