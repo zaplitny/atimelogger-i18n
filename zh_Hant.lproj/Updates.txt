@@ -1,25 +1,25 @@
-Version 1.1
+v1.1 版
 
-Thanks to each of you who cares! Who writes reviews, sends feature requests, reports bugs and 
-spreads a word about aTimeLogger! Your feedback inspires us and gives the strength to go forward!
+感謝在乎的每一個人！不論寫了評語，給我們傳送了希望的功能，回報 bug 和
+傳遞有關 aTimeLogger 的任何話語！您的意見反映，激勵著我們，並給了我們前進的力量！
 
-Join us on Facebook and Twitter to keep up to date with latest news and events! 
-For more details about the update see application blog (www.aloggers.com)
+加入到我們的 Facebook 和 Twitter 以不斷更新我們最新的新聞和任何事件！
+更多更新的詳細資訊，請參閱應用程式 Blog (www.aloggers.com)
 
-New:
-★ Translations: korean, simplified chinese and traditional chinese
-★ Calendar view for time period 'Day'
-★ Pass code protection
-★ Alternative color picker
-★ Button 'Now' on 'Edit interval' view
-★ 'Smart' start date is back!
-★ Display auto-lock can be turned off
+新增功能：
+★ 翻譯：韓語、簡體中文和繁體中文
+★ 日曆檢視的時間期間以「天」檢視
+★ 密碼保護
+★ 替代顏色選擇器
+★ 在「編輯間隔」檢視內的「現在」按鈕
+★ 智慧型的開始日期回來了！
+★ 顯示自動鎖定可以關閉
 
-Improved:
-✓ Pie chart's legend shows durations
-✓ Now pie chart can display either only top level groups and activity types or all of them in the same chart — just shake device when pie chart is displayed to switch display modes
-✓ 'Activities' tab now has mode to show only 'Types' (without groups)
-✓ Improved local notifications
+改進：
+✓ 圓形圖圖例顯示持續時間
+✓ 現在圓形圖可以只有都在同一圖表中顯示頂層群組和活動類型或全部的項目 — 切換圓形圖顯示模式時，只需要搖一搖裝置
+✓ 「活動」頁籤現在有模式以便只顯示「類型」(不群組)
+✓ 改進本地通知
 
-Fixed:
-✝ Restore old aTimeLogger backup with running activity
+修正：
+✝ 還原舊版 aTimeLogger 備份與正在執行的活動
