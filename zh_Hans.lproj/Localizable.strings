@@ -105,9 +105,9 @@
 "Duration" = "持续多久";
 
 // Format
-"%dh %dm" = "%小时 %分钟";
-"%dm" = "%分钟";
-"%dh" = "%小时";
+"%dh %dm" = "%d 小时 %d 分钟";
+"%dm" = "%d 分钟";
+"%dh" = "%d 小时";
 "< 1m" = "< 1分钟";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
