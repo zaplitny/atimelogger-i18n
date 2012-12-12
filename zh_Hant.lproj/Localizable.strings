@@ -105,9 +105,9 @@
 "Duration" = "持續多久";
 
 // Format
-"%dh %dm" = "%小時 %分鐘";
-"%dm" = "%分鐘";
-"%dh" = "%小時";
+"%dh %dm" = "%d 小時 %d 分鐘";
+"%dm" = "%d 分鐘";
+"%dh" = "%d 小時";
 "< 1m" = "< 1分鐘";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
@@ -135,7 +135,7 @@
 // Reports
 "All" = "全部";
 "%d activity types" = "%d 活動類型";
-"Show 'Other' time" = "顯示'其他'時間";
+"Show 'Other' time" = "顯示「其他」時間";
 "Other" = "其他";
 
 // Backups
