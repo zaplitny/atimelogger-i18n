@@ -1,16 +1,16 @@
 "Activities" = "活动";
-"History" = "历史纪录";
-"Activity types" = "活动类型";
-"Types" = "类型";
+"History" = "历史";
+"Activity types" = "活动类别";
+"Types" = "类别";
 "tab.category" = "标签类别";
 "More" = "更多";
 "Backup/Restore" = "备份/还原";
 "Reports" = "报告";
-"Settings" = "设定";
+"Settings" = "设置";
 "About" = "关于";
 
 "Save" = "保存";
-"Update"  = "更新";
+"Update"  = "应用";
 "Edit" = "编辑";
 "Delete" = "删除";
 "Cancel" = "取消";
@@ -38,57 +38,57 @@
 "Are you sure you want to pause the activity?" = "您确定要暂停此活动吗?";
 "Are you sure you want to stop the activity?" = "您确定要结束此活动吗?";
 "Are you sure you want to resume the activity?" = "您确定要继续此活动吗?";
-"Are you sure you want to pause/stop running activities and resume this one?" = "您确定要暂停/结束正在进行的活动并继续此活动吗？";
-"Are you sure you want to start the activity?" = "您确定要开始此活动吗?";
-"Are you sure you want to pause/stop running activities and start this one?" = "您确定要暂停/结束正在进行的活动并开始此活动吗? ";
-"Create activity" = "创建活动";
+"Are you sure you want to pause/stop running activities and resume this one?" = "您确定要暂停/结束正在进行的活动并重新启动现活动？";
+"Are you sure you want to start the activity?" = "您确定要开始此活动?";
+"Are you sure you want to pause/stop running activities and start this one?" = "您确定要暂停/结束正在进行的活动并开始现活动? ";
+"Create activity" = "建立新活动";
 "Edit activity" = "编辑活动";
-"Intervals" = "间距";
+"Intervals" = "间隔";
 "Running" = "进行中";
 "Paused" = "暂停";
 "Stopped" = "结束";
-"Touch «+» to add time interval" = "请按 «+» 增加时间间距";
-"Enter comment" = "输入评论";
-"Time Left" = "剩余时间";
-"Overtime" = "超过时间";
+"Touch ?+? to add time interval" = "请按 ?+? 增加新的活动时段";
+"Enter comment" = "增加备注";
+"Time Left" = "剩余的时间";
+"Overtime" = "超过的时间";
 
 "Date range" = "日期范围";
 "Select range" = "选择范围";
-"Send by email" = "发送邮件";
+"Send by email" = "通过邮件发送";
 "Select activity type" = "选择活动类别";
 "Select type" = "选择类别";
-"Create report" = "建立报告";
-"Creating report..." = "建立报告中...";
-"Report" = "报告";
+"Create report" = "输出报表";
+"Creating report..." = "报表输出中...";
+"Report" = "报表";
 "Select format" = "选择格式";
-"Export" = "导出";
+"Export" = "输出";
 
 "Twitter" = "推特";
-"Untracked time" = "未记录时间";
-"Details" = "细节";
+"Untracked time" = "未记录的时间";
+"Details" = "详情";
 "None" = "无";
 "Stop" = "结束";
 "Pause" = "暂停";
 "Start" = "开始";
 "Resume" = "继续";
-"Comment" = "评论";
+"Comment" = "备注";
 "Today" = "今天";
 "Yesterday" = "昨天";
 
 // Notifications
-"Planned duration" = "计划时间长度";
-"Planned finish" = "计划结束时间";
-"Alert time" = "闹铃提醒时间";
-"At time of event" = "事件的时间";
-"1 min before" = "一分钟前";
-"5 min before" = "五分钟前";
-"10 min before" = "十分钟前";
-"15 min before" = "十五分钟前";
-"Repeat interval" = "重复时间间距";
+"Planned duration" = "预计持续的时间";
+"Planned finish" = "预计结束的时间";
+"Alert time" = "闹铃提醒";
+"At time of event" = "事件发生时";
+"1 min before" = "1分钟前";
+"5 min before" = "5分钟前";
+"10 min before" = "10分钟前";
+"15 min before" = "15分钟前";
+"Repeat interval" = "重复间隔";
 "Every 5 min" = "每五分钟";
 "Every 10 min" = "每十分钟";
 "Every 15 min" = "每十五分钟";
-"Repeat times" = "重复次数";
+"Repeat times" = "重复";
 "Never" = "从不";
 "Forever" = "永远";
 "1 time" = "一次";
@@ -96,13 +96,13 @@
 "3 times" = "三次";
 "4 times" = "四次";
 "5 times" = "五次";
-"Time to finish" = "结束的时间";
+"Time to finish" = "结束重复";
 
 // Intervals
-"Edit interval" = "编辑间隔";
+"Edit interval" = "编辑时段";
 "From" = "从";
 "To" = "到";
-"Duration" = "持续时间";
+"Duration" = "持续";
 
 // Format
 "%dh %dm" = "%d 小时 %d 分钟";
@@ -117,20 +117,20 @@
 // History
 "Total time tracked" = "所有纪录的时间";
 "Nothing tracked for selected period" = "这段时间内没有任何纪录";
-"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "改变时段, 请按 «+» 开始/继续一个活动，或者请选择活动图标选择一项新活动";
+"Change period, touch ?+? to start/resume an activity or touch Activities icon to select a new activity" = "改变时段, 请按 ?+? 开始/重新启动一个活动，或者选择活动图标开始一个新活动";
 
 // Categories
 "Create group" = "建立群组";
 "Create type" = "建立类别";
 "Edit group" = "编辑群组";
 "Edit type" = "编辑类别";
-"Bar chart" = "直方图";
+"Bar chart" = "柱状图";
 "Total time" = "总时间";
 "Days" = "天数";
 "Hours" = "小时数";
 "No activity types" = "无活动类别";
-"You can't track anything without activity types. Click «+» to add activity type" = "您不能在没有活动类别的情况下记录任何活动。请按 «+» 新增活动类别";
-"Click «Cancel» to discard or «Update» to apply changes" = "请按 «取消» 放弃变更或按 «更新» 确认变更";
+"You can't track anything without activity types. Click ?+? to add activity type" = "您不能在没有选择活动类别的情况下记录，请按 ?+? 新增活动类别";
+"Click ?Cancel? to discard or ?Update? to apply changes" = "请按 ?取消? 放弃改变或按 ?应用? 确认改变";
 
 // Reports
 "All" = "全部";
@@ -140,10 +140,10 @@
 
 // Backups
 "Backups" = "备份";
-"Backup details" = "备分细节";
+"Backup details" = "备份详情";
 "Create backup" = "建立备份";
 "Edit backup" = "编辑备份";
-"Restoring backup..." = "还原备份...";
+"Restoring backup..." = "从备份还原中...";
 "Restore complete" = "还原完毕";
 "Restored successfully" = "还原成功";
 
@@ -151,42 +151,42 @@
 "Version" = "版本";
 "Help" = "帮助";
 "Loading..." = "载入中...";
-"Contact us" = "联络我们";
-"Review us on iTunes" = "在iTunes中评论本应用";
-"Follow us on Twitter" = "在Twitter上关注我们";
-"Like us on Facebook" = "在Facebook上给我们按赞";
+"Contact us" = "连络我们";
+"Review us on iTunes" = "在iTunes中查看";
+"Follow us on Twitter" = "追踪我们的推特";
+"Like us on Facebook" = "在脸谱上赞我们";
 "Credits" = "感谢";
 "Icon design" = "图标设计";
-"Japanese" = "日文";
-"Korea Distributor" = "韩国经销商";
+"Japanese" = "日文版本";
+"Korea Distributor" = "韩文版本";
 
 // Settings
-"Week starts on" = "星期开始于";
+"Week starts on" = "每周开始于";
 "Theme" = "主题";
 "Action on start" = "开始活动";
-"Warnings" = "提醒";
+"Warnings" = "警告";
 "Formats" = "格式";
 "Advanced" = "高级";
 "Select theme" = "选择主题";
 "Select day" = "选择日期";
 "Select action" = "选择活动";
-"Time picker interval" = "时间选择的间距";
+"Time picker interval" = "最小时段";
 "%d minutes" = "%d 分钟";
 "%d min" = "%d 分钟";
-"Activity status change" = "变更活动状态";
-"Select interval" = "选择间距";
+"Activity status change" = "改变活动状态";
+"Select interval" = "选择时段";
 "Day format" = "日期格式";
-"Duration format" = "持续时间格式";
+"Duration format" = "持续时间的格式";
 
 // Warnings
-"Warning" = "提醒";
-"Delete time interval?" = "删除时间间距?";
+"Warning" = "警告";
+"Delete time interval?" = "删除时段?";
 "Delete activity?" = "删除活动?";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "删除活动类型将会删除该项活动内的所有纪录。您确定要删除吗?";
-"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "删除活动群组将会一并删除此群组下的所有下级群组，活动类型与纪录。您确定要删除吗?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "还原会删除所有旧的纪录并备份的纪录覆盖。您确定要还原吗?";
-"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉!你已建立活动群组，无法停止使用。请先删除活动类别";
-"welcome.message" = "欢迎您!这是您第一次使用aTimeLogger 2 .我们为您准备了简介和导览。如果您是aTimeLogger 1.X版本的使用者，我们提供档案转移教学";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "删除活动类型将会删除所有该项活动的纪录。您确定要删除吗?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "删除活动群组将会一并删除此群组下的所有类别与活动。您确定要删除吗?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "还原会删除所有旧的纪录并用备份中的纪录覆盖。您确定要还原吗?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉!你已建立活动类别，无法停止使用。请先删除活动类别";
+"welcome.message" = "欢迎您！如果这是您第一次使用aTimeLogger 2，我们为您准备了简介。如果您是aTimeLogger 1.X版本的使用者，我们为您提供了数据迁移的教程。";
 "Welcome" = "欢迎";
 "View" = "查看";
 "No, thanks" = "不用了，谢谢!";
@@ -203,9 +203,9 @@
 "Housework" = "家务";
 "Cinema" = "电影";
 "Walk" = "走路";
-"Study" = "学习";
+"Study" = "读书";
 "Internet" = "上网";
-"Drink" = "喝酒";
+"Drink" = "饮酒";
 
 // Days of week
 "Monday" = "星期一";
