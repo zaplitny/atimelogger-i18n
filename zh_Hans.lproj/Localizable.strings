@@ -63,7 +63,7 @@
 "Select format" = "选择格式";
 "Export" = "输出";
 
-"Twitter" = "推特";
+"Twitter" = "Twitter";
 "Untracked time" = "未记录的时间";
 "Details" = "详情";
 "None" = "无";
@@ -85,9 +85,9 @@
 "10 min before" = "10分钟前";
 "15 min before" = "15分钟前";
 "Repeat interval" = "重复间隔";
-"Every 5 min" = "每五分钟";
-"Every 10 min" = "每十分钟";
-"Every 15 min" = "每十五分钟";
+"Every 5 min" = "每5分钟";
+"Every 10 min" = "每10分钟";
+"Every 15 min" = "每15分钟";
 "Repeat times" = "重复";
 "Never" = "从不";
 "Forever" = "永远";
@@ -115,8 +115,8 @@
 "MMM, yyyy" = "MMM, yyyy";
 
 // History
-"Total time tracked" = "所有纪录的时间";
-"Nothing tracked for selected period" = "这段时间内没有任何纪录";
+"Total time tracked" = "所有记录的时间";
+"Nothing tracked for selected period" = "该段时间内无任何记录";
 "Change period, touch ?+? to start/resume an activity or touch Activities icon to select a new activity" = "改变时段, 请按 ?+? 开始/重新启动一个活动，或者选择活动图标开始一个新活动";
 
 // Categories
@@ -151,14 +151,14 @@
 "Version" = "版本";
 "Help" = "帮助";
 "Loading..." = "载入中...";
-"Contact us" = "连络我们";
-"Review us on iTunes" = "在iTunes中查看";
-"Follow us on Twitter" = "追踪我们的推特";
-"Like us on Facebook" = "在脸谱上赞我们";
+"Contact us" = "联系我们";
+"Review us on iTunes" = "在iTunes中评论";
+"Follow us on Twitter" = "Follow us on Twitter";
+"Like us on Facebook" = "Like us on Facebook";
 "Credits" = "感谢";
 "Icon design" = "图标设计";
-"Japanese" = "日文版本";
-"Korea Distributor" = "韩文版本";
+"Japanese" = "日语";
+"Korea Distributor" = "韩语";
 
 // Settings
 "Week starts on" = "每周开始于";
