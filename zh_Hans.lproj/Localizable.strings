@@ -1,8 +1,8 @@
 "Activities" = "活动";
 "History" = "历史";
-"Activity types" = "活动类别";
+"Activity types" = "类别";
 "Types" = "类别";
-"tab.category" = "标签类别";
+"tab.category" = "类别";
 "More" = "更多";
 "Backup/Restore" = "备份/还原";
 "Reports" = "报告";
@@ -43,14 +43,14 @@
 "Are you sure you want to pause/stop running activities and start this one?" = "您确定要暂停/结束正在进行的活动并开始现活动? ";
 "Create activity" = "建立新活动";
 "Edit activity" = "编辑活动";
-"Intervals" = "间隔";
-"Running" = "进行中";
-"Paused" = "暂停";
-"Stopped" = "结束";
+"Intervals" = "时间段";
+"Running" = "进行中状态";
+"Paused" = "暂停状态";
+"Stopped" = "结束状态";
 "Touch ?+? to add time interval" = "请按 ?+? 增加新的活动时段";
 "Enter comment" = "增加备注";
-"Time Left" = "剩余的时间";
-"Overtime" = "超过的时间";
+"Time Left" = "剩余时间";
+"Overtime" = "超时";
 
 "Date range" = "日期范围";
 "Select range" = "选择范围";
@@ -63,7 +63,7 @@
 "Select format" = "选择格式";
 "Export" = "输出";
 
-"Twitter" = "推特";
+"Twitter" = "Twitter";
 "Untracked time" = "未记录的时间";
 "Details" = "详情";
 "None" = "无";
@@ -76,33 +76,33 @@
 "Yesterday" = "昨天";
 
 // Notifications
-"Planned duration" = "预计持续的时间";
-"Planned finish" = "预计结束的时间";
+"Planned duration" = "预计持续时间";
+"Planned finish" = "预计结束时间";
 "Alert time" = "闹铃提醒";
 "At time of event" = "事件发生时";
-"1 min before" = "1分钟前";
-"5 min before" = "5分钟前";
-"10 min before" = "10分钟前";
-"15 min before" = "15分钟前";
+"1 min before" = "提前1分钟";
+"5 min before" = "提前5分钟";
+"10 min before" = "提前10分钟";
+"15 min before" = "提前15分钟";
 "Repeat interval" = "重复间隔";
-"Every 5 min" = "每五分钟";
-"Every 10 min" = "每十分钟";
-"Every 15 min" = "每十五分钟";
-"Repeat times" = "重复";
+"Every 5 min" = "每5分钟";
+"Every 10 min" = "每10分钟";
+"Every 15 min" = "每15分钟";
+"Repeat times" = "重复次数";
 "Never" = "从不";
 "Forever" = "永远";
-"1 time" = "一次";
-"2 times" = "两次";
-"3 times" = "三次";
-"4 times" = "四次";
-"5 times" = "五次";
+"1 time" = "1次";
+"2 times" = "2次";
+"3 times" = "3次";
+"4 times" = "4次";
+"5 times" = "5次";
 "Time to finish" = "结束重复";
 
 // Intervals
 "Edit interval" = "编辑时段";
-"From" = "从";
-"To" = "到";
-"Duration" = "持续";
+"From" = "开始";
+"To" = "结束";
+"Duration" = "持续时间";
 
 // Format
 "%dh %dm" = "%d 小时 %d 分钟";
@@ -115,7 +115,7 @@
 "MMM, yyyy" = "MMM, yyyy";
 
 // History
-"Total time tracked" = "所有纪录的时间";
+"Total time tracked" = "记录时间合计";
 "Nothing tracked for selected period" = "这段时间内没有任何纪录";
 "Change period, touch ?+? to start/resume an activity or touch Activities icon to select a new activity" = "改变时段, 请按 ?+? 开始/重新启动一个活动，或者选择活动图标开始一个新活动";
 
@@ -135,7 +135,7 @@
 // Reports
 "All" = "全部";
 "%d activity types" = "%d 活动类别";
-"Show 'Other' time" = "显示'其他'时间";
+"Show 'Other' time" = "显示“其他”时间";
 "Other" = "其他";
 
 // Backups
@@ -151,14 +151,14 @@
 "Version" = "版本";
 "Help" = "帮助";
 "Loading..." = "载入中...";
-"Contact us" = "连络我们";
-"Review us on iTunes" = "在iTunes中查看";
-"Follow us on Twitter" = "追踪我们的推特";
-"Like us on Facebook" = "在脸谱上赞我们";
+"Contact us" = "联系我们";
+"Review us on iTunes" = "在iTunes中评论";
+"Follow us on Twitter" = "Follow us on Twitter";
+"Like us on Facebook" = "Like us on Facebook";
 "Credits" = "感谢";
 "Icon design" = "图标设计";
-"Japanese" = "日文版本";
-"Korea Distributor" = "韩文版本";
+"Japanese" = "日语";
+"Korea Distributor" = "韩语";
 
 // Settings
 "Week starts on" = "每周开始于";
@@ -166,26 +166,26 @@
 "Action on start" = "开始活动";
 "Warnings" = "警告";
 "Formats" = "格式";
-"Advanced" = "高级";
+"Advanced" = "高级设置";
 "Select theme" = "选择主题";
 "Select day" = "选择日期";
 "Select action" = "选择活动";
-"Time picker interval" = "最小时段";
+"Time picker interval" = "最小可选择时段";
 "%d minutes" = "%d 分钟";
 "%d min" = "%d 分钟";
-"Activity status change" = "改变活动状态";
-"Select interval" = "选择时段";
+"Activity status change" = "活动状态变更";
+"Select interval" = "选择时间段";
 "Day format" = "日期格式";
-"Duration format" = "持续时间的格式";
+"Duration format" = "持续时间格式";
 
 // Warnings
 "Warning" = "警告";
-"Delete time interval?" = "删除时段?";
-"Delete activity?" = "删除活动?";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "删除活动类型将会删除所有该项活动的纪录。您确定要删除吗?";
+"Delete time interval?" = "确认删除时间段?";
+"Delete activity?" = "确认删除活动?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "删除活动类型将会删除所有该类别活动的记录。您确定要删除吗?";
 "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "删除活动群组将会一并删除此群组下的所有类别与活动。您确定要删除吗?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "还原会删除所有旧的纪录并用备份中的纪录覆盖。您确定要还原吗?";
-"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉!你已建立活动类别，无法停止使用。请先删除活动类别";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "还原会删除所有旧记录并用备份数据覆盖。您确定要还原吗?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "很抱歉!您已建立活动类别，无法停止使用。请先删除活动类别";
 "welcome.message" = "欢迎您！如果这是您第一次使用aTimeLogger 2，我们为您准备了简介。如果您是aTimeLogger 1.X版本的使用者，我们为您提供了数据迁移的教程。";
 "Welcome" = "欢迎";
 "View" = "查看";
@@ -202,8 +202,8 @@
 "Entertainment" = "娱乐";
 "Housework" = "家务";
 "Cinema" = "电影";
-"Walk" = "走路";
-"Study" = "读书";
+"Walk" = "步行";
+"Study" = "学习";
 "Internet" = "上网";
 "Drink" = "饮酒";
 
