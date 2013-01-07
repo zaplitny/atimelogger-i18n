@@ -129,6 +129,10 @@
 "Days" = "天数";
 "Hours" = "小时数";
 "No activity types" = "无活动类别";
+"Archive" = "Archive";
+"Unarchive" = "Unarchive";
+"Archive activity type?" = "Archive activity type?";
+"Unarchive activity type?" = "Unarchive activity type?";
 "You can't track anything without activity types. Click ?+? to add activity type" = "您不能在没有选择活动类别的情况下记录，请按 ?+? 新增活动类别";
 "Click ?Cancel? to discard or ?Update? to apply changes" = "请按 ?取消? 放弃改变或按 ?应用? 确认改变";
 
@@ -137,6 +141,17 @@
 "%d activity types" = "%d 活动类别";
 "Show 'Other' time" = "显示“其他”时间";
 "Other" = "其他";
+
+// Goals
+"Goals" = "Goals";
+"Create goal" = "Create goal";
+"Edit goal" = "Edit goal";
+"Goal type" = "Goal type";
+"Alert" = "Alert";
+"Delete goal?" = "Delete goal?";
+"Activity duration" = "Activity duration";
+"Interval duration" = "Interval duration";
+"Day duration" = "Day duration";
 
 // Backups
 "Backups" = "备份";
@@ -177,6 +192,13 @@
 "Select interval" = "选择时间段";
 "Day format" = "日期格式";
 "Duration format" = "持续时间格式";
+"Passcode Lock" = "Passcode Lock";
+"Pie chart" = "Pie chart";
+"Top level" = "Top level";
+"On" = "On";
+"Off" = "Off";
+"Color picker" = "Color picker";
+"Predefined" = "Predefined";
 
 // Warnings
 "Warning" = "警告";
