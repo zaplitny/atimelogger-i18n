@@ -49,7 +49,7 @@
 "Stopped" = "Закончено";
 "Touch «+» to add time interval" = "Нажмите «+» чтобы добавить интервал";
 "Enter comment" = "Введите комментарий";
-"Time Left" = "Time Left";
+"Time Left" = "Осталось";
 "Overtime" = "Overtime";
 
 "Date range" = "Период";
@@ -77,8 +77,8 @@
 "Yesterday" = "Вчера";
 
 // Notifications
-"Planned duration" = "План";
-"Planned finish" = "Planned finish";
+"Planned duration" = "План. длит.";
+"Planned finish" = "План. финиш";
 "Alert time" = "Уведомлять";
 "At time of event" = "Во время события";
 "1 min before" = "За 1 минуту ";
@@ -108,12 +108,16 @@
 // Format
 "%dh %dm" = "%dч %dм";
 "%dm" = "%dм";
-"%dh" = "%dч";
+"%dh" = "%d ч";
 "< 1m" = "< 1м";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
+"MM/dd" = "MM/dd";
+"dd/MM" = "dd/MM";
+"dd MMM" = "dd MMM";
 "MMM dd" = "MMM dd";
 "MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MMMM dd, cccc";
 
 // History
 "Total time tracked" = "Всего записано";
@@ -130,6 +134,10 @@
 "Days" = "Дни";
 "Hours" = "Часы";
 "No activity types" = "Нет типов активности";
+"Archive" = "Архивировать";
+"Unarchive" = "Разархивировать";
+"Archive activity type?" = "Архивировать тип активности?";
+"Unarchive activity type?" = "Разархивировать тип активности?";
 "You can't track anything without activity types. Click «+» to add activity type" = "Нельзя делать записи без типов активностей. Нажмите «+» чтобы добавить тип";
 "Click «Cancel» to discard or «Update» to apply changes" = "Нажмите «Отмена» чтобы отменить изменения или «Сохранить» чтобы изменения вступили в силу";
 
@@ -138,6 +146,17 @@
 "%d activity types" = "%d типов";
 "Show 'Other' time" = "Показывать 'Другое'";
 "Other" = "Другое";
+
+// Goals
+"Goals" = "Цели";
+"Create goal" = "Созд цель";
+"Edit goal" = "Ред цель";
+"Goal type" = "Тип цели";
+"Alert" = "Alert";
+"Delete goal?" = "Удалить цель?";
+"Activity duration" = "Activity duration";
+"Interval duration" = "Interval duration";
+"Day duration" = "Day duration";
 
 // Backups
 "Backups" = "Бэкапы";
@@ -178,6 +197,13 @@
 "Select interval" = "Выберите интервал";
 "Day format" = "Формат дня";
 "Duration format" = "Формат длительности";
+"Passcode Lock" = "Пароль";
+"Pie chart" = "Pie chart";
+"Top level" = "Top level";
+"On" = "Вкл";
+"Off" = "Выкл";
+"Color picker" = "Выбор цвета";
+"Predefined" = "Заданные";
 
 // Warnings
 "Warning" = "Внимание";
