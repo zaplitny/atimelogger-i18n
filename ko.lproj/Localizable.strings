@@ -133,6 +133,10 @@
 "Days" = "일";
 "Hours" = "시간";
 "No activity types" = "활동유형이 없어요";
+"Archive" = "Archive";
+"Unarchive" = "Unarchive";
+"Archive activity type?" = "Archive activity type?";
+"Unarchive activity type?" = "Unarchive activity type?";
 "You can't track anything without activity types. Click «+» to add activity type" = "활동유형을 선택해주세요. 활동유형을 추가하시려면 «+»을 탭해주세요";
 "Click «Cancel» to discard or «Update» to apply changes" = "삭제하시려면 «취소»를, 변경사항을 적용하시려면 «업데이트»를 탭해주세요";
 
@@ -141,6 +145,17 @@
 "%d activity types" = "%d가지 활동유형";
 "Show 'Other' time" = "나머지시간 표시";
 "Other" = "나머지시간";
+
+// Goals
+"Goals" = "Goals";
+"Create goal" = "Create goal";
+"Edit goal" = "Edit goal";
+"Goal type" = "Goal type";
+"Alert" = "Alert";
+"Delete goal?" = "Delete goal?";
+"Activity duration" = "Activity duration";
+"Interval duration" = "Interval duration";
+"Day duration" = "Day duration";
 
 // Backups
 "Backups" = "백업";
