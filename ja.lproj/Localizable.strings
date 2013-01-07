@@ -10,7 +10,7 @@
 "About" = "About";
 
 "Save" = "保存";
-"Update"  = "更新";
+"Update" = "更新";
 "Edit" = "編集";
 "Delete" = "削除";
 "Cancel" = "キャンセル";
@@ -111,8 +111,12 @@
 "< 1m" = "< 1分";
 "MMMM d" = "MM月 d日";
 "MMMM d, ccc" = "MM月 d日, ccc";
+"MM/dd" = "MM月/d日";
+"dd/MM" = "d日/MM月";
+"dd MMM" = "d日 MM月";
 "MMM dd" = "MM月 d日";
 "MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MM月 d日, cccc";
 
 // History
 "Total time tracked" = "合計時間";
@@ -129,6 +133,10 @@
 "Days" = "日";
 "Hours" = "時間";
 "No activity types" = "ログが存在しません";
+"Archive" = "Archive";
+"Unarchive" = "Unarchive";
+"Archive activity type?" = "Archive activity type?";
+"Unarchive activity type?" = "Unarchive activity type?";
 "You can't track anything without activity types. Click «+» to add activity type" = "ログがないと記録を取ることができません。＋をタップしてログを作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 
@@ -137,6 +145,17 @@
 "%d activity types" = "%d 種類";
 "Show 'Other' time" = "非記録時間を表示";
 "Other" = "その他";
+
+// Goals
+"Goals" = "Goals";
+"Create goal" = "Create goal";
+"Edit goal" = "Edit goal";
+"Goal type" = "Goal type";
+"Alert" = "Alert";
+"Delete goal?" = "Delete goal?";
+"Activity duration" = "Activity duration";
+"Interval duration" = "Interval duration";
+"Day duration" = "Day duration";
 
 // Backups
 "Backups" = "バックアップ";
@@ -177,6 +196,13 @@
 "Select interval" = "時間間隔の設定";
 "Day format" = "日付の形式";
 "Duration format" = "時間の形式";
+"Passcode Lock" = "パスワード";
+"Pie chart" = "円グラフ";
+"Top level" = "Top level";
+"On" = "On";
+"Off" = "Off";
+"Color picker" = "Color picker";
+"Predefined" = "Predefined";
 
 // Warnings
 "Warning" = "警告";
