@@ -111,8 +111,12 @@
 "< 1m" = "< 1分鐘";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
+"MM/dd" = "MM/dd";
+"dd/MM" = "dd/MM";
+"dd MMM" = "dd MMM";
 "MMM dd" = "MMM dd";
 "MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MMMM dd, cccc";
 
 // History
 "Total time tracked" = "所有記錄的時間";
@@ -129,6 +133,10 @@
 "Days" = "天數";
 "Hours" = "小時數";
 "No activity types" = "無活動類型";
+"Archive" = "Archive";
+"Unarchive" = "Unarchive";
+"Archive activity type?" = "Archive activity type?";
+"Unarchive activity type?" = "Unarchive activity type?";
 "You can't track anything without activity types. Click «+» to add activity type" = "您不能在沒有活動類型的情況下記錄任何活動。請按 «+» 新增活動類型";
 "Click «Cancel» to discard or «Update» to apply changes" = "請按 «取消» 放棄變更或按 «更新» 確認變更";
 
@@ -137,6 +145,17 @@
 "%d activity types" = "%d 活動類型";
 "Show 'Other' time" = "顯示「其他」時間";
 "Other" = "其他";
+
+// Goals
+"Goals" = "Goals";
+"Create goal" = "Create goal";
+"Edit goal" = "Edit goal";
+"Goal type" = "Goal type";
+"Alert" = "Alert";
+"Delete goal?" = "Delete goal?";
+"Activity duration" = "Activity duration";
+"Interval duration" = "Interval duration";
+"Day duration" = "Day duration";
 
 // Backups
 "Backups" = "備份";
@@ -177,6 +196,13 @@
 "Select interval" = "選擇間隔";
 "Day format" = "日期格式";
 "Duration format" = "持續時間格式";
+"Passcode Lock" = "Passcode Lock";
+"Pie chart" = "Pie chart";
+"Top level" = "Top level";
+"On" = "On";
+"Off" = "Off";
+"Color picker" = "Color picker";
+"Predefined" = "Predefined";
 
 // Warnings
 "Warning" = "警告";
