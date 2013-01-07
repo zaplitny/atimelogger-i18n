@@ -107,12 +107,16 @@
 // Format
 "%dh %dm" = "%dh %dm";
 "%dm" = "%dm";
-"%dh" = "%dh";
+"%dh" = "%d h";
 "< 1m" = "< 1m";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
+"MM/dd" = "MM/dd";
+"dd/MM" = "dd/MM";
+"dd MMM" = "dd MMM";
 "MMM dd" = "MMM dd";
 "MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MMMM dd, cccc";
 
 // History
 "Total time tracked" = "Total time tracked";
@@ -129,6 +133,10 @@
 "Days" = "Days";
 "Hours" = "Hours";
 "No activity types" = "No activity types";
+"Archive" = "Archive";
+"Unarchive" = "Unarchive";
+"Archive activity type?" = "Archive activity type?";
+"Unarchive activity type?" = "Unarchive activity type?";
 "You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
 "Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
 
@@ -137,6 +145,17 @@
 "%d activity types" = "%d activity types";
 "Show 'Other' time" = "Show 'Other' time";
 "Other" = "Other";
+
+// Goals
+"Goals" = "Goals";
+"Create goal" = "Create goal";
+"Edit goal" = "Edit goal";
+"Goal type" = "Goal type";
+"Alert" = "Alert";
+"Delete goal?" = "Delete goal?";
+"Activity duration" = "Activity duration";
+"Interval duration" = "Interval duration";
+"Day duration" = "Day duration";
 
 // Backups
 "Backups" = "Backups";
@@ -177,6 +196,14 @@
 "Select interval" = "Select interval";
 "Day format" = "Day format";
 "Duration format" = "Duration format";
+"Passcode Lock" = "Passcode Lock";
+"Pie chart" = "Pie chart";
+"Top level" = "Top level";
+"On" = "On";
+"Off" = "Off";
+"Color picker" = "Color picker";
+"Predefined" = "Predefined";
+"Timer type" = "Timer type";
 
 // Warnings
 "Warning" = "Warning";
