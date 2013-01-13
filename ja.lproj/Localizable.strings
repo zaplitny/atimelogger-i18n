@@ -191,6 +191,7 @@
 "Icon design" = "アイコンデザイン";
 "Japanese" = "日本語";
 "Korea Distributor" = "韓国版の担当者";
+"Chinese" = "Chinese";
 
 // Settings
 "Week starts on" = "開始曜日";
@@ -220,16 +221,16 @@
 "By day" = "日別";
 "By activity type" = "ログ別";
 "Display auto-lock" = "ディスプレイ自動ロック";
-"Major timer" = "タイマーの優先";
+"Major timer" = "タイマーの示し方の優先";
 "Count up" = "カウントアップ";
 "Count down" = "カウントダウン";
 "CSV duration format" = "CSVの期間形式";
 "Decimal" = "小数";
-"Application" = "アプリ時間の形式と同じ";
+"Application" = "アプリと同じ";
 
 // Twitter
 "Tweet activities" = "ログをツイートする";
-"Show tweet sheet" = "ツイートの入力欄を表示";
+"Show tweet sheet" = "ツイートの一覧を表示する";
 "Twitter account" = "Twitter アカウント";
 "Select account" = "アカウントを選択";
 "Message template" = "ツイートのテンプレート";
