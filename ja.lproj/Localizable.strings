@@ -129,6 +129,7 @@
 "Edit group" = "グループの編集";
 "Edit type" = "ログの編集";
 "Bar chart" = "棒グラフ";
+"Items" = "Items";
 "Total time" = "合計時間";
 "Days" = "日";
 "Hours" = "時間";
@@ -138,7 +139,7 @@
 "Archive activity type?" = "ログ種類をアーカイブ?";
 "Unarchive activity type?" = "ログ種類をアーカイブから復元?";
 "Move to .." = "移動する ...";
-"Plot type" = "グラフ形式";
+"Graph type" = "グラフ形式";
 "Histogram" = "縦棒グラフ";
 "Line" = "折り線グラフ";
 "Area" = "面グラフ";
@@ -213,16 +214,16 @@
 "History list" = "履歴リスト";
 "By day" = "日別";
 "By activity type" = "ログ別";
-"Activities auto-lock" = "ディスプレ";
+"Display auto-lock" = "ディスプレ";
 "Major timer" = "タイマーの示し方の優先";
 "Count up" = "カウントアップ";
 "Count down" = "カウントダウン";
-"CSV duration" = "CSV 形式";
+"CSV duration format" = "CSV 形式";
 "Decimal" = "小数";
 "Application" = "アプリと同じ";
 
 // Twitter
-"Post activities" = "ログをツイートする";
+"Tweet activities" = "ログをツイートする";
 "Show tweet sheet" = "ツイートの一覧を表示する";
 "Twitter account" = "Twitter アカウント";
 "Select account" = "アカウントを選択";
