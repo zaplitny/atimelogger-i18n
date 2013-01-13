@@ -129,6 +129,8 @@
 "Edit group" = "編輯群組";
 "Edit type" = "編輯類型";
 "Bar chart" = "長條圖";
+"Items" = "Items";
+"Select/deselect all" = "Select/deselect all";
 "Total time" = "總時間";
 "Days" = "天數";
 "Hours" = "小時數";
@@ -137,6 +139,12 @@
 "Unarchive" = "Unarchive";
 "Archive activity type?" = "Archive activity type?";
 "Unarchive activity type?" = "Unarchive activity type?";
+"Move to .." = "Move to ..";
+"Graph type" = "Graph type";
+"Histogram" = "Histogram";
+"Line" = "Line";
+"Area" = "Area";
+"Max hours" = "Max hour";
 "You can't track anything without activity types. Click «+» to add activity type" = "您不能在沒有活動類型的情況下記錄任何活動。請按 «+» 新增活動類型";
 "Click «Cancel» to discard or «Update» to apply changes" = "請按 «取消» 放棄變更或按 «更新» 確認變更";
 
@@ -145,6 +153,11 @@
 "%d activity types" = "%d 活動類型";
 "Show 'Other' time" = "顯示「其他」時間";
 "Other" = "其他";
+"Total" = "Total";
+"Saved successfully" = "Saved successfully";
+"Save to..." = "Save to...";
+"Documents" = "Documents";
+"The device cannot send mail" = "The device cannot send mail";
 
 // Goals
 "Goals" = "Goals";
@@ -203,6 +216,25 @@
 "Off" = "Off";
 "Color picker" = "Color picker";
 "Predefined" = "Predefined";
+"History list" = "History list";
+"By day" = "By day";
+"By activity type" = "By activity type";
+"Display auto-lock" = "Display auto-lock";
+"Major timer" = "Major timer";
+"Count up" = "Count up";
+"Count down" = "Count down";
+"CSV duration format" = "CSV duration format";
+"Decimal" = "Decimal";
+"Application" = "Application";
+
+// Twitter
+"Tweet activities" = "Tweet activities";
+"Show tweet sheet" = "Show tweet sheet";
+"Twitter account" = "Twitter account";
+"Select account" = "Select account";
+"Message template" = "Message template";
+"Can't find any active account" = "Can't find any active account";
+"Please, login to Twitter first" = "Please, login to Twitter first";
 
 // Warnings
 "Warning" = "警告";
@@ -241,3 +273,23 @@
 "Friday" = "星期五";
 "Saturday" = "星期六";
 "Sunday" = "星期天";
+
+// passcode
+"Passcode Lock" = "Passcode Lock";
+
+"Enable" = "Enable";
+
+"Turn Passcode Off" = "Turn Passcode Off";
+"Turn Passcode On" = "Turn Passcode On";
+"Change Passcode" = "Change Passcode";
+"Set Passcode" = "Set Passcode";
+"Turn off Passcode" = "Turn off Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+
+"Enter your passcode" = "Enter your passcode";
+"Enter a passcode" = "Enter a passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Re-enter your new passcode" = "Re-enter your new passcode";
