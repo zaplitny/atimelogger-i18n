@@ -75,7 +75,7 @@
 "Today" = "今日";
 "Yesterday" = "昨日";
 
-// Notifications. Used when planned duration is set. If we set planned duration to sleep then notification  with text 'Sleep : Time to finish' will appear
+// Notifications. Used when planned duration is set. If we set planned duration to sleep then notification  with text 'Sleep : Time to finish' will appear
 "Planned duration" = "予定時間";
 "Planned finish" = "終了予定";
 "Alert time" = "警告";
@@ -145,6 +145,7 @@
 "%d activity types" = "%d 種類";
 "Show 'Other' time" = "非記録時間を表示";
 "Other" = "その他";
+"Total" = "Total";
 
 // Goals
 "Goals" = "目標";
@@ -203,6 +204,18 @@
 "Off" = "オフ";
 "Color picker" = "カラー選択";
 "Predefined" = "既定";
+"History list" = "History list";
+"By day" = "By day";
+"By activity type" = "By activity type";
+
+// Twitter
+"Post activities" = "Post activities";
+"Show tweet sheet" = "Show tweet sheet";
+"Twitter account" = "Twitter account";
+"Select account" = "Select account";
+"Message template" = "Message template";
+"Can't find any active account" = "Can't find any active account";
+"Please, login to Twitter first" = "Please, login to Twitter first";
 
 // Warnings
 "Warning" = "警告";
