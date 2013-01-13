@@ -70,9 +70,9 @@
 "Stop" = "停止";
 "Pause" = "中断";
 "Start" = "開始";
-"Start new activity simultaneously" = "Start new activity simultaneously";
-"Start new activity and pause running" = "Start new activity and pause running";
-"Start new activity and stop running" = "Start new activity and stop running";
+"Start new activity simultaneously" = "現在の記録と同時に、新記録を開始";
+"Start new activity and pause running" = "現在の記録を中断し、新記録を開始";
+"Start new activity and stop running" = "現在の記録を停止し、新記録を開始";
 "Resume" = "再開";
 "Comment" = "コメント";
 "Today" = "今日";
@@ -133,7 +133,7 @@
 "Edit type" = "ログの編集";
 "Bar chart" = "棒グラフ";
 "Items" = "項目";
-"Select/deselect all" = "Select/deselect all";
+"Select/deselect all" = "全てを選択／選択を解除";
 "Total time" = "合計時間";
 "Days" = "日";
 "Hours" = "時間";
@@ -157,10 +157,10 @@
 "Show 'Other' time" = "非記録時間を表示";
 "Other" = "その他";
 "Total" = "合計";
-"Saved successfully" = "Saved successfully";
-"Save to..." = "Save to...";
-"Documents" = "Documents";
-"The device cannot send mail" = "The device cannot send mail";
+"Saved successfully" = "保存に成功しました";
+"Save to..." = "保存先...";
+"Documents" = "ドキュメント";
+"The device cannot send mail" = "この機械はメールを送信できません";
 
 // Goals
 "Goals" = "目標";
@@ -194,7 +194,7 @@
 "Icon design" = "アイコンデザイン";
 "Japanese" = "日本語";
 "Korea Distributor" = "韓国版の担当者";
-"Chinese" = "Chinese";
+"Chinese" = "中国語";
 
 // Settings
 "Week starts on" = "開始曜日";
