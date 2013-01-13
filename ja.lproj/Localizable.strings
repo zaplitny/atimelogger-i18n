@@ -130,6 +130,7 @@
 "Edit type" = "ログの編集";
 "Bar chart" = "棒グラフ";
 "Items" = "項目";
+"Select/deselect all" = "Select/deselect all";
 "Total time" = "合計時間";
 "Days" = "日";
 "Hours" = "時間";
@@ -153,6 +154,10 @@
 "Show 'Other' time" = "非記録時間を表示";
 "Other" = "その他";
 "Total" = "合計";
+"Saved successfully" = "Saved successfully";
+"Save to..." = "Save to...";
+"Documents" = "Documents";
+"The device cannot send mail" = "The device cannot send mail";
 
 // Goals
 "Goals" = "目標";
