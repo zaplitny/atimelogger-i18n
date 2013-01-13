@@ -215,16 +215,16 @@
 "By day" = "日別";
 "By activity type" = "ログ別";
 "Display auto-lock" = "ディスプレイ自動ロック";
-"Major timer" = "タイマーの示し方の優先";
+"Major timer" = "タイマーの優先";
 "Count up" = "カウントアップ";
 "Count down" = "カウントダウン";
 "CSV duration format" = "CSVの期間形式";
 "Decimal" = "小数";
-"Application" = "アプリと同じ";
+"Application" = "アプリ時間の形式と同じ";
 
 // Twitter
 "Tweet activities" = "ログをツイートする";
-"Show tweet sheet" = "ツイートの一覧を表示する";
+"Show tweet sheet" = "ツイートの入力欄を表示";
 "Twitter account" = "Twitter アカウント";
 "Select account" = "アカウントを選択";
 "Message template" = "ツイートのテンプレート";
