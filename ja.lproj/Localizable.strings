@@ -136,8 +136,8 @@
 "No activity types" = "ログが存在しません";
 "Archive" = "アーカイブ";
 "Unarchive" = "アーカイブから復元";
-"Archive activity type?" = "ログ種類をアーカイブ?";
-"Unarchive activity type?" = "ログ種類をアーカイブから復元?";
+"Archive activity type?" = "ログ種類をアーカイブ？";
+"Unarchive activity type?" = "ログ種類をアーカイブから復元？";
 "Move to .." = "移動する ...";
 "Graph type" = "グラフ表示";
 "Histogram" = "縦棒グラフ";
