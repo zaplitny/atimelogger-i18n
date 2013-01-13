@@ -268,3 +268,23 @@
 "Friday" = "金曜日";
 "Saturday" = "土曜日";
 "Sunday" = "日曜日";
+
+// passcode
+"Passcode Lock" = "Passcode Lock";
+
+"Enable" = "Enable";
+
+"Turn Passcode Off" = "Turn Passcode Off";
+"Turn Passcode On" = "Turn Passcode On";
+"Change Passcode" = "Change Passcode";
+"Set Passcode" = "Set Passcode";
+"Turn off Passcode" = "Turn off Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+
+"Enter your passcode" = "Enter your passcode";
+"Enter a passcode" = "Enter a passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Re-enter your new passcode" = "Re-enter your new passcode";
