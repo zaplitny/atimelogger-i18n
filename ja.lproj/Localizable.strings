@@ -207,6 +207,10 @@
 "History list" = "History list";
 "By day" = "By day";
 "By activity type" = "By activity type";
+"Activities auto-lock" = "Activities auto-lock";
+"Major timer" = "Major timer";
+"Count up" = "Count up";
+"Count down" = "Count down";
 
 // Twitter
 "Post activities" = "Post activities";
