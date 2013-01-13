@@ -70,6 +70,9 @@
 "Stop" = "停止";
 "Pause" = "中断";
 "Start" = "開始";
+"Start new activity simultaneously" = "Start new activity simultaneously";
+"Start new activity and pause running" = "Start new activity and pause running";
+"Start new activity and stop running" = "Start new activity and stop running";
 "Resume" = "再開";
 "Comment" = "コメント";
 "Today" = "今日";
