@@ -211,6 +211,9 @@
 "Major timer" = "Major timer";
 "Count up" = "Count up";
 "Count down" = "Count down";
+"CSV duration" = "CSV duration";
+"Decimal" = "Decimal";
+"Application" = "Application";
 
 // Twitter
 "Post activities" = "Post activities";
