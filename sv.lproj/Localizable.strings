@@ -125,14 +125,22 @@
 "Edit group" = "Redigera grupp";
 "Edit type" = "Redigera typ";
 "Bar chart" = "Stapeldiagram";
+"Items" = "Objekt";
+"Select/deselect all" = "Välj/avmarkera alla";
 "Total time" = "Total tid";
 "Days" = "Dagar";
 "Hours" = "Timmar";
 "No activity types" = "Inga aktivitetstyper";
-"Archive" = "Archive";
-"Unarchive" = "Unarchive";
-"Archive activity type?" = "Archive activity type?";
-"Unarchive activity type?" = "Unarchive activity type?";
+"Archive" = "Arkivera";
+"Unarchive" = "Aktivera";
+"Archive activity type?" = "Arkivera activitetstypen?";
+"Unarchive activity type?" = "Aktivera aktivitetstypen?";
+"Move to .." = "Flytta till ..";
+"Graph type" = "Graftyp";
+"Histogram" = "Histogram";
+"Line" = "Linje";
+"Area" = "Yta";
+"Max hours" = "Max antal timmar";
 "You can't track anything without activity types. Click «+» to add activity type" = "Du kan inte registrera någonting utan aktivitetsyp. Klicka på «+» för att lägga till aktivitetstyp";
 "Click «Cancel» to discard or «Update» to apply changes" = "Klicka på «Ångra» för att låta bli eller på «Updatera» för att spara ändringar";
 
@@ -141,17 +149,22 @@
 "%d activity types" = "%d aktivitetstyper";
 "Show 'Other' time" = "Visa 'Övrig' tid";
 "Other" = "Övrigt";
+"Total" = "Total";
+"Saved successfully" = "Framgångsrikt sparad";
+"Save to..." = "Spara som...";
+"Documents" = "Dokument";
+"The device cannot send mail" = "Enheten kan inte skicka e-post";
 
 // Goals
-"Goals" = "Goals";
-"Create goal" = "Create goal";
-"Edit goal" = "Edit goal";
-"Goal type" = "Goal type";
-"Alert" = "Alert";
-"Delete goal?" = "Delete goal?";
-"Activity duration" = "Activity duration";
-"Interval duration" = "Interval duration";
-"Day duration" = "Day duration";
+"Goals" = "Mål";
+"Create goal" = "Skapa mål";
+"Edit goal" = "Redigera mål";
+"Goal type" = "Måltyp";
+"Alert" = "Påminnelse";
+"Delete goal?" = "Radera mål?";
+"Activity duration" = "Längd för aktivitet";
+"Interval duration" = "Längd per intervall";
+"Day duration" = "Längd per dag";
 
 // Backups
 "Backups" = "Backuper";
@@ -171,7 +184,7 @@
 "Follow us on Twitter" = "Följ oss på Twitter";
 "Like us on Facebook" = "Gilla oss på Facebook";
 "Credits" = "Hedersomnämnanden";
-"Icon design" = "Icon design";
+"Icon design" = "Ikondesign";
 "Japanese" = "Japanska";
 "Korea Distributor" = "Koreansk distributör";
 
@@ -198,8 +211,17 @@
 "On" = "På";
 "Off" = "Av";
 "Color picker" = "Färgväljare";
-"Predefined" = "Fördefinerade";
-
+"Predefined" = "Fördefinerad";
+"History list" = "Historiklista";
+"By day" = "Per dag";
+"By activity type" = "Per aktivitetstyp";
+"Display auto-lock" = "Visa autolås";
+"Major timer" = "Huvudsaklig timer";
+"Count up" = "Räkna upp";
+"Count down" = "Räkna ned";
+"CSV duration format" = "CSV tidslängdformat";
+"Decimal" = "Decimal";
+"Application" = "Applikation";
 
 // Warnings
 "Warning" = "Varning";
@@ -213,6 +235,15 @@
 "Welcome" = "Välkommen";
 "View" = "Vy";
 "No, thanks" = "Nej tack";
+
+// Twitter
+"Tweet activities" = "Twittra aktiviter";
+"Show tweet sheet" = "Visa tweet-formulär";
+"Twitter account" = "Twitter-konto";
+"Select account" = "Välj konto";
+"Message template" = "Meddelandemall";
+"Can't find any active account" = "Kan inte hitta något aktivt konto";
+"Please, login to Twitter first" = "Logga in på Twitter först";
 
 //Categories
 "Sleep" = "Sömn";
@@ -238,3 +269,38 @@
 "Friday" = "Fredag";
 "Saturday" = "Lördag";
 "Sunday" = "Söndag";
+
+// passcode
+"Passcode Lock" = "Lösenkodslås";
+
+"Enable" = "Enable";
+
+"Turn Passcode Off" = "Stäng av lösenkod";
+"Turn Passcode On" = "Slå på lösenkod";
+"Change Passcode" = "Ändra lösenkod";
+"Set Passcode" = "Ställ in lösenkod";
+"Turn off Passcode" = "Stäng av lösenkod";
+"Enter Passcode" = "Ange lösenkod";
+"Passcodes did not match. Try again." = "Lösenkoderna stämde inte överens. Försök igen.";
+
+"Enter your passcode" = "Ange din lösenkod";
+"Enter a passcode" = "Ange en lösnkod";
+"Re-enter your passcode" = "Ange din lösenkod en gång till";
+"Enter your old passcode" = "Ange din gamla lösenkod";
+"Enter your new passcode" = "Ange din nya lösenkod";
+"Re-enter your new passcode" = "Ange din nya lösenkod en gång till";
+
+// STRINGS CURRENTLY PRESENT IN BETA UI BUT NOT IN LATEST EN.LPROJ/LOCALIZED STRINGS
+"My plan" = "Min plan"; 
+"Max duration" = "Max. längd";
+"Finish before" = "Avsluta innan";
+"Now" = "Nu";
+"Select color" = "Välj färg";
+"Plot type" = "Graftyp";
+"Chinese" = "Kinesiska";
+"Click <<+>> to add categories/groups to this group" = "Klicka på <<+>> för att lägga till kategorier/grupper till denna grupp";
+"Post activities" = "Posta aktiviteter";
+"Categories" = "Kategorier"
+
+// STRINGS CURRENTLY NOT PRESENT IN UI BUT MAY BE USED IN FUTURE
+"Swedish" = "Svenska";
