@@ -78,7 +78,7 @@
 // Notifications. Used when planned duration is set. If we set planned duration to sleep then notification  with text 'Sleep : Time to finish' will appear
 "Planned duration" = "予定時間";
 "Planned finish" = "終了予定";
-"Alert time" = "アラート";
+"Alert time" = "警告";
 "At time of event" = "予定の時刻";
 "1 min before" = "1分前";
 "5 min before" = "5分前";
@@ -198,7 +198,7 @@
 "Duration format" = "時間の形式";
 "Passcode Lock" = "パスワード";
 "Pie chart" = "円グラフ";
-"Top level" = "Top level";
+"Top level" = "全体的";
 "On" = "オン";
 "Off" = "オフ";
 "Color picker" = "カラー選択";
