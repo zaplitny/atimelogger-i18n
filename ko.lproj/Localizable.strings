@@ -70,6 +70,9 @@
 "Stop" = "활동 종료";
 "Pause" = "일시정지 기능";
 "Start" = "시작";
+"Start new activity simultaneously" = "Start new activity simultaneously";
+"Start new activity and pause running" = "Start new activity and pause running";
+"Start new activity and stop running" = "Start new activity and stop running";
 "Resume" = "다시 시작";
 "Comment" = "설명";
 "Today" = "오늘";
@@ -191,6 +194,7 @@
 "Icon design" = "Icon design";
 "Japanese" = "Japanese";
 "Korea Distributor" = "Korea Distributor";
+"Chinese" = "Chinese";
 
 // Settings
 "Week starts on" = "한 주의 시작";
