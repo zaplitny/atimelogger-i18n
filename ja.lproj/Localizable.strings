@@ -129,7 +129,7 @@
 "Edit group" = "グループの編集";
 "Edit type" = "ログの編集";
 "Bar chart" = "棒グラフ";
-"Items" = "Items";
+"Items" = "項目";
 "Total time" = "合計時間";
 "Days" = "日";
 "Hours" = "時間";
@@ -185,7 +185,7 @@
 "Credits" = "クレジット";
 "Icon design" = "アイコンデザイン";
 "Japanese" = "日本語";
-"Korea Distributor" = "韓国のディストリビューター";
+"Korea Distributor" = "韓国版の担当者";
 
 // Settings
 "Week starts on" = "開始曜日";
