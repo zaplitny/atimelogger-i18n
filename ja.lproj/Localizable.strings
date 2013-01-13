@@ -7,7 +7,7 @@
 "Backup/Restore" = "バックアップ／復元";
 "Reports" = "レポート";
 "Settings" = "環境設定";
-"About" = "About";
+"About" = "このアプリについて";
 
 "Save" = "保存";
 "Update" = "更新";
@@ -133,10 +133,10 @@
 "Days" = "日";
 "Hours" = "時間";
 "No activity types" = "ログが存在しません";
-"Archive" = "Archive";
-"Unarchive" = "Unarchive";
-"Archive activity type?" = "Archive activity type?";
-"Unarchive activity type?" = "Unarchive activity type?";
+"Archive" = "アーカイブ";
+"Unarchive" = "アーカイブから復元";
+"Archive activity type?" = "ログ種類をアーカイブ?";
+"Unarchive activity type?" = "ログ種類をアーカイブから復元?";
 "You can't track anything without activity types. Click «+» to add activity type" = "ログがないと記録を取ることができません。＋をタップしてログを作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 
@@ -147,15 +147,15 @@
 "Other" = "その他";
 
 // Goals
-"Goals" = "Goals";
-"Create goal" = "Create goal";
-"Edit goal" = "Edit goal";
-"Goal type" = "Goal type";
-"Alert" = "Alert";
-"Delete goal?" = "Delete goal?";
-"Activity duration" = "Activity duration";
-"Interval duration" = "Interval duration";
-"Day duration" = "Day duration";
+"Goals" = "目標";
+"Create goal" = "目標を立てる";
+"Edit goal" = "目標を編集";
+"Goal type" = "目標の種類";
+"Alert" = "アラート";
+"Delete goal?" = "目標を削除?";
+"Activity duration" = "ログごと";
+"Interval duration" = "期間ごと";
+"Day duration" = "日ごと";
 
 // Backups
 "Backups" = "バックアップ";
@@ -167,16 +167,16 @@
 "Restored successfully" = "復元が成功しました";
 
 // More
-"Version" = "Version";
+"Version" = "バージョン";
 "Help" = "ヘルプ";
-"Loading..." = "Loading...";
-"Contact us" = "Contact us";
+"Loading..." = "読込中...";
+"Contact us" = "お問い合わせ";
 "Review us on iTunes" = "iTunesでレビューする";
 "Follow us on Twitter" = "Twitterでフォローする";
 "Like us on Facebook" = "Facebookでいいね！を押す";
-"Credits" = "Credits";
-"Icon design" = "Icon design";
-"Japanese" = "Japanese";
+"Credits" = "クレジット";
+"Icon design" = "アイコンデザイン";
+"Japanese" = "日本語";
 "Korea Distributor" = "Korea Distributor";
 
 // Settings
@@ -199,10 +199,10 @@
 "Passcode Lock" = "パスワード";
 "Pie chart" = "円グラフ";
 "Top level" = "Top level";
-"On" = "On";
-"Off" = "Off";
-"Color picker" = "Color picker";
-"Predefined" = "Predefined";
+"On" = "オン";
+"Off" = "オフ";
+"Color picker" = "カラー選択";
+"Predefined" = "既定";
 
 // Warnings
 "Warning" = "警告";
