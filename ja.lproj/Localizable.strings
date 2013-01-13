@@ -137,6 +137,12 @@
 "Unarchive" = "アーカイブから復元";
 "Archive activity type?" = "ログ種類をアーカイブ?";
 "Unarchive activity type?" = "ログ種類をアーカイブから復元?";
+"Move to .." = "Move to ..";
+"Plot type" = "Plot type";
+"Histogram" = "Histogram";
+"Line" = "Line";
+"Area" = "Area";
+"Max hours" = "Max hours"; // it's bar chart settings 
 "You can't track anything without activity types. Click «+» to add activity type" = "ログがないと記録を取ることができません。＋をタップしてログを作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 
