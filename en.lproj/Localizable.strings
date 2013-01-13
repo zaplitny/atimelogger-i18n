@@ -129,6 +129,8 @@
 "Edit group" = "Edit group";
 "Edit type" = "Edit type";
 "Bar chart" = "Bar chart";
+"Items" = "Items";
+"Select/deselect all" = "Select/deselect all";
 "Total time" = "Total time";
 "Days" = "Days";
 "Hours" = "Hours";
@@ -137,6 +139,12 @@
 "Unarchive" = "Unarchive";
 "Archive activity type?" = "Archive activity type?";
 "Unarchive activity type?" = "Unarchive activity type?";
+"Move to .." = "Move to ..";
+"Graph type" = "Graph type";
+"Histogram" = "Histogram";
+"Line" = "Line";
+"Area" = "Area";
+"Max hours" = "Max hours";
 "You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
 "Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
 
@@ -145,6 +153,11 @@
 "%d activity types" = "%d activity types";
 "Show 'Other' time" = "Show 'Other' time";
 "Other" = "Other";
+"Total" = "Total";
+"Saved successfully" = "Saved successfully";
+"Save to..." = "Save to...";
+"Documents" = "Documents";
+"The device cannot send mail" = "The device cannot send mail";
 
 // Goals
 "Goals" = "Goals";
@@ -203,7 +216,25 @@
 "Off" = "Off";
 "Color picker" = "Color picker";
 "Predefined" = "Predefined";
-"Timer type" = "Timer type";
+"History list" = "History list";
+"By day" = "By day";
+"By activity type" = "By activity type";
+"Display auto-lock" = "Display auto-lock";
+"Major timer" = "Major timer";
+"Count up" = "Count up";
+"Count down" = "Count down";
+"CSV duration format" = "CSV duration format";
+"Decimal" = "Decimal";
+"Application" = "Application";
+
+// Twitter
+"Tweet activities" = "Tweet activities";
+"Show tweet sheet" = "Show tweet sheet";
+"Twitter account" = "Twitter account";
+"Select account" = "Select account";
+"Message template" = "Message template";
+"Can't find any active account" = "Can't find any active account";
+"Please, login to Twitter first" = "Please, login to Twitter first";
 
 // Warnings
 "Warning" = "Warning";
@@ -242,3 +273,23 @@
 "Friday" = "Friday";
 "Saturday" = "Saturday";
 "Sunday" = "Sunday";
+
+// passcode
+"Passcode Lock" = "Passcode Lock";
+
+"Enable" = "Enable";
+
+"Turn Passcode Off" = "Turn Passcode Off";
+"Turn Passcode On" = "Turn Passcode On";
+"Change Passcode" = "Change Passcode";
+"Set Passcode" = "Set Passcode";
+"Turn off Passcode" = "Turn off Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+
+"Enter your passcode" = "Enter your passcode";
+"Enter a passcode" = "Enter a passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Re-enter your new passcode" = "Re-enter your new passcode";
