@@ -70,6 +70,9 @@
 "Stop" = "結束";
 "Pause" = "暫停";
 "Start" = "開始";
+"Start new activity simultaneously" = "Start new activity simultaneously";
+"Start new activity and pause running" = "Start new activity and pause running";
+"Start new activity and stop running" = "Start new activity and stop running";
 "Resume" = "繼續始";
 "Comment" = "評論建議";
 "Today" = "今天";
@@ -191,6 +194,7 @@
 "Icon design" = "圖示設計";
 "Japanese" = "日文";
 "Korea Distributor" = "韓國經銷商";
+"Chinese" = "Chinese";
 
 // Settings
 "Week starts on" = "星期開始於";
