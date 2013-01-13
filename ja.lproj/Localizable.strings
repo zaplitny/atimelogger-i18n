@@ -137,12 +137,12 @@
 "Unarchive" = "アーカイブから復元";
 "Archive activity type?" = "ログ種類をアーカイブ?";
 "Unarchive activity type?" = "ログ種類をアーカイブから復元?";
-"Move to .." = "Move to ..";
-"Plot type" = "Plot type";
-"Histogram" = "Histogram";
-"Line" = "Line";
-"Area" = "Area";
-"Max hours" = "Max hours"; // it's bar chart settings 
+"Move to .." = "移動する ...";
+"Plot type" = "グラフ形式";
+"Histogram" = "縦棒グラフ";
+"Line" = "折り線グラフ";
+"Area" = "面グラフ";
+"Max hours" = "時間の最大数"; // it's bar chart settings 
 "You can't track anything without activity types. Click «+» to add activity type" = "ログがないと記録を取ることができません。＋をタップしてログを作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 
@@ -151,14 +151,14 @@
 "%d activity types" = "%d 種類";
 "Show 'Other' time" = "非記録時間を表示";
 "Other" = "その他";
-"Total" = "Total";
+"Total" = "合計";
 
 // Goals
 "Goals" = "目標";
 "Create goal" = "目標を立てる";
 "Edit goal" = "目標を編集";
 "Goal type" = "目標の種類";
-"Alert" = "アラート";
+"Alert" = "警告";
 "Delete goal?" = "目標を削除?";
 "Activity duration" = "ログごと";
 "Interval duration" = "期間ごと";
@@ -184,7 +184,7 @@
 "Credits" = "クレジット";
 "Icon design" = "アイコンデザイン";
 "Japanese" = "日本語";
-"Korea Distributor" = "Korea Distributor";
+"Korea Distributor" = "韓国のディストリビューター";
 
 // Settings
 "Week starts on" = "開始曜日";
@@ -203,32 +203,32 @@
 "Select interval" = "時間間隔の設定";
 "Day format" = "日付の形式";
 "Duration format" = "時間の形式";
-"Passcode Lock" = "パスワード";
+"Passcode Lock" = "パスコードロック";
 "Pie chart" = "円グラフ";
 "Top level" = "全体的";
 "On" = "オン";
 "Off" = "オフ";
 "Color picker" = "カラー選択";
 "Predefined" = "既定";
-"History list" = "History list";
-"By day" = "By day";
-"By activity type" = "By activity type";
-"Activities auto-lock" = "Activities auto-lock";
-"Major timer" = "Major timer";
-"Count up" = "Count up";
-"Count down" = "Count down";
-"CSV duration" = "CSV duration";
-"Decimal" = "Decimal";
-"Application" = "Application";
+"History list" = "履歴リスト";
+"By day" = "日別";
+"By activity type" = "ログ別";
+"Activities auto-lock" = "ディスプレ";
+"Major timer" = "タイマーの示し方の優先";
+"Count up" = "カウントアップ";
+"Count down" = "カウントダウン";
+"CSV duration" = "CSV 形式";
+"Decimal" = "小数";
+"Application" = "アプリと同じ";
 
 // Twitter
-"Post activities" = "Post activities";
-"Show tweet sheet" = "Show tweet sheet";
-"Twitter account" = "Twitter account";
-"Select account" = "Select account";
-"Message template" = "Message template";
-"Can't find any active account" = "Can't find any active account";
-"Please, login to Twitter first" = "Please, login to Twitter first";
+"Post activities" = "ログをツイートする";
+"Show tweet sheet" = "ツイートの一覧を表示する";
+"Twitter account" = "Twitter アカウント";
+"Select account" = "アカウントを選択";
+"Message template" = "ツイートのテンプレート";
+"Can't find any active account" = "アカウントが見つかりませんでした";
+"Please, login to Twitter first" = "はじめにTwitterにログインしてください";
 
 // Warnings
 "Warning" = "警告";
