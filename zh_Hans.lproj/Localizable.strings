@@ -10,7 +10,7 @@
 "About" = "关于";
 
 "Save" = "保存";
-"Update"  = "应用";
+"Update"= "应用";
 "Edit" = "编辑";
 "Delete" = "删除";
 "Cancel" = "取消";
@@ -70,9 +70,9 @@
 "Stop" = "结束";
 "Pause" = "暂停";
 "Start" = "开始";
-"Start new activity simultaneously" = "Start new activity simultaneously";
-"Start new activity and pause running" = "Start new activity and pause running";
-"Start new activity and stop running" = "Start new activity and stop running";
+"Start new activity simultaneously" = "同时开始新活动";
+"Start new activity and pause running" = "暂停正在进行的活动并开始新活动";
+"Start new activity and stop running" = "结束正在进行的活动并开始新活动";
 "Resume" = "继续";
 "Comment" = "备注";
 "Today" = "今天";
@@ -87,7 +87,7 @@
 "5 min before" = "提前5分钟";
 "10 min before" = "提前10分钟";
 "15 min before" = "提前15分钟";
-"Repeat interval" = "重复间隔";
+"Repeat interval" = "重复时间段";
 "Every 5 min" = "每5分钟";
 "Every 10 min" = "每10分钟";
 "Every 15 min" = "每15分钟";
@@ -108,7 +108,7 @@
 "Duration" = "持续时间";
 
 // Format
-"%dh %dm" = "%d 小时 %d 分钟";
+"%dh %dm" = "%d小时 %d分钟";
 "%dm" = "%d 分钟";
 "%dh" = "%d 小时";
 "< 1m" = "< 1分钟";
@@ -118,7 +118,7 @@
 "MMM, yyyy" = "MMM, yyyy";
 
 // History
-"Total time tracked" = "记录时间合计";
+"Total time tracked" = "记录时间总计";
 "Nothing tracked for selected period" = "这段时间内没有任何纪录";
 "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "改变时段, 请按 «+» 开始/重新启动一个活动，或者选择活动图标开始一个新活动";
 
@@ -127,23 +127,23 @@
 "Create type" = "建立类别";
 "Edit group" = "编辑群组";
 "Edit type" = "编辑类别";
-"Items" = "Items";
-"Select/deselect all" = "Select/deselect all";
-"Bar chart" = "柱状图";
+"Items" = "项目";
+"Select/deselect all" = "选择/取消选择 全部";
+"Bar chart" = "条形图";
 "Total time" = "总时间";
 "Days" = "天数";
 "Hours" = "小时数";
 "No activity types" = "无活动类别";
-"Archive" = "Archive";
-"Unarchive" = "Unarchive";
-"Archive activity type?" = "Archive activity type?";
-"Unarchive activity type?" = "Unarchive activity type?";
-"Move to .." = "Move to ..";
-"Graph type" = "Graph type";
-"Histogram" = "Histogram";
-"Line" = "Line";
-"Area" = "Area";
-"Max hours" = "Max hour";
+"Archive" = "归档";
+"Unarchive" = "归档逆操作";
+"Archive activity type?" = "确定归档活动类型？";
+"Unarchive activity type?" = "确定逆归档活动类型？";
+"Move to .." = "移动至...";
+"Graph type" = "图表类型";
+"Histogram" = "条形图";
+"Line" = "折线图";
+"Area" = "面积图";
+"Max hours" = "最大小时数";
 "You can't track anything without activity types. Click «+» to add activity type" = "您不能在没有选择活动类别的情况下记录，请按 '+' 新增活动类别";
 "Click «Cancel» to discard or «Update» to apply changes" = "请按 '取消' 放弃改变或按 '应用' 确认改变";
 
@@ -152,22 +152,22 @@
 "%d activity types" = "%d 活动类别";
 "Show 'Other' time" = "显示“其他”时间";
 "Other" = "其他";
-"Total" = "Total";
-"Saved successfully" = "Saved successfully";
-"Save to..." = "Save to...";
-"Documents" = "Documents";
-"The device cannot send mail" = "The device cannot send mail";
+"Total" = "总计";
+"Saved successfully" = "保存成功";
+"Save to..." = "保存至...";
+"Documents" = "文件";
+"The device cannot send mail" = "该设备不能发送邮件";
 
 // Goals
-"Goals" = "Goals";
-"Create goal" = "Create goal";
-"Edit goal" = "Edit goal";
-"Goal type" = "Goal type";
-"Alert" = "Alert";
-"Delete goal?" = "Delete goal?";
-"Activity duration" = "Activity duration";
-"Interval duration" = "Interval duration";
-"Day duration" = "Day duration";
+"Goals" = "目标";
+"Create goal" = "新建目标";
+"Edit goal" = "编辑目标";
+"Goal type" = "目标类型";
+"Alert" = "警告";
+"Delete goal?" = "删除目标？";
+"Activity duration" = "活动持续时间";
+"Interval duration" = "时间段持续时间";
+"Day duration" = "Day持续时间";
 
 // Backups
 "Backups" = "备份";
@@ -190,10 +190,10 @@
 "Icon design" = "图标设计";
 "Japanese" = "日语";
 "Korea Distributor" = "韩语";
-"Chinese" = "Chinese";
+"Chinese" = "中文";
 
 // Settings
-"Week starts on" = "每周开始于";
+"Week starts on" = "每周第一天";
 "Theme" = "主题";
 "Action on start" = "开始活动";
 "Warnings" = "警告";
@@ -209,32 +209,32 @@
 "Select interval" = "选择时间段";
 "Day format" = "日期格式";
 "Duration format" = "持续时间格式";
-"Passcode Lock" = "Passcode Lock";
-"Pie chart" = "Pie chart";
-"Top level" = "Top level";
-"On" = "On";
-"Off" = "Off";
-"Color picker" = "Color picker";
-"Predefined" = "Predefined";
-"History list" = "History list";
-"By day" = "By day";
-"By activity type" = "By activity type";
-"Display auto-lock" = "Display auto-lock";
-"Major timer" = "Major timer";
-"Count up" = "Count up";
-"Count down" = "Count down";
-"CSV duration format" = "CSV duration format";
-"Decimal" = "Decimal";
-"Application" = "Application";
+"Passcode Lock" = "密码锁定";
+"Pie chart" = "饼图";
+"Top level" = "顶层";
+"On" = "打开";
+"Off" = "关闭";
+"Color picker" = "颜色选择";
+"Predefined" = "预设定的颜色";
+"History list" = "历史清单";
+"By day" = "按照时间排序";
+"By activity type" = "按照类别排序";
+"Display auto-lock" = "自动锁屏";
+"Major timer" = "主计时器";
+"Count up" = "正计数";
+"Count down" = "倒计数";
+"CSV duration format" = "CSV持续时间格式";
+"Decimal" = "小数";
+"Application" = "应用";
 
 // Twitter
-"Tweet activities" = "Tweet activities";
-"Show tweet sheet" = "Show tweet sheet";
-"Twitter account" = "Twitter account";
-"Select account" = "Select account";
-"Message template" = "Message template";
-"Can't find any active account" = "Can't find any active account";
-"Please, login to Twitter first" = "Please, login to Twitter first";
+"Tweet activities" = "Tweet 活动";
+"Show tweet sheet" = "显示tweet sheet";
+"Twitter account" = "Twitter帐户";
+"Select account" = "选择帐户";
+"Message template" = "信息模板";
+"Can't find any active account" = "无法发现有效帐户";
+"Please, login to Twitter first" = "请先登录Twitter";
 
 // Warnings
 "Warning" = "警告";
@@ -275,21 +275,21 @@
 "Sunday" = "星期天";
 
 // passcode
-"Passcode Lock" = "Passcode Lock";
+"Passcode Lock" = "密码锁定";
 
-"Enable" = "Enable";
+"Enable" = "开启";
 
-"Turn Passcode Off" = "Turn Passcode Off";
-"Turn Passcode On" = "Turn Passcode On";
-"Change Passcode" = "Change Passcode";
-"Set Passcode" = "Set Passcode";
-"Turn off Passcode" = "Turn off Passcode";
-"Enter Passcode" = "Enter Passcode";
-"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Turn Passcode Off" = "关闭密码锁定";
+"Turn Passcode On" = "开启密码锁定";
+"Change Passcode" = "更改密码";
+"Set Passcode" = "设定密码";
+"Turn off Passcode" = "关闭密码";
+"Enter Passcode" = "输入密码";
+"Passcodes did not match. Try again." = "密码不符，请重试。";
 
-"Enter your passcode" = "Enter your passcode";
-"Enter a passcode" = "Enter a passcode";
-"Re-enter your passcode" = "Re-enter your passcode";
-"Enter your old passcode" = "Enter your old passcode";
-"Enter your new passcode" = "Enter your new passcode";
-"Re-enter your new passcode" = "Re-enter your new passcode";
+"Enter your passcode" = "输入密码";
+"Enter a passcode" = "输入密码";
+"Re-enter your passcode" = "重新输入密码";
+"Enter your old passcode" = "输入旧密码";
+"Enter your new passcode" = "输入新密码";
+"Re-enter your new passcode" = "重新输入新密码";
