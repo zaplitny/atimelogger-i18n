@@ -37,24 +37,24 @@
 // Activities
 "Are you sure you want to pause the activity?" = "您確定要暫停此活動嗎？";
 "Are you sure you want to stop the activity?" = "您確定要結束此活動嗎？";
-"Are you sure you want to resume the activity?" = "您確定要繼續此活動？";
-"Are you sure you want to pause/stop running activities and resume this one?" = "您確定要暫停/結束正在進行的活動並繼續此活動？";
-"Are you sure you want to start the activity?" = "您確定要開始此活動？";
-"Are you sure you want to pause/stop running activities and start this one?" = "您確定要暫停/結束正在進行的活動並開始此活動？";
+"Are you sure you want to resume the activity?" = "您確定要繼續此活動嗎？";
+"Are you sure you want to pause/stop running activities and resume this one?" = "您確定要暫停/結束正在進行的活動並繼續此活動嗎？";
+"Are you sure you want to start the activity?" = "您確定要開始此活動嗎？";
+"Are you sure you want to pause/stop running activities and start this one?" = "您確定要暫停/結束正在進行的活動並開始此活動嗎？";
 "Create activity" = "建立新活動";
 "Edit activity" = "編輯活動";
 "Intervals" = "間隔";
 "Running" = "進行中";
 "Paused" = "暫停";
 "Stopped" = "結束";
-"Touch «+» to add time interval" = "請按 «+» 新增時間的間距";
-"Enter comment" = "發表意見";
+"Touch «+» to add time interval" = "請按 «+» 增加時間間隔";
+"Enter comment" = "輸入註解";
 "Time Left" = "剩餘時間";
 "Overtime" = "超過時間";
 
 "Date range" = "日期範圍";
 "Select range" = "選擇範圍";
-"Send by email" = "傳送郵件";
+"Send by email" = "透過郵件傳送";
 "Select activity type" = "選擇活動類型";
 "Select type" = "選擇類型";
 "Create report" = "建立報告";
@@ -64,54 +64,54 @@
 "Export" = "匯出";
 
 "Twitter" = "推特";
-"Untracked time" = "未記錄到的時間";
+"Untracked time" = "未記錄的時間";
 "Details" = "詳細資料";
 "None" = "無";
 "Stop" = "結束";
 "Pause" = "暫停";
 "Start" = "開始";
-"Start new activity simultaneously" = "Start new activity simultaneously";
-"Start new activity and pause running" = "Start new activity and pause running";
-"Start new activity and stop running" = "Start new activity and stop running";
-"Resume" = "繼續始";
-"Comment" = "評論建議";
+"Start new activity simultaneously" = "同時開始新活動";
+"Start new activity and pause running" = "暫停正在進行的活動並開始新活動";
+"Start new activity and stop running" = "結束正在進行的活動並開始新活動";
+"Resume" = "繼續";
+"Comment" = "註解";
 "Today" = "今天";
 "Yesterday" = "昨天";
 
 // Notifications
-"Planned duration" = "計畫持續的時間";
-"Planned finish" = "預計結束的時間";
+"Planned duration" = "預計持續時間";
+"Planned finish" = "預計結束時間";
 "Alert time" = "鬧鈴提醒時間";
-"At time of event" = "事件的時間";
-"1 min before" = "一分鐘前";
-"5 min before" = "五分鐘前";
-"10 min before" = "十分鐘前";
-"15 min before" = "十五分鐘前";
+"At time of event" = "事件發生時";
+"1 min before" = "1 分鐘前";
+"5 min before" = "5 分鐘前";
+"10 min before" = "10 分鐘前";
+"15 min before" = "15 分鐘前";
 "Repeat interval" = "重複間隔";
-"Every 5 min" = "每五分鐘";
-"Every 10 min" = "每十分鐘";
-"Every 15 min" = "每十五分鐘";
-"Repeat times" = "重複多次";
+"Every 5 min" = "每 5 分鐘";
+"Every 10 min" = "每 10 分鐘";
+"Every 15 min" = "每 15 分鐘";
+"Repeat times" = "重複次數";
 "Never" = "從不";
 "Forever" = "永遠";
-"1 time" = "一次";
-"2 times" = "兩次";
-"3 times" = "三次";
-"4 times" = "四次";
-"5 times" = "五次";
-"Time to finish" = "結束的時間";
+"1 time" = "1 次";
+"2 times" = "2 次";
+"3 times" = "3 次";
+"4 times" = "4 次";
+"5 times" = "5 次";
+"Time to finish" = "結束時間";
 
 // Intervals
 "Edit interval" = "編輯間隔";
 "From" = "從";
 "To" = "到";
-"Duration" = "持續多久";
+"Duration" = "持續時間";
 
 // Format
 "%dh %dm" = "%d 小時 %d 分鐘";
 "%dm" = "%d 分鐘";
 "%dh" = "%d 小時";
-"< 1m" = "< 1分鐘";
+"< 1m" = "< 1 分鐘";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MM/dd" = "MM/dd";
@@ -132,22 +132,22 @@
 "Edit group" = "編輯群組";
 "Edit type" = "編輯類型";
 "Bar chart" = "長條圖";
-"Items" = "Items";
-"Select/deselect all" = "Select/deselect all";
+"Items" = "項目";
+"Select/deselect all" = "全選/取消全選";
 "Total time" = "總時間";
 "Days" = "天數";
 "Hours" = "小時數";
 "No activity types" = "無活動類型";
-"Archive" = "Archive";
-"Unarchive" = "Unarchive";
-"Archive activity type?" = "Archive activity type?";
-"Unarchive activity type?" = "Unarchive activity type?";
-"Move to .." = "Move to ..";
-"Graph type" = "Graph type";
-"Histogram" = "Histogram";
-"Line" = "Line";
-"Area" = "Area";
-"Max hours" = "Max hour";
+"Archive" = "封存";
+"Unarchive" = "取消封存";
+"Archive activity type?" = "確定封存活動類型？";
+"Unarchive activity type?" = "確定取消封存活動類型？";
+"Move to .." = "移動至...";
+"Graph type" = "圖表類型";
+"Histogram" = "長條圖";
+"Line" = "折線圖";
+"Area" = "面積圖";
+"Max hours" = "最大小時數";
 "You can't track anything without activity types. Click «+» to add activity type" = "您不能在沒有活動類型的情況下記錄任何活動。請按 «+» 新增活動類型";
 "Click «Cancel» to discard or «Update» to apply changes" = "請按 «取消» 放棄變更或按 «更新» 確認變更";
 
@@ -156,22 +156,22 @@
 "%d activity types" = "%d 活動類型";
 "Show 'Other' time" = "顯示「其他」時間";
 "Other" = "其他";
-"Total" = "Total";
-"Saved successfully" = "Saved successfully";
-"Save to..." = "Save to...";
-"Documents" = "Documents";
-"The device cannot send mail" = "The device cannot send mail";
+"Total" = "總計";
+"Saved successfully" = "儲存成功";
+"Save to..." = "儲存至...";
+"Documents" = "文件";
+"The device cannot send mail" = "該裝置不能傳送郵件";
 
 // Goals
-"Goals" = "Goals";
-"Create goal" = "Create goal";
-"Edit goal" = "Edit goal";
-"Goal type" = "Goal type";
-"Alert" = "Alert";
-"Delete goal?" = "Delete goal?";
-"Activity duration" = "Activity duration";
-"Interval duration" = "Interval duration";
-"Day duration" = "Day duration";
+"Goals" = "目標";
+"Create goal" = "新增目標";
+"Edit goal" = "編輯目標";
+"Goal type" = "目標類型";
+"Alert" = "警告";
+"Delete goal?" = "刪除目標？";
+"Activity duration" = "活動持續時間";
+"Interval duration" = "間隔持續時間";
+"Day duration" = "日持續時間";
 
 // Backups
 "Backups" = "備份";
@@ -194,16 +194,16 @@
 "Icon design" = "圖示設計";
 "Japanese" = "日文";
 "Korea Distributor" = "韓國經銷商";
-"Chinese" = "Chinese";
+"Chinese" = "中文";
 
 // Settings
-"Week starts on" = "星期開始於";
-"Theme" = "佈景主題";
+"Week starts on" = "每週開始於";
+"Theme" = "主題";
 "Action on start" = "開始活動";
 "Warnings" = "警告";
 "Formats" = "格式";
 "Advanced" = "進階";
-"Select theme" = "選擇佈景主題";
+"Select theme" = "選擇主題";
 "Select day" = "選擇時間";
 "Select action" = "選擇活動";
 "Time picker interval" = "時間選擇的間隔";
@@ -213,32 +213,32 @@
 "Select interval" = "選擇間隔";
 "Day format" = "日期格式";
 "Duration format" = "持續時間格式";
-"Passcode Lock" = "Passcode Lock";
-"Pie chart" = "Pie chart";
-"Top level" = "Top level";
-"On" = "On";
-"Off" = "Off";
-"Color picker" = "Color picker";
-"Predefined" = "Predefined";
-"History list" = "History list";
-"By day" = "By day";
-"By activity type" = "By activity type";
-"Display auto-lock" = "Display auto-lock";
-"Major timer" = "Major timer";
-"Count up" = "Count up";
-"Count down" = "Count down";
-"CSV duration format" = "CSV duration format";
-"Decimal" = "Decimal";
-"Application" = "Application";
+"Passcode Lock" = "密碼鎖定";
+"Pie chart" = "圓形圖";
+"Top level" = "頂層";
+"On" = "開啟";
+"Off" = "關閉";
+"Color picker" = "顏色選擇";
+"Predefined" = "預先定義的顏色";
+"History list" = "歷史清單";
+"By day" = "依時間排序";
+"By activity type" = "依活動類型排序";
+"Display auto-lock" = "畫面自動鎖定";
+"Major timer" = "主計時器";
+"Count up" = "正數計時";
+"Count down" = "倒數計時";
+"CSV duration format" = "CSV 持續時間格式";
+"Decimal" = "小數";
+"Application" = "應用";
 
 // Twitter
-"Tweet activities" = "Tweet activities";
-"Show tweet sheet" = "Show tweet sheet";
-"Twitter account" = "Twitter account";
-"Select account" = "Select account";
-"Message template" = "Message template";
-"Can't find any active account" = "Can't find any active account";
-"Please, login to Twitter first" = "Please, login to Twitter first";
+"Tweet activities" = "Tweet 活動";
+"Show tweet sheet" = "顯示 tweet sheet";
+"Twitter account" = "Twitter 帳戶";
+"Select account" = "選擇帳戶";
+"Message template" = "訊息範本";
+"Can't find any active account" = "找不到任何有效的帳戶";
+"Please, login to Twitter first" = "請先登錄 Twitter";
 
 // Warnings
 "Warning" = "警告";
@@ -246,7 +246,7 @@
 "Delete activity?" = "刪除活動？";
 "Deleting activity type will delete all its recorded activities. Are you sure?" = "刪除活動類型將會移除所有該項活動的記錄。您確定要刪除嗎？";
 "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "刪除群組將會一併刪除此群組下的所有活動與記錄。您確定要刪除嗎？";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "還原會刪除所有舊的記錄並寫覆蓋備份的檔案。您確定要還原嗎？";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "還原會刪除所有舊的記錄並寫入覆蓋備份的檔案。您確定要還原嗎？";
 "Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "抱歉！您已建立群組，無法停止使用群組。請先刪除群組";
 "welcome.message" = "歡迎您！這是您第一次使用 aTimeLogger 2。我們為您準備了簡介和導覽。如果您是 aTimeLogger 1.X 版本的使用者，我們提供檔案轉移的教學";
 "Welcome" = "歡迎";
@@ -279,21 +279,21 @@
 "Sunday" = "星期天";
 
 // passcode
-"Passcode Lock" = "Passcode Lock";
+"Passcode Lock" = "密碼鎖定";
 
-"Enable" = "Enable";
+"Enable" = "啟用";
 
-"Turn Passcode Off" = "Turn Passcode Off";
-"Turn Passcode On" = "Turn Passcode On";
-"Change Passcode" = "Change Passcode";
-"Set Passcode" = "Set Passcode";
-"Turn off Passcode" = "Turn off Passcode";
-"Enter Passcode" = "Enter Passcode";
-"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Turn Passcode Off" = "關閉密碼鎖定";
+"Turn Passcode On" = "開啟密碼鎖定";
+"Change Passcode" = "變更密碼";
+"Set Passcode" = "設定密碼";
+"Turn off Passcode" = "關閉密碼";
+"Enter Passcode" = "輸入密碼";
+"Passcodes did not match. Try again." = "密碼不相符，請重試。";
 
-"Enter your passcode" = "Enter your passcode";
-"Enter a passcode" = "Enter a passcode";
-"Re-enter your passcode" = "Re-enter your passcode";
-"Enter your old passcode" = "Enter your old passcode";
-"Enter your new passcode" = "Enter your new passcode";
-"Re-enter your new passcode" = "Re-enter your new passcode";
+"Enter your passcode" = "輸入密碼";
+"Enter a passcode" = "輸入密碼";
+"Re-enter your passcode" = "重新輸入密碼";
+"Enter your old passcode" = "輸入舊密碼";
+"Enter your new passcode" = "輸入新密碼";
+"Re-enter your new passcode" = "重新輸入新密碼";
