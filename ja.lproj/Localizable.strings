@@ -51,10 +51,10 @@
 "Enter comment" = "コメントの入力";
 "Time Left" = "経過時間";
 "Overtime" = "超過時間";
-"My plan" = "My plan";
-"Max duration" = "Max duration";
-"Finish before" = "Finish before";
-"Now" = "Now";
+"My plan" = "予定";
+"Max duration" = "記録時間";
+"Finish before" = "締め切り";
+"Now" = "今";
 
 "Date range" = "期間";
 "Select range" = "期間の選択";
@@ -77,6 +77,9 @@
 "Start new activity simultaneously" = "現在の記録と同時に、新記録を開始";
 "Start new activity and pause running" = "現在の記録を中断し、新記録を開始";
 "Start new activity and stop running" = "現在の記録を停止し、新記録を開始";
+"Started %activity%" = "Started %activity%";
+"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
+
 "Resume" = "再開";
 "Comment" = "コメント";
 "Today" = "今日";
@@ -172,16 +175,16 @@
 "Create goal" = "目標を立てる";
 "Edit goal" = "目標を編集";
 "Goal type" = "目標の種類";
-"Goal duration" = "Goal duration";
-"%@ per day" = "%@ per day";
-"%@ per interval" = "%@ per interval";
-"%@ per activity" = "%@ per activity";
+"Goal duration" = "目標時間";
+"%@ per day" = "%@ 日ごと";
+"%@ per interval" = "%@ 期間ごと";
+"%@ per activity" = "%@ 記録ごと";
 "Alert" = "警告";
 "Delete goal?" = "目標を削除?";
 "Activity duration" = "ログごと";
 "Interval duration" = "期間ごと";
 "Day duration" = "日ごと";
-"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
+"Congratulations! Goal reached: '%@'" = "おめでとう！目標を果たした：'%@'";
 
 // Backups
 "Backups" = "バックアップ";
@@ -205,7 +208,7 @@
 "Japanese" = "日本語";
 "Korea Distributor" = "韓国版の担当者";
 "Chinese" = "中国語";
-"Swedish" = "Swedish";
+"Swedish" = "スウェーデン語";
 
 // Settings
 "Week starts on" = "開始曜日";
@@ -246,9 +249,9 @@
 "Tweet activities" = "ログをツイートする";
 "Show tweet sheet" = "ツイートの入力欄を表示";
 "Twitter account" = "Twitter アカウント";
-"Tweet on start" = "Tweet on start";
-"Tweet on stop" = "Tweet on stop";
-"Template message" = "Template message";
+"Tweet on start" = "記録の開始時にツイート";
+"Tweet on stop" = "記録の停止時にツイート";
+"Template message" = "ツイートの表示（編集可能）";
 "Select account" = "アカウントを選択";
 "Message template" = "ツイートのテンプレート";
 "Can't find any active account" = "アカウントが見つかりませんでした";
