@@ -51,10 +51,10 @@
 "Enter comment" = "세부설명 추가";
 "Time Left" = "남은 시간";
 "Overtime" = "시간 초과";
-"My plan" = "My plan";
-"Max duration" = "Max duration";
+"My plan" = "나의 계획";
+"Max duration" = "최대 기간";
 "Finish before" = "Finish before";
-"Now" = "Now";
+"Now" = "지금";
 
 "Date range" = "날짜범위";
 "Select range" = "범위 설정";
@@ -144,12 +144,12 @@
 "No activity types" = "활동유형이 없어요";
 "Archive" = "아카이브에 보관";
 "Unarchive" = "보관하지 않음";
-"Archive activity type?" = "활동을 보관하시겠습니까?";
-"Unarchive activity type?" = "Unarchive activity type?";
-"Select color" = "Select color";
+"Archive activity type?" = "이 활동을 보관하실건가요?";
+"Unarchive activity type?" = "보관하지 않으실건가요?";
+"Select color" = "색상 선택";
 "Move to .." = "이동";
 "Graph type" = "그래프 유형";
-"Histogram" = "히스토그램";
+"Histogram" = "막대 그래프";
 "Line" = "선";
 "Area" = "구역";
 "Max hours" = "최대 시간(Y축)";
@@ -171,8 +171,8 @@
 "Goals" = "Goals";
 "Create goal" = "Goal 생성";
 "Edit goal" = "Goal 수정";
-"Goal type" = "Goal 우형";
-"Goal duration" = "Goal duration";
+"Goal type" = "Goal 유형";
+"Goal duration" = "Goal 기간";
 "%@ per day" = "%@ per day";
 "%@ per interval" = "%@ per interval";
 "%@ per activity" = "%@ per activity";
@@ -244,10 +244,10 @@
 // Twitter
 "Tweet activities" = "활동 Tweet하기";
 "Show tweet sheet" = "Tweet시트 표시하기";
-"Twitter account" = "Twitter account";
-"Tweet on start" = "Tweet on start";
-"Tweet on stop" = "Tweet on stop";
-"Template message" = "Template message";
+"Twitter account" = "Twitter 계정";
+"Tweet on start" = "활동시작 시 Tweet";
+"Tweet on stop" = "활동종료 시 Tweet";
+"Template message" = "템플릿 메시지";
 "Select account" = "계정 선택";
 "Message template" = "메시지 템플릿";
 "Can't find any active account" = "계정을 찾을 수 없습니다";
