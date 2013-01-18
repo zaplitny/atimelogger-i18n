@@ -77,8 +77,8 @@
 "Start new activity simultaneously" = "現在の記録と同時に、新記録を開始";
 "Start new activity and pause running" = "現在の記録を中断し、新記録を開始";
 "Start new activity and stop running" = "現在の記録を停止し、新記録を開始";
-"Started %activity%" = "Started %activity%";
-"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
+"Started %activity%" = "%activity%を開始しました！";
+"Just logged %duration% of %activity%" = "%activity%を%duration%記録しました！";
 
 "Resume" = "再開";
 "Comment" = "コメント";
@@ -149,7 +149,7 @@
 "Unarchive" = "アーカイブから復元";
 "Archive activity type?" = "ログ種類をアーカイブ？";
 "Unarchive activity type?" = "ログ種類をアーカイブから復元？";
-"Select color" = "Select color";
+"Select color" = "色を選択";
 "Move to .." = "移動する ...";
 "Graph type" = "グラフ表示";
 "Histogram" = "縦棒グラフ";
