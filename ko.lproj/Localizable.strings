@@ -4,7 +4,7 @@
 "Types" = "유형";
 "tab.category" = "카테고리";
 "More" = "더 보기";
-"Backup/Restore" = "백업/저장";
+"Backup/Restore" = "백업/복원";
 "Reports" = "보고서";
 "Settings" = "설정";
 "About" = "자세히";
@@ -32,7 +32,7 @@
 "Select icon" = "아이콘 선택";
 
 "Number of activities" = "활동횟수";
-"Restore" = "저장";
+"Restore" = "복원";
 
 // Activities
 "Are you sure you want to pause the activity?" = "이 활동을 일시정지 하실건가요?";
@@ -70,9 +70,9 @@
 "Stop" = "활동 종료";
 "Pause" = "일시정지 기능";
 "Start" = "시작";
-"Start new activity simultaneously" = "Start new activity simultaneously";
-"Start new activity and pause running" = "Start new activity and pause running";
-"Start new activity and stop running" = "Start new activity and stop running";
+"Start new activity simultaneously" = "새 활동 시작시, 기존활동 동시진행";
+"Start new activity and pause running" = "새 활동 시작시, 기존활동 일시정지";
+"Start new activity and stop running" = "새 활동 시작시, 기존활동 종료";
 "Resume" = "다시 시작";
 "Comment" = "설명";
 "Today" = "오늘";
@@ -133,21 +133,21 @@
 "Edit type" = "활동유형 편집";
 "Bar chart" = "막대그래프";
 "Items" = "Items";
-"Select/deselect all" = "Select/deselect all";
+"Select/deselect all" = "전체선택/전체선택 해제";
 "Total time" = "총 시간";
 "Days" = "일";
 "Hours" = "시간";
 "No activity types" = "활동유형이 없어요";
-"Archive" = "Archive";
-"Unarchive" = "Unarchive";
-"Archive activity type?" = "Archive activity type?";
-"Unarchive activity type?" = "Unarchive activity type?";
-"Move to .." = "Move to ..";
-"Graph type" = "Graph type";
-"Histogram" = "Histogram";
-"Line" = "Line";
-"Area" = "Area";
-"Max hours" = "Max hour";
+"Archive" = "아카이브에 보관";
+"Unarchive" = "보관하지 않음";
+"Archive activity type?" = "활동을 보관하시겠습니까?";
+"Unarchive activity type?" = "보관하지 않으시겠습니까?";
+"Move to .." = "전송 중...";
+"Graph type" = "그래프 유형";
+"Histogram" = "히스토그램";
+"Line" = "선";
+"Area" = "구역";
+"Max hours" = "최대 시간(Y축)";
 "You can't track anything without activity types. Click «+» to add activity type" = "활동유형을 선택해주세요. 활동유형을 추가하시려면 «+»을 탭해주세요";
 "Click «Cancel» to discard or «Update» to apply changes" = "삭제하시려면 «취소»를, 변경사항을 적용하시려면 «업데이트»를 탭해주세요";
 
@@ -157,21 +157,21 @@
 "Show 'Other' time" = "나머지시간 표시";
 "Other" = "나머지시간";
 "Total" = "Total";
-"Saved successfully" = "Saved successfully";
-"Save to..." = "Save to...";
-"Documents" = "Documents";
-"The device cannot send mail" = "The device cannot send mail";
+"Saved successfully" = "저장 완료";
+"Save to..." = "저장 중...";
+"Documents" = "문서";
+"The device cannot send mail" = "메일을 보낼 수 없습니다.";
 
 // Goals
 "Goals" = "Goals";
-"Create goal" = "Create goal";
-"Edit goal" = "Edit goal";
-"Goal type" = "Goal type";
-"Alert" = "Alert";
-"Delete goal?" = "Delete goal?";
-"Activity duration" = "Activity duration";
-"Interval duration" = "Interval duration";
-"Day duration" = "Day duration";
+"Create goal" = "Goal 생성";
+"Edit goal" = "Goal 수정";
+"Goal type" = "Goal 우형";
+"Alert" = "알람";
+"Delete goal?" = "Goal을 삭제하시겠습니까?";
+"Activity duration" = "활동 기간";
+"Interval duration" = "활동 시간";
+"Day duration" = "활동 날짜";
 
 // Backups
 "Backups" = "백업";
@@ -179,8 +179,8 @@
 "Create backup" = "백업 생성";
 "Edit backup" = "백업 편집";
 "Restoring backup..." = "백업 저장 중...";
-"Restore complete" = "저장 완료";
-"Restored successfully" = "성공적으로 저장되었어요";
+"Restore complete" = "복원 완료";
+"Restored successfully" = "성공적으로 복원되었습니다";
 
 // More
 "Version" = "버전";
@@ -215,30 +215,30 @@
 "Duration format" = "시간 표시형식";
 "Passcode Lock" = "비밀번호 잠금";
 "Pie chart" = "파이차트";
-"Top level" = "Top level";
+"Top level" = "최상위";
 "On" = "켬";
 "Off" = "끔";
 "Color picker" = "색상 추출기";
 "Predefined" = "정해진 색상";
-"History list" = "History list";
-"By day" = "By day";
-"By activity type" = "By activity type";
-"Display auto-lock" = "Display auto-lock";
-"Major timer" = "Major timer";
+"History list" = "히스토리 목록";
+"By day" = "날짜에 따른";
+"By activity type" = "활동유형에 따른";
+"Display auto-lock" = "자동잠금 표시";
+"Major timer" = "주요 타이머";
 "Count up" = "Count up";
 "Count down" = "Count down";
-"CSV duration format" = "CSV duration format";
+"CSV duration format" = "CSV 기간 형식";
 "Decimal" = "Decimal";
 "Application" = "Application";
 
 // Twitter
-"Tweet activities" = "Tweet activities";
-"Show tweet sheet" = "Show tweet sheet";
-"Twitter account" = "Twitter account";
-"Select account" = "Select account";
-"Message template" = "Message template";
-"Can't find any active account" = "Can't find any active account";
-"Please, login to Twitter first" = "Please, login to Twitter first";
+"Tweet activities" = "활동 Tweet하기";
+"Show tweet sheet" = "Tweet시트 표시하기";
+"Twitter account" = "Twitter  계정;
+"Select account" = "계정 선택";
+"Message template" = "메시지 템플릿";
+"Can't find any active account" = "계정을 찾을 수 없습니다";
+"Please, login to Twitter first" = "먼저 Twitter에 로그인 해주세요";
 
 // Warnings
 "Warning" = "잠깐!";
@@ -246,7 +246,7 @@
 "Delete activity?" = "활동을 삭제하실건가요?";
 "Deleting activity type will delete all its recorded activities. Are you sure?" = "활동유형을 삭제하시면 모든 기록이 삭제돼요. 삭제하실건가요?";
 "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "그룹을 삭제하시면 모든 하위그룹, 활동유형, 모든 기록이 삭제돼요. 삭제하실건가요?";
-"Restore will delete old data and overwrites with backed up data. Are you sure?" = "저장하시면 기존의 기록을 삭제하고 백업된 기록으로 덮어씌워져요. 저장하실건가요?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "복원하시면 기존의 기록을 삭제하고 백업된 기록으로 덮어씌워져요. 저장하실건가요?";
 "Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "이미 그룹을 생성하셨기 때문에 그룹비활성화를 하실 수 없어요. 먼저 그룹을 삭제해주세요.";
 "welcome.message" = "aTimeLogger 2에 첫방문을 축하드려요! 처음 사용하시는 분들을 위한 사용설명과 함께 aTimeLogger 1 에서 갈아타신 분들을 위한 간단한 튜토리얼이 준비되어 있어요.";
 "Welcome" = "안녕하세요!:D";
@@ -279,21 +279,21 @@
 "Sunday" = "일요일";
 
 // passcode
-"Passcode Lock" = "Passcode Lock";
+"Passcode Lock" = "비밀번호 잠금";
 
-"Enable" = "Enable";
+"Enable" = "사용";
 
-"Turn Passcode Off" = "Turn Passcode Off";
-"Turn Passcode On" = "Turn Passcode On";
-"Change Passcode" = "Change Passcode";
-"Set Passcode" = "Set Passcode";
-"Turn off Passcode" = "Turn off Passcode";
-"Enter Passcode" = "Enter Passcode";
-"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Turn Passcode Off" = "잠금 끄기";
+"Turn Passcode On" = "잠금 켜기";
+"Change Passcode" = "비밀번호 변경";
+"Set Passcode" = "비밀번호 설정";
+"Turn off Passcode" = "비밀번호 잠금 끄기";
+"Enter Passcode" = "비밀번호 입력";
+"Passcodes did not match. Try again." = "비밀번호가 일치하지 않습니다. 다시 시도해주세요.";
 
-"Enter your passcode" = "Enter your passcode";
-"Enter a passcode" = "Enter a passcode";
-"Re-enter your passcode" = "Re-enter your passcode";
-"Enter your old passcode" = "Enter your old passcode";
-"Enter your new passcode" = "Enter your new passcode";
-"Re-enter your new passcode" = "Re-enter your new passcode";
+"Enter your passcode" = "비밀번호 입력";
+"Enter a passcode" = "비밀번호 입력";
+"Re-enter your passcode" = "비밀번호 재입력";
+"Enter your old passcode" = "이전 비밀번호 입력";
+"Enter your new passcode" = "새로운 비밀번호 입력";
+"Re-enter your new passcode" = "새 비밀번호 재입력";
