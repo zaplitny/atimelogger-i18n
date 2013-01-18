@@ -244,6 +244,7 @@
 "CSV duration format" = "CSVの期間形式";
 "Decimal" = "小数";
 "Application" = "アプリ時間の形式と同じ";
+"Default edit field" = "Default edit field";
 
 // Twitter
 "Tweet activities" = "ログをツイートする";
