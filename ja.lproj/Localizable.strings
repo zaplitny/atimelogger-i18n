@@ -181,6 +181,7 @@
 "Activity duration" = "ログごと";
 "Interval duration" = "期間ごと";
 "Day duration" = "日ごと";
+"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
 
 // Backups
 "Backups" = "バックアップ";
