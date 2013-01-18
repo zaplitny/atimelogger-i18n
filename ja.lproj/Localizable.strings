@@ -180,7 +180,7 @@
 "%@ per interval" = "%@ 期間ごと";
 "%@ per activity" = "%@ 記録ごと";
 "Alert" = "警告";
-"Delete goal?" = "目標を削除?";
+"Delete goal?" = "目標を削除？";
 "Activity duration" = "ログごと";
 "Interval duration" = "期間ごと";
 "Day duration" = "日ごと";
