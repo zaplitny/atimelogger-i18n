@@ -51,6 +51,10 @@
 "Enter comment" = "コメントの入力";
 "Time Left" = "経過時間";
 "Overtime" = "超過時間";
+"My plan" = "My plan";
+"Max duration" = "Max duration";
+"Finish before" = "Finish before";
+"Now" = "Now";
 
 "Date range" = "期間";
 "Select range" = "期間の選択";
@@ -142,6 +146,7 @@
 "Unarchive" = "アーカイブから復元";
 "Archive activity type?" = "ログ種類をアーカイブ？";
 "Unarchive activity type?" = "ログ種類をアーカイブから復元？";
+"Select color" = "Select color";
 "Move to .." = "移動する ...";
 "Graph type" = "グラフ表示";
 "Histogram" = "縦棒グラフ";
@@ -167,6 +172,10 @@
 "Create goal" = "目標を立てる";
 "Edit goal" = "目標を編集";
 "Goal type" = "目標の種類";
+"Goal duration" = "Goal duration";
+"%@ per day" = "%@ per day";
+"%@ per interval" = "%@ per interval";
+"%@ per activity" = "%@ per activity";
 "Alert" = "警告";
 "Delete goal?" = "目標を削除?";
 "Activity duration" = "ログごと";
@@ -195,6 +204,7 @@
 "Japanese" = "日本語";
 "Korea Distributor" = "韓国版の担当者";
 "Chinese" = "中国語";
+"Swedish" = "Swedish";
 
 // Settings
 "Week starts on" = "開始曜日";
@@ -235,6 +245,9 @@
 "Tweet activities" = "ログをツイートする";
 "Show tweet sheet" = "ツイートの入力欄を表示";
 "Twitter account" = "Twitter アカウント";
+"Tweet on start" = "Tweet on start";
+"Tweet on stop" = "Tweet on stop";
+"Template message" = "Template message";
 "Select account" = "アカウントを選択";
 "Message template" = "ツイートのテンプレート";
 "Can't find any active account" = "アカウントが見つかりませんでした";
