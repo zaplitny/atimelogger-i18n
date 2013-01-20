@@ -254,9 +254,9 @@
 "Tapping anywhere takes us to 'Edit activity'" = "でこタップしても、「記録編集」に移動します";
 "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "アイコンをタップする際「記録の編集」に移動し、アイコンの隣のとこをタップする際「期間の編集」に移動します";
 "Min. activity duration" = "最短記録時間";
-"10 seconds" = "10 seconds";
-"1 minute" = "1 minute";
-"5 minutes" = "5 minutes";
+"10 seconds" = "10秒";
+"1 minute" = "1分";
+"5 minutes" = "5分";
 
 
 // Twitter
@@ -270,9 +270,10 @@
 "Message template" = "ツイートのテンプレート";
 "Can't find any active account" = "アカウントが見つかりませんでした";
 "Please, login to Twitter first" = "はじめにTwitterにログインしてください";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default" = "Restore default";
+"Preview" = "表示";
+"Restore default template?" = "例のツイートを復元";
+"Restore default" = "例のツイートを復元";
+"Cancel" = "キャンセル";
 
 // Warnings
 "Warning" = "警告";
