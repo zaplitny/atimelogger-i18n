@@ -235,8 +235,8 @@
 "Top level" = "全体的";
 "On" = "オン";
 "Off" = "オフ";
-"Color picker" = "カラー選択";
-"Predefined" = "既定";
+"Color picker" = "色の選択";
+"Predefined" = "既定色から";
 "History list" = "履歴リスト";
 "By day" = "日別";
 "By activity type" = "ログ別";
@@ -247,7 +247,7 @@
 "CSV duration format" = "CSVの期間形式";
 "Decimal" = "小数";
 "Application" = "アプリ時間の形式と同じ";
-"Default edit field" = "変更する時の";
+"Default edit field" = "変更する時の優先";
 "Simple" = "簡単";
 "Complex" = "複雑";
 "Tap on history or running activity" = "履歴か記録のタイマーをタップする際";
