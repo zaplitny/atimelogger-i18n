@@ -50,14 +50,19 @@
 "Touch «+» to add time interval" = "Нажмите «+» чтобы добавить интервал";
 "Enter comment" = "Введите комментарий";
 "Time Left" = "Осталось";
-"Overtime" = "Overtime";
+"Overtime" = "Овертайм";
+"My plan" = "Мой план";
+"Max duration" = "Макс продолж";
+"Finish before" = "Закончить до";
+"Finish" = "Finish";
+"Now" = "Сейчас";
 
 "Date range" = "Период";
 "Select range" = "Выберите период";
 "Create backup" = "Создать бэкап";
 "Send by email" = "Послать на email";
 "Select activity type" = "Выберите тип активности";
-"Select type" = "Select type";
+"Select type" = "Выберите тип";
 "Create report" = "Создать отчет";
 "Creating report..." = "Создание отчета...";
 "Report" = "Отчет";
@@ -71,6 +76,15 @@
 "Stop" = "Стоп";
 "Pause" = "Пауза";
 "Start" = "Начать";
+"Start new activity simultaneously" = "Активности могут запускаться параллельно";
+"Start new activity and pause running" = "Запущенные активности будут поставлены на паузу при запуске новой активности";
+"Start new activity and stop running" = "Запущенные активности будут остановлены при запуске новой активности";
+"Started %activity%" = "Started %activity%";
+"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
+
 "Resume" = "Продолжить";
 "Comment" = "Комментарий";
 "Today" = "Сегодня";
@@ -130,6 +144,8 @@
 "Edit group" = "Группа";
 "Edit type" = "";
 "Bar chart" = "Диаграмма";
+"Items" = "Items";
+"Select/deselect all" = "Выбрать/очистить все";
 "Total time" = "Всего";
 "Days" = "Дни";
 "Hours" = "Часы";
@@ -138,6 +154,13 @@
 "Unarchive" = "Разархивировать";
 "Archive activity type?" = "Архивировать тип активности?";
 "Unarchive activity type?" = "Разархивировать тип активности?";
+"Select color" = "Выберите цвет";
+"Move to .." = "Переместить ..";
+"Graph type" = "Тип графика";
+"Histogram" = "Бар чарт";
+"Line" = "Линия";
+"Area" = "Область";
+"Max hours" = "Макс часов";
 "You can't track anything without activity types. Click «+» to add activity type" = "Нельзя делать записи без типов активностей. Нажмите «+» чтобы добавить тип";
 "Click «Cancel» to discard or «Update» to apply changes" = "Нажмите «Отмена» чтобы отменить изменения или «Сохранить» чтобы изменения вступили в силу";
 
@@ -146,17 +169,27 @@
 "%d activity types" = "%d типов";
 "Show 'Other' time" = "Показывать 'Другое'";
 "Other" = "Другое";
+"Total" = "Всего";
+"Saved successfully" = "Успешно сохранено";
+"Save to..." = "Сохранить в...";
+"Documents" = "Документы";
+"The device cannot send mail" = "Почта не настроена";
 
 // Goals
 "Goals" = "Цели";
 "Create goal" = "Созд цель";
 "Edit goal" = "Ред цель";
 "Goal type" = "Тип цели";
+"Goal duration" = "Длительность";
+"%@ per day" = "%@ в день";
+"%@ per interval" = "%@ за интервал";
+"%@ per activity" = "%@ за активность";
 "Alert" = "Alert";
 "Delete goal?" = "Удалить цель?";
 "Activity duration" = "Activity duration";
 "Interval duration" = "Interval duration";
 "Day duration" = "Day duration";
+"Congratulations! Goal reached: '%@'" = "Поздравляем! Цель достигнута: '%@'";
 
 // Backups
 "Backups" = "Бэкапы";
@@ -179,6 +212,9 @@
 "Icon design" = "Дизайн иконки";
 "Japanese" = "Японский";
 "Korea Distributor" = "Корейский";
+"Chinese" = "Китайский";
+"Swedish" = "Шведский";
+"Ideas generator" = "Генератор идей";
 
 // Settings
 "Week starts on" = "Начало недели";
@@ -194,16 +230,49 @@
 "%d minutes" = "%d минут";
 "%d min" = "%d мин";
 "Activity status change" = "Изменение статуса активности";
+"Delete in History" = "Удаление в Истории";
 "Select interval" = "Выберите интервал";
 "Day format" = "Формат дня";
 "Duration format" = "Формат длительности";
 "Passcode Lock" = "Пароль";
-"Pie chart" = "Pie chart";
+"Pie chart" = "Пирог";
 "Top level" = "Top level";
 "On" = "Вкл";
 "Off" = "Выкл";
 "Color picker" = "Выбор цвета";
 "Predefined" = "Заданные";
+"History list" = "Список";
+"By day" = "Интервалы";
+"By activity type" = "Типы активностей";
+"Display auto-lock" = "Блокировка экрана";
+"Major timer" = "Главный таймер";
+"Count up" = "Обычный";
+"Count down" = "Обратный отсчет";
+"CSV duration format" = "Формат CSV";
+"Decimal" = "Decimal";
+"Application" = "Application";
+"Default edit field" = "Default edit field";
+"Simple" = "Simple";
+"Complex" = "Complex";
+"Tap on history or running activity" = "Нажатие в Истории или по активности";
+"Tapping anywhere takes us to 'Edit activity'" = "Нажатие в любом месте ячейке ведет в 'Редактирование активности'";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Нажатие на иконке в ячейке ведет в 'Редактирование активности', нажатие на любой другой области ведет в 'Редактирование интервала'";
+"Min. activity duration" = "Мин. длительность";
+"10 seconds" = "10 секунд";
+"1 minute" = "1 минута";
+"5 minutes" = "5 минут";
+
+// Twitter
+"Tweet activities" = "Tweet activities";
+"Show tweet sheet" = "Показывать окно твита";
+"Twitter account" = "Твиттер";
+"Tweet on start" = "При старте";
+"Tweet on stop" = "При стопе";
+"Template message" = "Шаблон";
+"Select account" = "Выберите аккаунт";
+"Message template" = "Шаблон сообщения";
+"Can't find any active account" = "Не могу найти активный аккаунт";
+"Please, login to Twitter first" = "Пожалуйста, залогиньтесь в Твиттер";
 
 // Warnings
 "Warning" = "Внимание";
@@ -212,7 +281,7 @@
 "Deleting activity type will delete all its recorded activities. Are you sure?" = "Вместе с типом активности будут удалены все его записи. Вы уверены?";
 "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "Вместе с группой будут удалены подгруппы, типы активностей и их записи. Вы уверены?";
 "Restore will delete old data and overwrites with backed up data. Are you sure?" = "Восстановление перепишет все Ваши данные. Вы уверены?";
-"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Sorry. You have groups created. Disabling groups is not possible. Delete groups first";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "У вас уже имеются созданные группы. Удалите их сначала";
 "welcome.message" = "Это Ваш первый запуск aTimeLogger 2. Мы приготовили статью для новичков и руководство для пользователей aTimeLogger 1.x.";
 "Welcome" = "Добро пожаловать";
 "View" = "Посмотреть";
@@ -243,3 +312,23 @@
 "Friday" = "Пятница";
 "Saturday" = "Суббота";
 "Sunday" = "Воскресенье";
+
+// passcode
+"Passcode Lock" = "Пароль";
+
+"Enable" = "Включить";
+
+"Turn Passcode Off" = "Отключить пароль";
+"Turn Passcode On" = "Включить пароль";
+"Change Passcode" = "Изменить пароль";
+"Set Passcode" = "Установить пароль";
+"Turn off Passcode" = "Отключить пароль";
+"Enter Passcode" = "Введите пароль";
+"Passcodes did not match. Try again." = "Неправильный пароль. Попробуйте еще раз.";
+
+"Enter your passcode" = "Введите Ваш пароль";
+"Enter a passcode" = "Введите пароль";
+"Re-enter your passcode" = "Введите пароль еще раз";
+"Enter your old passcode" = "Введите старый пароль";
+"Enter your new passcode" = "Введите новй пароль";
+"Re-enter your new passcode" = "Введите Ваш пароль еще раз";
