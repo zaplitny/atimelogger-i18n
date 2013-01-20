@@ -51,6 +51,11 @@
 "Enter comment" = "Enter comment";
 "Time Left" = "Time Left";
 "Overtime" = "Overtime";
+"My plan" = "My plan";
+"Max duration" = "Max duration";
+"Finish before" = "Finish before";
+"Finish" = "Finish";
+"Now" = "Now";
 
 "Date range" = "Date range";
 "Select range" = "Select range";
@@ -70,6 +75,15 @@
 "Stop" = "Stop";
 "Pause" = "Pause";
 "Start" = "Start";
+"Start new activity simultaneously" = "Start new activity simultaneously";
+"Start new activity and pause running" = "Start new activity and pause running";
+"Start new activity and stop running" = "Start new activity and stop running";
+"Started %activity%" = "Started %activity%";
+"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
+
 "Resume" = "Resume";
 "Comment" = "Comment";
 "Today" = "Today";
@@ -139,6 +153,7 @@
 "Unarchive" = "Unarchive";
 "Archive activity type?" = "Archive activity type?";
 "Unarchive activity type?" = "Unarchive activity type?";
+"Select color" = "Select color";
 "Move to .." = "Move to ..";
 "Graph type" = "Graph type";
 "Histogram" = "Histogram";
@@ -164,11 +179,16 @@
 "Create goal" = "Create goal";
 "Edit goal" = "Edit goal";
 "Goal type" = "Goal type";
+"Goal duration" = "Goal duration";
+"%@ per day" = "%@ per day";
+"%@ per interval" = "%@ per interval";
+"%@ per activity" = "%@ per activity";
 "Alert" = "Alert";
 "Delete goal?" = "Delete goal?";
 "Activity duration" = "Activity duration";
 "Interval duration" = "Interval duration";
 "Day duration" = "Day duration";
+"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
 
 // Backups
 "Backups" = "Backups";
@@ -191,6 +211,9 @@
 "Icon design" = "Icon design";
 "Japanese" = "Japanese";
 "Korea Distributor" = "Korea Distributor";
+"Chinese" = "Chinese";
+"Swedish" = "Swedish";
+"Ideas generator" = "Ideas generator";
 
 // Settings
 "Week starts on" = "Week starts on";
@@ -206,6 +229,7 @@
 "%d minutes" = "%d minutes";
 "%d min" = "%d min";
 "Activity status change" = "Activity status change";
+"Delete in History" = "Delete in History";
 "Select interval" = "Select interval";
 "Day format" = "Day format";
 "Duration format" = "Duration format";
@@ -226,11 +250,24 @@
 "CSV duration format" = "CSV duration format";
 "Decimal" = "Decimal";
 "Application" = "Application";
+"Default edit field" = "Default edit field";
+"Simple" = "Simple";
+"Complex" = "Complex";
+"Tap on history or running activity" = "Tap on history or running activity";
+"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
+"Min. activity duration" = "Min. activity duration";
+"10 seconds" = "10 seconds";
+"1 minute" = "1 minute";
+"5 minutes" = "5 minutes";
 
 // Twitter
 "Tweet activities" = "Tweet activities";
 "Show tweet sheet" = "Show tweet sheet";
 "Twitter account" = "Twitter account";
+"Tweet on start" = "Tweet on start";
+"Tweet on stop" = "Tweet on stop";
+"Template message" = "Template message";
 "Select account" = "Select account";
 "Message template" = "Message template";
 "Can't find any active account" = "Can't find any active account";
