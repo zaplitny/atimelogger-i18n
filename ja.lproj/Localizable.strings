@@ -54,7 +54,7 @@
 "My plan" = "予定";
 "Max duration" = "記録時間";
 "Finish before" = "締め切り";
-"Finish" = "Finish";
+"Finish" = "終了予定";
 "Now" = "今";
 
 "Date range" = "期間";
@@ -79,7 +79,7 @@
 "Start new activity and pause running" = "現在の記録を中断し、新記録を開始";
 "Start new activity and stop running" = "現在の記録を停止し、新記録を開始";
 "Started %activity%" = "%activity%を開始しました！";
-"Just logged %duration% of %activity%" = "%activity%を%duration%記録しました！";
+"Just logged %duration% of %activity%" = "%activity%を記録しました！タイム：%duration%";
 
 "Resume" = "再開";
 "Comment" = "コメント";
@@ -95,12 +95,12 @@
 "5 min before" = "5分前";
 "10 min before" = "10分前";
 "15 min before" = "15分前";
-"Repeat interval" = "リピート間隔";
+"Repeat interval" = "繰り返す間隔";
 "Every 5 min" = "5分おき";
 "Every 10 min" = "10分おき";
 "Every 15 min" = "15分おき";
-"Repeat times" = "リピート設定";
-"Never" = "リピートしない";
+"Repeat times" = "繰り返す回数";
+"Never" = "繰り返さない";
 "Forever" = "期限なし";
 "1 time" = "1回";
 "2 times" = "2回";
@@ -113,7 +113,7 @@
 "Edit interval" = "期間の編集";
 "From" = "開始日";
 "To" = "終了日";
-"Duration" = "時間";
+"Duration" = "記録時間";
 
 // Format
 "%dh %dm" = "%d時間 %d分";
@@ -182,7 +182,7 @@
 "%@ per activity" = "%@ 記録ごと";
 "Alert" = "警告";
 "Delete goal?" = "目標を削除？";
-"Activity duration" = "ログごと";
+"Activity duration" = "記録ごと";
 "Interval duration" = "期間ごと";
 "Day duration" = "日ごと";
 "Congratulations! Goal reached: '%@'" = "おめでとう！目標を果たした：'%@'";
@@ -210,6 +210,7 @@
 "Korea Distributor" = "韓国版の担当者";
 "Chinese" = "中国語";
 "Swedish" = "スウェーデン語";
+"Ideas generator" = "共同考案者";
 
 // Settings
 "Week starts on" = "開始曜日";
@@ -224,8 +225,8 @@
 "Time picker interval" = "時間間隔の設定";
 "%d minutes" = "%d 分";
 "%d min" = "%d 分";
-"Activity status change" = "ログの変更時";
-"Delete in History" = "Delete in History";
+"Activity status change" = "記録変更の際";
+"Delete in History" = "記録削除の際";
 "Select interval" = "時間間隔の設定";
 "Day format" = "日付の形式";
 "Duration format" = "時間の形式";
@@ -246,12 +247,13 @@
 "CSV duration format" = "CSVの期間形式";
 "Decimal" = "小数";
 "Application" = "アプリ時間の形式と同じ";
-"Default edit field" = "Default edit field";
-"Simple" = "Simple";
-"Tap on history or running activity" = "Tap on history or running activity";
-"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
-"Min. activity duration" = "Min. activity duration";
+"Default edit field" = "変更する時の";
+"Simple" = "簡単";
+"Complex" = "複雑";
+"Tap on history or running activity" = "履歴か記録のタイマーをタップする際";
+"Tapping anywhere takes us to 'Edit activity'" = "でこタップしても、「記録編集」に移動します";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "アイコンをタップする際「記録の編集」に移動し、アイコンの隣のとこをタップする際「期間の編集」に移動します";
+"Min. activity duration" = "最短記録時間";
 
 // Twitter
 "Tweet activities" = "ログをツイートする";
