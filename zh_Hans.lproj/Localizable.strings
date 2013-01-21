@@ -51,11 +51,11 @@
 "Enter comment" = "增加备注";
 "Time Left" = "剩余时间";
 "Overtime" = "超时";
-"My plan" = "My plan";
-"Max duration" = "Max duration";
-"Finish before" = "Finish before";
-"Finish" = "Finish";
-"Now" = "Now";
+"My plan" = "我的计划";
+"Max duration" = "最大持续时间";
+"Finish before" = "在...之前结束";
+"Finish" = "结束";
+"Now" = "此刻";
 
 "Date range" = "日期范围";
 "Select range" = "选择范围";
@@ -78,11 +78,11 @@
 "Start new activity simultaneously" = "同时开始新活动";
 "Start new activity and pause running" = "暂停正在进行的活动并开始新活动";
 "Start new activity and stop running" = "结束正在进行的活动并开始新活动";
-"Started %activity%" = "Started %activity%";
-"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
+"Started %activity%" = "已开始 %activity%";
+"Just logged %duration% of %activity%" = "已记录 %duration% of %activity%";
+"Preview" = "预览";
+"Restore default template?" = "确定恢复默认模板？";
+"Restore default template" = "恢复默认模板";
 
 "Resume" = "继续";
 "Comment" = "备注";
@@ -149,15 +149,15 @@
 "Unarchive" = "归档逆操作";
 "Archive activity type?" = "确定归档活动类型？";
 "Unarchive activity type?" = "确定逆归档活动类型？";
-"Select color" = "Select color";
+"Select color" = "选择颜色";
 "Move to .." = "移动至...";
 "Graph type" = "图表类型";
 "Histogram" = "条形图";
 "Line" = "折线图";
 "Area" = "面积图";
 "Max hours" = "最大小时数";
-"You can't track anything without activity types. Click «+» to add activity type" = "您不能在没有选择活动类别的情况下记录，请按 '+' 新增活动类别";
-"Click «Cancel» to discard or «Update» to apply changes" = "请按 '取消' 放弃改变或按 '应用' 确认改变";
+"You can't track anything without activity types. Click «+» to add activity type" = "您不能在没有选择活动类别的情况下记录，请按 «+» 新增活动类别";
+"Click «Cancel» to discard or «Update» to apply changes" = "请按 «取消» 放弃改变或按 «应用» 确认改变";
 
 // Reports
 "All" = "全部";
@@ -175,16 +175,16 @@
 "Create goal" = "新建目标";
 "Edit goal" = "编辑目标";
 "Goal type" = "目标类型";
-"Goal duration" = "Goal duration";
-"%@ per day" = "%@ per day";
-"%@ per interval" = "%@ per interval";
-"%@ per activity" = "%@ per activity";
+"Goal duration" = "目标持续时间";
+"%@ per day" = "%@ 每天";
+"%@ per interval" = "%@ 每时间段";
+"%@ per activity" = "%@ 每活动";
 "Alert" = "警告";
 "Delete goal?" = "删除目标？";
 "Activity duration" = "活动持续时间";
 "Interval duration" = "时间段持续时间";
 "Day duration" = "Day持续时间";
-"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
+"Congratulations! Goal reached: '%@'" = "恭喜您！ 目标达成: '%@'";
 
 // Backups
 "Backups" = "备份";
@@ -201,15 +201,15 @@
 "Loading..." = "载入中...";
 "Contact us" = "联系我们";
 "Review us on iTunes" = "在iTunes中评论";
-"Follow us on Twitter" = "Follow us on Twitter";
-"Like us on Facebook" = "Like us on Facebook";
+"Follow us on Twitter" = "在Twitter上Follow";
+"Like us on Facebook" = "在Facebook上Like";
 "Credits" = "感谢";
 "Icon design" = "图标设计";
 "Japanese" = "日语";
 "Korea Distributor" = "韩语";
 "Chinese" = "中文";
-"Swedish" = "Swedish";
-"Ideas generator" = "Ideas generator";
+"Swedish" = "瑞典语";
+"Ideas generator" = "创意贡献者";
 
 // Settings
 "Week starts on" = "每周第一天";
@@ -225,7 +225,7 @@
 "%d minutes" = "%d 分钟";
 "%d min" = "%d 分钟";
 "Activity status change" = "活动状态变更";
-"Delete in History" = "Delete in History";
+"Delete in History" = "在历史中删除";
 "Select interval" = "选择时间段";
 "Day format" = "日期格式";
 "Duration format" = "持续时间格式";
@@ -246,24 +246,24 @@
 "CSV duration format" = "CSV持续时间格式";
 "Decimal" = "小数";
 "Application" = "应用";
-"Default edit field" = "Default edit field";
-"Simple" = "Simple";
-"Complex" = "Complex";
-"Tap on history or running activity" = "Tap on history or running activity";
-"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
-"Min. activity duration" = "Min. activity duration";
-"10 seconds" = "10 seconds";
-"1 minute" = "1 minute";
-"5 minutes" = "5 minutes";
+"Default edit field" = "默认编辑字段";
+"Simple" = "简单";
+"Complex" = "复杂";
+"Tap on history or running activity" = "点击历史或者正在进行的活动";
+"Tapping anywhere takes us to 'Edit activity'" = "点击任意位置可以“编辑活动”";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "点击图标可以“编辑活动”，点击文字部分可以“编辑时间短”";
+"Min. activity duration" = "最小活动持续时间";
+"10 seconds" = "10 秒";
+"1 minute" = "1 分钟";
+"5 minutes" = "5 分钟";
 
 // Twitter
-"Tweet activities" = "Tweet 活动";
+"Tweet activities" = "Tweet活动";
 "Show tweet sheet" = "显示tweet sheet";
 "Twitter account" = "Twitter帐户";
-"Tweet on start" = "Tweet on start";
-"Tweet on stop" = "Tweet on stop";
-"Template message" = "Template message";
+"Tweet on start" = "在开始时发Tweet";
+"Tweet on stop" = "在结束时发Tweet";
+"Template message" = "模板信息";
 "Select account" = "选择帐户";
 "Message template" = "信息模板";
 "Can't find any active account" = "无法发现有效帐户";
