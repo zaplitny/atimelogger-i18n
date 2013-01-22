@@ -1,0 +1,25 @@
+Version 1.2
+Thanks to everyone for your suggestions and positive reviews! It took us a long time to make this new version but number of changes is impressive. Below is just list of what's new. You can read more and find out how to use it in our application blog - www.aloggers.com 
+
+Also don't forget about our Facebook page and Twitter 
+
+New features: 
+- Goals 
+- History list grouped by activity types 
+- Twitter support 
+- Archiving activity types 
+- 2 new themes 
+
+Improvements: 
+- add 'Today' button to Day/Week/Month selector 
+- decimal CSV duration 
+- minimal duration feature - activities with duration less than minimal value are not saved 
+- percents and total added to report 
+- select/deselect all button when select multiple activity types 
+- added 'Move to' button for grouping 
+- Swedish translation 
+
+Bugs fixed: 
+- duration bug 
+- am/pm in calendar view 
+- html report in non-English
