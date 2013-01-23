@@ -25,27 +25,29 @@ Version 1.1
 #####################
 
 Version 1.2
-Thanks to everyone for your suggestions and positive reviews! It took us a long time to make this new version but number of changes is impressive. Below is just list of what's new. You can read more and find out how to use it in our application blog - www.aloggers.com 
+みんなの提案やレビューありがとうございます！
+バージョン1.2は結構時間かかったけれど、その代わりに改善した機能と新しい機能も多いです！
+アップデートの詳細はアプリのブログをご覧ください（英語） www.aloggers.com
 
-Also don't forget about our Facebook page and Twitter 
+FacebookページやTwitterも忘れないでね！
 
-New features: 
-- Goals 
-- History list grouped by activity types 
-- Twitter support 
-- Archiving activity types 
-- 2 new themes 
+新しい機能：
+★　目標
+★　Twitterつぶやき機能
+★　履歴リストをログ種類で別れるようになりました
+★　ログ種類をアーカイブ
+★　新しいテーマ、２個も！
+★　翻訳：スェーデン語
 
-Improvements: 
-- add 'Today' button to Day/Week/Month selector 
-- decimal CSV duration 
-- minimal duration feature - activities with duration less than minimal value are not saved 
-- percents and total added to report 
-- select/deselect all button when select multiple activity types 
-- added 'Move to' button for grouping 
-- Swedish translation 
+改善した機能：
+✓ 履歴で「日/週/年」の選択で「今日」を追加
+✓ 「最短記録時間」機能を追加　−　決まった時間の以下の記録は記録されません
+✓ レポートの時にパーセントと合計を追加
+✓ CSVの期間形式で「小数」を追加
+✓ ログ種類を複数選択してる時に「全てを選択／選択を解除」を追加
+✓ ログ種類でグループへの「移動する」ボタンを追加
 
-Bugs fixed: 
-- duration bug 
-- am/pm in calendar view 
-- html report in non-English
+バクの修正：
+✝ 記録時間バグを修正
+✝ カレンダーでam/pmのバグを修正
+✝ 英語以外の言語でのhtmlレポートのバグを修正
