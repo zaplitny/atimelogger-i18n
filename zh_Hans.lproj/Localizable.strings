@@ -47,11 +47,11 @@
 "Running" = "进行中状态";
 "Paused" = "暂停状态";
 "Stopped" = "结束状态";
-"Touch «+» to add time interval" = "请按 «+» 增加新的活动时段";
+"Touch «+» to add time interval" = "请按 «+» 增加新的活动时间段";
 "Enter comment" = "增加备注";
 "Time Left" = "剩余时间";
 "Overtime" = "超时";
-"My plan" = "我的计划";
+"My plan" = "活动计划";
 "Max duration" = "最大持续时间";
 "Finish before" = "在...之前结束";
 "Finish" = "结束";
@@ -113,15 +113,15 @@
 "Time to finish" = "结束重复";
 
 // Intervals
-"Edit interval" = "编辑时段";
-"From" = "开始";
-"To" = "结束";
+"Edit interval" = "编辑时间段";
+"From" = "开始时间";
+"To" = "结束时间";
 "Duration" = "持续时间";
 
 // Format
 "%dh %dm" = "%d小时 %d分钟";
-"%dm" = "%d 分钟";
-"%dh" = "%d 小时";
+"%dm" = "%d分钟";
+"%dh" = "%d小时";
 "< 1m" = "< 1分钟";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
@@ -130,7 +130,7 @@
 
 // History
 "Total time tracked" = "记录时间总计";
-"Nothing tracked for selected period" = "这段时间内没有任何纪录";
+"Nothing tracked for selected period" = "这段时间内没有任何记录";
 "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "改变时段, 请按 «+» 开始/重新启动一个活动，或者选择活动图标开始一个新活动";
 
 // Categories
@@ -251,7 +251,7 @@
 "Complex" = "复杂";
 "Tap on history or running activity" = "点击历史或者正在进行的活动";
 "Tapping anywhere takes us to 'Edit activity'" = "点击任意位置可以“编辑活动”";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "点击图标可以“编辑活动”，点击文字部分可以“编辑时间短”";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "点击图标可“编辑活动”，点击文字部分可“编辑时间段”";
 "Min. activity duration" = "最小活动持续时间";
 "10 seconds" = "10 秒";
 "1 minute" = "1 分钟";
@@ -299,13 +299,13 @@
 "Drink" = "饮酒";
 
 // Days of week
-"Monday" = "星期一";
-"Tuesday" = "星期二";
-"Wednesday" = "星期三";
-"Thursday" = "星期四";
-"Friday" = "星期五";
-"Saturday" = "星期六";
-"Sunday" = "星期天";
+"Monday" = "周一";
+"Tuesday" = "周二";
+"Wednesday" = "周三";
+"Thursday" = "周四";
+"Friday" = "周五";
+"Saturday" = "周六";
+"Sunday" = "周日";
 
 // passcode
 "Passcode Lock" = "密码锁定";
