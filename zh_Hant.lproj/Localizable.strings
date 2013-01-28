@@ -10,7 +10,7 @@
 "About" = "關於";
 
 "Save" = "儲存";
-"Update"  = "更新";
+"Update" = "更新";
 "Edit" = "編輯";
 "Delete" = "刪除";
 "Cancel" = "取消";
@@ -51,7 +51,7 @@
 "Enter comment" = "輸入註解";
 "Time Left" = "剩餘時間";
 "Overtime" = "超過時間";
-"My plan" = "我的計劃";
+"My plan" = "活動計劃";
 "Max duration" = "最大持續時間";
 "Finish before" = "在...之前結束";
 "Finish" = "結束";
@@ -114,8 +114,8 @@
 
 // Intervals
 "Edit interval" = "編輯時間間隔";
-"From" = "開始";
-"To" = "結束";
+"From" = "開始時間";
+"To" = "結束時間";
 "Duration" = "持續時間";
 
 // Format
