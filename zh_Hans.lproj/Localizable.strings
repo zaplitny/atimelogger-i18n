@@ -125,8 +125,12 @@
 "< 1m" = "< 1分钟";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
+"MM/dd" = "MM/dd";
+"dd/MM" = "dd/MM";
+"dd MMM" = "dd MMM";
 "MMM dd" = "MMM dd";
 "MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MMMM dd, cccc";
 
 // History
 "Total time tracked" = "记录时间总计";
@@ -200,6 +204,7 @@
 "Help" = "帮助";
 "Loading..." = "载入中...";
 "Contact us" = "联系我们";
+"Feedback" = "Feedback";
 "Review us on iTunes" = "在iTunes中评论";
 "Follow us on Twitter" = "在Twitter上Follow";
 "Like us on Facebook" = "在Facebook上Like";
