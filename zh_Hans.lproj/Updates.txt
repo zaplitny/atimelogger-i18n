@@ -1,25 +1,27 @@
-Version 1.1
+Version 1.2
+Thanks to everyone for your suggestions and positive reviews! 
 
-Thanks to each of you who cares! Who writes reviews, sends feature requests, reports bugs and 
-spreads a word about aTimeLogger! Your feedback inspires us and gives the strength to go forward!
+This new version took a lot of time to prepare and the result is an update containing many new features and enhancements. Below is a summarized list of 'what's new'. You can get more details and learn how to use the new functionality by visiting our application blog at www.aloggers.com 
 
-Join us on Facebook and Twitter to keep up to date with latest news and events! 
-For more details about the update see application blog (www.aloggers.com)
+Also, please don't forget about our Facebook page and Twitter. 
 
-New:
-★ Translations: korean, simplified chinese and traditional chinese
-★ Calendar view for time period 'Day'
-★ Pass code protection
-★ Alternative color picker
-★ Button 'Now' on 'Edit interval' view
-★ 'Smart' start date is back!
-★ Display auto-lock can be turned off
+New features: 
+★ Goals 
+★ History list grouped by activity types 
+★ Twitter support 
+★ Archiving activity types 
+★ 2 new themes 
 
-Improved:
-✓ Pie chart's legend shows durations
-✓ Now pie chart can display either only top level groups and activity types or all of them in the same chart — just shake device when pie chart is displayed to switch display modes
-✓ 'Activities' tab now has mode to show only 'Types' (without groups)
-✓ Improved local notifications
+Improvements: 
+✓ added 'Today' button to Day/Week/Month selector 
+✓ decimal CSV for activity duration 
+✓ added 'minimal duration' feature => activities with duration less than minimal value are not saved 
+✓ added percents and total to report 
+✓ added 'select/deselect all' button when selecting multiple activity types 
+✓ added 'Move to' button for grouping 
+✓ added Swedish translation 
 
-Fixed:
-✝ Restore old aTimeLogger backup with running activity
+Bugs fixed: 
+✝ duration bug 
+✝ am/pm in calendar view 
+✝ html report for languages other than English
