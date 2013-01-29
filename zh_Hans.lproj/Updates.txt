@@ -1,4 +1,37 @@
 Version 1.2
+真诚感谢大家积极的建议和反馈！
+
+这个新版本我们准备了很长时间，最终这次更新包括了很多的新特性和提升。
+下面就是一张“最新”清单。您可以登陆我们的软件博客www.aloggers.com来获取更多细节以及了解如何使用最新的功能。
+
+同样，欢迎光临我们的Facebook主页和Twitter，感谢支持！
+
+新特性：
+★ “目标”功能
+★ 历史清单中按照活动类别分组
+★ Twitter 支持
+★ 归档活动类型
+★ 2个新主题
+
+
+提升和改进：
+✓ 在历史标签内的日/周/月选择按钮上新增“今天”按钮
+✓ CSV报告中活动持续时间精确到小数位
+✓ 新增“最小活动持续时间”功能 => 小于最小活动持续时间的活动不会被保存
+✓ 在报告中新增百分比和总计时间
+✓ 选择多项活动类型时新增“选择/取消选择 全部”按钮
+✓ 新增“移动至...”按钮方便群组功能（文件夹）
+✓ 语言新增瑞典语
+
+
+漏洞的修补：
+✝ 解决持续时间的漏洞
+✝ 在日历视图中上午下午的时间显示（AM/PM）
+✝ 非英语语言的HTML报告问题
+
+
+
+
 Thanks to everyone for your suggestions and positive reviews! 
 
 This new version took a lot of time to prepare and the result is an update containing many new features and enhancements. Below is a summarized list of 'what's new'. You can get more details and learn how to use the new functionality by visiting our application blog at www.aloggers.com 
