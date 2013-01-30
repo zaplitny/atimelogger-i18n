@@ -179,8 +179,8 @@
 "Goal type" = "目標の種類";
 "Goal duration" = "目標時間";
 "%@ per day" = "%@ 日ごと";
-"%@ per week" = "%@ per week";
-"%@ per month" = "%@ per month";
+"%@ per week" = "%@ 週ごと";
+"%@ per month" = "%@ 月ごと";
 "%@ per interval" = "%@ 期間ごと";
 "%@ per activity" = "%@ 記録ごと";
 "Alert" = "警告";
@@ -241,9 +241,9 @@
 "Off" = "オフ";
 "Color picker" = "色の選択";
 "Predefined" = "既定色から";
-"History list" = "履歴リスト";
-"By activity entry" = "日別";
-"By activity type" = "ログ別";
+"History list" = "履歴リストの表示";
+"By activity entry" = "記録別";
+"By activity type" = "ログ種類別";
 "Display auto-lock" = "ディスプレイ自動ロック";
 "Major timer" = "タイマーの優先";
 "Count up" = "カウントアップ";
