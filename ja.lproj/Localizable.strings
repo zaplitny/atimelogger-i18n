@@ -146,6 +146,7 @@
 "Days" = "日";
 "Hours" = "時間";
 "No activity types" = "ログが存在しません";
+"Archived types" = "Archived types";
 "Archive" = "アーカイブ";
 "Unarchive" = "アーカイブから復元";
 "Archive activity type?" = "ログ種類をアーカイブ？";
@@ -178,6 +179,8 @@
 "Goal type" = "目標の種類";
 "Goal duration" = "目標時間";
 "%@ per day" = "%@ 日ごと";
+"%@ per week" = "%@ per week";
+"%@ per month" = "%@ per month";
 "%@ per interval" = "%@ 期間ごと";
 "%@ per activity" = "%@ 記録ごと";
 "Alert" = "警告";
@@ -239,7 +242,7 @@
 "Color picker" = "色の選択";
 "Predefined" = "既定色から";
 "History list" = "履歴リスト";
-"By day" = "日別";
+"By activity entry" = "日別";
 "By activity type" = "ログ別";
 "Display auto-lock" = "ディスプレイ自動ロック";
 "Major timer" = "タイマーの優先";
