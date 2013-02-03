@@ -1,13 +1,13 @@
 Version 1.2.1
 
-New features: 
-★ custom icons 
+New Features: 
+★ custom icons
 
 Improvements: 
 ✓ weekly and monthly goals
 ✓ better performance 
-✓ lot of small UX improvements to make application more intuitive
+✓ several UI improvements to make app more intuitive
 
 Bugs fixed: 
-✝ wrong activity countdown if 'per interval' goal set
-✝ korean duration in history tab
+✝ wrong activity countdown if 'per interval' goal has been set
+✝ Korean duration in history tab
