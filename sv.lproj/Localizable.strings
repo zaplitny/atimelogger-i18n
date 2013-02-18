@@ -30,6 +30,8 @@
 "Color" = "Färg";
 "Icon" = "Ikon";
 "Select icon" = "Välj ikon";
+"Default" = "Default";
+"User" = "User";
 
 "Number of activities" = "Antal aktiviteter";
 "Restore" = "Återställ";
@@ -51,6 +53,11 @@
 "Enter comment" = "Skriv kommentar";
 "Time Left" = "Tid kvar";
 "Overtime" = "Övertid";
+"My plan" = "Min plan";
+"Max duration" = "Max. längd";
+"Finish before" = "Avsluta innan";
+"Finish" = "Finish";
+"Now" = "Nu";
 
 "Date range" = "Datumintervall";
 "Select range" = "Välj intervall";
@@ -70,6 +77,15 @@
 "Stop" = "Stopp";
 "Pause" = "Paus";
 "Start" = "Start";
+"Start new activity simultaneously" = "Start new activity simultaneously";
+"Start new activity and pause running" = "Start new activity and pause running";
+"Start new activity and stop running" = "Start new activity and stop running";
+"Started %activity%" = "Started %activity%";
+"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
+
 "Resume" = "Återuppta";
 "Comment" = "Kommentar";
 "Today" = "Idag";
@@ -111,8 +127,12 @@
 "< 1m" = "< 1m";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
+"MM/dd" = "MM/dd";
+"dd/MM" = "dd/MM";
+"dd MMM" = "dd MMM";
 "MMM dd" = "MMM dd";
 "MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MMMM dd, cccc";
 
 // History
 "Total time tracked" = "Totalt registrerad tid";
@@ -131,10 +151,12 @@
 "Days" = "Dagar";
 "Hours" = "Timmar";
 "No activity types" = "Inga aktivitetstyper";
+"Archived types" = "Archived types";
 "Archive" = "Arkivera";
 "Unarchive" = "Aktivera";
 "Archive activity type?" = "Arkivera activitetstypen?";
 "Unarchive activity type?" = "Aktivera aktivitetstypen?";
+"Select color" = "Välj färg";
 "Move to .." = "Flytta till ..";
 "Graph type" = "Graftyp";
 "Histogram" = "Histogram";
@@ -160,11 +182,18 @@
 "Create goal" = "Skapa mål";
 "Edit goal" = "Redigera mål";
 "Goal type" = "Måltyp";
+"Goal duration" = "Goal duration";
+"%@ per day" = "%@ per day";
+"%@ per week" = "%@ per week";
+"%@ per month" = "%@ per month";
+"%@ per interval" = "%@ per interval";
+"%@ per activity" = "%@ per activity";
 "Alert" = "Påminnelse";
 "Delete goal?" = "Radera mål?";
 "Activity duration" = "Längd för aktivitet";
 "Interval duration" = "Längd per intervall";
 "Day duration" = "Längd per dag";
+"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
 
 // Backups
 "Backups" = "Backuper";
@@ -180,6 +209,7 @@
 "Help" = "Hjälp";
 "Loading..." = "Laddar...";
 "Contact us" = "Kontakta oss";
+"Feedback" = "Feedback";
 "Review us on iTunes" = "Recensera oss i iTunes";
 "Follow us on Twitter" = "Följ oss på Twitter";
 "Like us on Facebook" = "Gilla oss på Facebook";
@@ -187,6 +217,9 @@
 "Icon design" = "Ikondesign";
 "Japanese" = "Japanska";
 "Korea Distributor" = "Koreansk distributör";
+"Chinese" = "Kinesiska";
+"Swedish" = "Svenska";
+"Ideas generator" = "Ideas generator";
 
 // Settings
 "Week starts on" = "Veckan börjar på";
@@ -202,6 +235,7 @@
 "%d minutes" = "%d minuter";
 "%d min" = "%d min";
 "Activity status change" = "Ändring av aktivitetsstatus";
+"Delete in History" = "Delete in History";
 "Select interval" = "Välj intervall";
 "Day format" = "Datumformat";
 "Duration format" = "Tidslängdformat";
@@ -213,7 +247,7 @@
 "Color picker" = "Färgväljare";
 "Predefined" = "Fördefinerad";
 "History list" = "Historiklista";
-"By day" = "Per dag";
+"By activity entry" = "Per dag";
 "By activity type" = "Per aktivitetstyp";
 "Display auto-lock" = "Visa autolås";
 "Major timer" = "Huvudsaklig timer";
@@ -222,6 +256,28 @@
 "CSV duration format" = "CSV tidslängdformat";
 "Decimal" = "Decimal";
 "Application" = "Applikation";
+"Default edit field" = "Default edit field";
+"Simple" = "Simple";
+"Complex" = "Complex";
+"Tap on history or running activity" = "Tap on history or running activity";
+"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
+"Min. activity duration" = "Min. activity duration";
+"10 seconds" = "10 seconds";
+"1 minute" = "1 minute";
+"5 minutes" = "5 minutes";
+
+// Twitter
+"Tweet activities" = "Twittra aktiviter";
+"Show tweet sheet" = "Visa tweet-formulär";
+"Twitter account" = "Twitter-konto";
+"Tweet on start" = "Tweet on start";
+"Tweet on stop" = "Tweet on stop";
+"Template message" = "Template message";
+"Select account" = "Välj konto";
+"Message template" = "Meddelandemall";
+"Can't find any active account" = "Kan inte hitta något aktivt konto";
+"Please, login to Twitter first" = "Logga in på Twitter först";
 
 // Warnings
 "Warning" = "Varning";
@@ -235,15 +291,6 @@
 "Welcome" = "Välkommen";
 "View" = "Vy";
 "No, thanks" = "Nej tack";
-
-// Twitter
-"Tweet activities" = "Twittra aktiviter";
-"Show tweet sheet" = "Visa tweet-formulär";
-"Twitter account" = "Twitter-konto";
-"Select account" = "Välj konto";
-"Message template" = "Meddelandemall";
-"Can't find any active account" = "Kan inte hitta något aktivt konto";
-"Please, login to Twitter first" = "Logga in på Twitter först";
 
 //Categories
 "Sleep" = "Sömn";
@@ -289,18 +336,3 @@
 "Enter your old passcode" = "Ange din gamla lösenkod";
 "Enter your new passcode" = "Ange din nya lösenkod";
 "Re-enter your new passcode" = "Ange din nya lösenkod en gång till";
-
-// STRINGS CURRENTLY PRESENT IN BETA UI BUT NOT IN LATEST EN.LPROJ/LOCALIZED STRINGS
-"My plan" = "Min plan"; 
-"Max duration" = "Max. längd";
-"Finish before" = "Avsluta innan";
-"Now" = "Nu";
-"Select color" = "Välj färg";
-"Plot type" = "Graftyp";
-"Chinese" = "Kinesiska";
-"Click <<+>> to add categories/groups to this group" = "Klicka på <<+>> för att lägga till kategorier/grupper till denna grupp";
-"Post activities" = "Posta aktiviteter";
-"Categories" = "Kategorier"
-
-// STRINGS CURRENTLY NOT PRESENT IN UI BUT MAY BE USED IN FUTURE
-"Swedish" = "Svenska";
