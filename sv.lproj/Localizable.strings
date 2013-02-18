@@ -30,8 +30,8 @@
 "Color" = "Färg";
 "Icon" = "Ikon";
 "Select icon" = "Välj ikon";
-"Default" = "Default";
-"User" = "User";
+"Default" = "Förvald";
+"User" = "Användare";
 
 "Number of activities" = "Antal aktiviteter";
 "Restore" = "Återställ";
@@ -56,7 +56,7 @@
 "My plan" = "Min plan";
 "Max duration" = "Max. längd";
 "Finish before" = "Avsluta innan";
-"Finish" = "Finish";
+"Finish" = "Sluta";
 "Now" = "Nu";
 
 "Date range" = "Datumintervall";
@@ -77,14 +77,14 @@
 "Stop" = "Stopp";
 "Pause" = "Paus";
 "Start" = "Start";
-"Start new activity simultaneously" = "Start new activity simultaneously";
-"Start new activity and pause running" = "Start new activity and pause running";
-"Start new activity and stop running" = "Start new activity and stop running";
-"Started %activity%" = "Started %activity%";
-"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
+"Start new activity simultaneously" = "Starta ny aktivitet samtidigt";
+"Start new activity and pause running" = "Starta ny aktivitet och pausa pågående";
+"Start new activity and stop running" = "Starta ny aktivitet och stoppa pågående";
+"Started %activity%" = "Startade %activity%";
+"Just logged %duration% of %activity%" = "Loggade nyss %duration% med %activity%";
+"Preview" = "Förhandsvisning";
+"Restore default template?" = "Återställ urpsrunglig mall?";
+"Restore default template" = "Återställ urpsrunglig mall";
 
 "Resume" = "Återuppta";
 "Comment" = "Kommentar";
@@ -100,7 +100,7 @@
 "5 min before" = "5 minuter innan";
 "10 min before" = "10 minuter innan";
 "15 min before" = "15 minuter innan";
-"Repeat interval" = "Upprepa intervall";
+"Repeat interval" = "Upprepningsintervall";
 "Every 5 min" = "Varje 5 minut";
 "Every 10 min" = "Varje 10 minut";
 "Every 15 min" = "Varje 15 minut";
@@ -141,7 +141,7 @@
 
 // Categories
 "Create group" = "Skapa grupp";
-"Create type" = "Skapa typ";
+"Create type" = "Skapa aktivitetstyp";
 "Edit group" = "Redigera grupp";
 "Edit type" = "Redigera typ";
 "Bar chart" = "Stapeldiagram";
@@ -151,14 +151,14 @@
 "Days" = "Dagar";
 "Hours" = "Timmar";
 "No activity types" = "Inga aktivitetstyper";
-"Archived types" = "Archived types";
+"Archived types" = "Arkiverade aktivitetstyper;
 "Archive" = "Arkivera";
 "Unarchive" = "Aktivera";
 "Archive activity type?" = "Arkivera activitetstypen?";
 "Unarchive activity type?" = "Aktivera aktivitetstypen?";
 "Select color" = "Välj färg";
 "Move to .." = "Flytta till ..";
-"Graph type" = "Graftyp";
+"Graph type" = "Diagramtyp";
 "Histogram" = "Histogram";
 "Line" = "Linje";
 "Area" = "Yta";
@@ -182,18 +182,18 @@
 "Create goal" = "Skapa mål";
 "Edit goal" = "Redigera mål";
 "Goal type" = "Måltyp";
-"Goal duration" = "Goal duration";
-"%@ per day" = "%@ per day";
-"%@ per week" = "%@ per week";
-"%@ per month" = "%@ per month";
-"%@ per interval" = "%@ per interval";
-"%@ per activity" = "%@ per activity";
+"Goal duration" = "Målets tidslängd";
+"%@ per day" = "%@ per dag";
+"%@ per week" = "%@ per vecka";
+"%@ per month" = "%@ per månad";
+"%@ per interval" = "%@ per intervall";
+"%@ per activity" = "%@ per aktivitet";
 "Alert" = "Påminnelse";
 "Delete goal?" = "Radera mål?";
 "Activity duration" = "Längd för aktivitet";
 "Interval duration" = "Längd per intervall";
 "Day duration" = "Längd per dag";
-"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
+"Congratulations! Goal reached: '%@'" = "Gratulerar! Uppnått mål: '%@'";
 
 // Backups
 "Backups" = "Backuper";
@@ -219,7 +219,7 @@
 "Korea Distributor" = "Koreansk distributör";
 "Chinese" = "Kinesiska";
 "Swedish" = "Svenska";
-"Ideas generator" = "Ideas generator";
+"Ideas generator" = "Idegenerator";
 
 // Settings
 "Week starts on" = "Veckan börjar på";
@@ -235,7 +235,7 @@
 "%d minutes" = "%d minuter";
 "%d min" = "%d min";
 "Activity status change" = "Ändring av aktivitetsstatus";
-"Delete in History" = "Delete in History";
+"Delete in History" = "Radera i Historiken";
 "Select interval" = "Välj intervall";
 "Day format" = "Datumformat";
 "Duration format" = "Tidslängdformat";
@@ -256,24 +256,24 @@
 "CSV duration format" = "CSV tidslängdformat";
 "Decimal" = "Decimal";
 "Application" = "Applikation";
-"Default edit field" = "Default edit field";
-"Simple" = "Simple";
-"Complex" = "Complex";
-"Tap on history or running activity" = "Tap on history or running activity";
-"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
-"Min. activity duration" = "Min. activity duration";
-"10 seconds" = "10 seconds";
-"1 minute" = "1 minute";
-"5 minutes" = "5 minutes";
+"Default edit field" = "Förvalt editeringsfält";
+"Simple" = "Enkel";
+"Complex" = "Komplex";
+"Tap on history or running activity" = "Tryck på historik eller pågående aktivitet";
+"Tapping anywhere takes us to 'Edit activity'" = "Tryckning var som helt tar oss till 'Redigera aktivitet'";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tryckning på ikonen tar oss till 'Redigera aktivitet', tryckning på textdelen tar oss till 'Redigera intervall'";
+"Min. activity duration" = "Min. aktivitetslängd";
+"10 seconds" = "10 sekunder";
+"1 minute" = "1 minut";
+"5 minutes" = "5 minuter";
 
 // Twitter
 "Tweet activities" = "Twittra aktiviter";
 "Show tweet sheet" = "Visa tweet-formulär";
 "Twitter account" = "Twitter-konto";
-"Tweet on start" = "Tweet on start";
-"Tweet on stop" = "Tweet on stop";
-"Template message" = "Template message";
+"Tweet on start" = "Twittra vid start";
+"Tweet on stop" = "Twittra vis stopp;
+"Template message" = "Meddelandemall";
 "Select account" = "Välj konto";
 "Message template" = "Meddelandemall";
 "Can't find any active account" = "Kan inte hitta något aktivt konto";
@@ -289,7 +289,7 @@
 "Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Ledsen. Du har skapat grupper. Det är inte möjligt att stänga av grupper. Radera grupper först.";
 "welcome.message" = "Detta är första gången du använder aTimeLogger 2. Vi har förberett en kort introduktion för nya användare och en handledning i att migrera data för användare av aTimeLogger 1.x."; 
 "Welcome" = "Välkommen";
-"View" = "Vy";
+"View" = "Visa";
 "No, thanks" = "Nej tack";
 
 //Categories
@@ -320,7 +320,7 @@
 // passcode
 "Passcode Lock" = "Lösenkodslås";
 
-"Enable" = "Enable";
+"Enable" = "Tillgängliggör";
 
 "Turn Passcode Off" = "Stäng av lösenkod";
 "Turn Passcode On" = "Slå på lösenkod";
@@ -336,3 +336,38 @@
 "Enter your old passcode" = "Ange din gamla lösenkod";
 "Enter your new passcode" = "Ange din nya lösenkod";
 "Re-enter your new passcode" = "Ange din nya lösenkod en gång till";
+
+//
+// SYNCHRONIZATION STRINGS FOUND IN v1.3 beta 2 application 
+//
+"Sync" = "Synkronisera";
+"Name" = "Namn";
+"Password" = "Lösenord"M
+"Sign in" = "Logga in";
+"Signing in" = "Loggar in";
+"Not synced" = "Inte synkroniserad";
+"Synchronize" = "Synkronisera";
+"Details will be here later" = "Detaljer kommer finnas här senare";
+"Log out" = "Logga ut";
+"Getting changes from server" = "Hämtar förändringar från server";
+"Synced succesfully" = "Synkroniserade framgångsrikt";
+"Everything is up to date" = "Allt är uppdaterat";
+"Last sync" = "Senaste synkroniseringen";
+"Sync finished" = "Synkronisering avslutad";
+"Nothing was changed" = "Inget var förändrat";
+"Warning" = "Varning";
+"Logging out will unsync all of your data. Are your sure?" = "Logga ut kommer att avsynkronisera all din data. Är du säker?";
+"Determine synch" = "Bestämmer synkronisering";
+"It's your first sync" = "Det är din första synkronisering";
+"What sync type do you prefer?" = "Vilken slags synkronisering föredrar du?";
+"Usual sync" = "Vanlig synkronisering";
+"Download from server" = "Ladda ner från server";
+"Cancel" = "Ångra";
+"No conflicts" = "Inga konflikter";
+"Client" = "Klient";
+"Server" = "Server";
+"Continue" = "Fortsätt";
+"Server returned success" = "Server returnerade framgång";
+"Server returned failed" = "Server returnerade misslyckande";
+"false" = "falskt";
+"true" = "sant";
