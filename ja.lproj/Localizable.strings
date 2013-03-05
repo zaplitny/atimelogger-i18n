@@ -285,6 +285,8 @@
 "10 seconds" = "10秒";
 "1 minute" = "1分";
 "5 minutes" = "5分";
+"Comment on start" = "Comment on start";
+"Comment on stop" = "Comment on stop";
 
 // Twitter
 "Tweet activities" = "ログをツイートする";
