@@ -30,6 +30,8 @@
 "Color" = "色";
 "Icon" = "アイコン";
 "Select icon" = "アイコンの選択";
+"Default" = "Default";
+"User" = "User";
 
 "Number of activities" = "記録回数";
 "Restore" = "復元";
@@ -189,6 +191,28 @@
 "Interval duration" = "期間ごと";
 "Day duration" = "日ごと";
 "Congratulations! Goal reached: '%@'" = "おめでとう！目標を果たした：'%@'";
+"Goal alert" = "Goal alert";
+"No sound" = "No sound";
+"Alarm" = "Alarm";
+"Din" = "Din";
+"SMS Received" = "SMS Received";
+
+// In-App
+"Packs" = "Packs";
+"Icon Packs" = "Icon Packs";
+"In-App Shop" = "In-App Shop";
+"purchased" = "purchased";
+"All Packs" = "All Packs";
+"Eat & Cook" = "Eat & Cook";
+"Family" = "Family";
+"Finance & Shopping" = "Finance & Shopping";
+"Home & Self-Care" = "Home & Self-Care";
+"Musical Instruments" = "Musical Instruments";
+"Relax & Party" = "Relax & Party";
+//"Sport" = "Sport";
+//"Study" = "Study";
+"Transport & Tourism" = "Transport & Tourism";
+"No internet connection" = "No internet connection";
 
 // Backups
 "Backups" = "バックアップ";
