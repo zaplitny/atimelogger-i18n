@@ -30,8 +30,8 @@
 "Color" = "色";
 "Icon" = "アイコン";
 "Select icon" = "アイコンの選択";
-"Default" = "Default";
-"User" = "User";
+"Default" = "デフォルト";
+"User" = "ユーザー";
 
 "Number of activities" = "記録回数";
 "Restore" = "復元";
@@ -148,7 +148,7 @@
 "Days" = "日";
 "Hours" = "時間";
 "No activity types" = "ログが存在しません";
-"Archived types" = "Archived types";
+"Archived types" = "アーカイブしたログ種類";
 "Archive" = "アーカイブ";
 "Unarchive" = "アーカイブから復元";
 "Archive activity type?" = "ログ種類をアーカイブ？";
@@ -191,28 +191,28 @@
 "Interval duration" = "期間ごと";
 "Day duration" = "日ごと";
 "Congratulations! Goal reached: '%@'" = "おめでとう！目標を果たした：'%@'";
-"Goal alert" = "Goal alert";
-"No sound" = "No sound";
-"Alarm" = "Alarm";
-"Din" = "Din";
-"SMS Received" = "SMS Received";
+"Goal alert" = "目標警告";
+"No sound" = "音なし";
+"Alarm" = "アラーム";
+"Din" = "ディン";
+"SMS Received" = "メッセージ受信";
 
 // In-App
-"Packs" = "Packs";
-"Icon Packs" = "Icon Packs";
-"In-App Shop" = "In-App Shop";
-"purchased" = "purchased";
-"All Packs" = "All Packs";
-"Eat & Cook" = "Eat & Cook";
-"Family" = "Family";
-"Finance & Shopping" = "Finance & Shopping";
-"Home & Self-Care" = "Home & Self-Care";
-"Musical Instruments" = "Musical Instruments";
-"Relax & Party" = "Relax & Party";
-//"Sport" = "Sport";
-//"Study" = "Study";
-"Transport & Tourism" = "Transport & Tourism";
-"No internet connection" = "No internet connection";
+"Packs" = "パック";
+"Icon Packs" = "アイコンパック";
+"In-App Shop" = "App内ストア";
+"purchased" = "購入済み";
+"All Packs" = "全てのパック";
+"Eat & Cook" = "食事＆料理";
+"Family" = "家族";
+"Finance & Shopping" = "ファイナンス＆ショッピング";
+"Home & Self-Care" = "日常生活＆ライフスタイル";
+"Musical Instruments" = "楽器";
+"Relax & Party" = "リラックス＆パーティー";
+//"Sport" = "スポーツ";
+//"Study" = "勉強";
+"Transport & Tourism" = "交通＆ツーリズム";
+"No internet connection" = "インターネットに接続できない";
 
 // Backups
 "Backups" = "バックアップ";
@@ -285,8 +285,8 @@
 "10 seconds" = "10秒";
 "1 minute" = "1分";
 "5 minutes" = "5分";
-"Comment on start" = "Comment on start";
-"Comment on stop" = "Comment on stop";
+"Comment on start" = "開始時コメント入力";
+"Comment on stop" = "停止時コメント入力";
 
 // Twitter
 "Tweet activities" = "ログをツイートする";
