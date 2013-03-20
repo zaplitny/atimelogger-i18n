@@ -51,7 +51,7 @@
 "Enter comment" = "增加备注";
 "Time Left" = "剩余时间";
 "Overtime" = "超时";
-"My plan" = "活动计划";
+"My plan" = "设置活动计划";
 "Max duration" = "最大持续时间";
 "Finish before" = "在...之前结束";
 "Finish" = "结束";
@@ -182,8 +182,8 @@
 "Goal duration" = "目标持续时间";
 "%@ per day" = "%@ 每天";
 "%@ per interval" = "%@ 每时间段";
-"%@ per activity" = "%@ 每活动";
-"Alert" = "警告";
+"%@ per activity" = "%@ 活动每次";
+"Alert" = "警告提示音";
 "Delete goal?" = "删除目标？";
 "Activity duration" = "活动持续时间";
 "Interval duration" = "时间段持续时间";
@@ -218,10 +218,10 @@
 
 // Settings
 "Week starts on" = "每周第一天";
-"Theme" = "主题";
-"Action on start" = "开始活动";
-"Warnings" = "警告";
-"Formats" = "格式";
+"Theme" = "主题样式";
+"Action on start" = "开始新活动时";
+"Warnings" = "弹出警告";
+"Formats" = "格式设置";
 "Advanced" = "高级设置";
 "Select theme" = "选择主题";
 "Select day" = "选择日期";
@@ -235,13 +235,13 @@
 "Day format" = "日期格式";
 "Duration format" = "持续时间格式";
 "Passcode Lock" = "密码锁定";
-"Pie chart" = "饼图";
-"Top level" = "顶层";
+"Pie chart" = "饼图界面";
+"Top level" = "按照群组察看";
 "On" = "打开";
 "Off" = "关闭";
 "Color picker" = "颜色选择";
 "Predefined" = "预设定的颜色";
-"History list" = "历史清单";
+"History list" = "活动历史清单";
 "By day" = "按照时间排序";
 "By activity type" = "按照类别排序";
 "Display auto-lock" = "自动锁屏";
