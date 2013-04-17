@@ -129,14 +129,14 @@
 "MMMM d" = "MM月 d日";
 "MMMM d, ccc" = "MM月 d日, ccc";
 "MM/dd" = "MM月/d日";
-"MM/dd/yy" = "MM/dd/yy";
+"MM/dd/yy" = "yy年/MM月/d日";
 "dd/MM" = "d日/MM月";
-"dd/MM/yy" = "d日/MM月/yy";
+"dd/MM/yy" = "d日/MM月/yy年";
 "dd MMM" = "d日 MM月";
-"dd MMM, yyyy" = "d日 MM月, yyyy";
+"dd MMM, yyyy" = "d日 MM月, yyyy年";
 "MMM dd" = "MM月 d日";
-"MMM dd, yyyy" = "MM月 d日, yyyy";
-"MMM, yyyy" = "MMM, yyyy";
+"MMM dd, yyyy" = ""yyyy年 MM月 d日";
+"MMM, yyyy" = "MM月, yyyy年";
 "MMMM dd, cccc" = "MM月 d日, cccc";
 
 // History
