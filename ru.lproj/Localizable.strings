@@ -82,9 +82,6 @@
 "Start new activity and stop running" = "Запущенные активности будут остановлены при запуске новой активности";
 "Started %activity%" = "Started %activity%";
 "Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
 
 "Resume" = "Продолжить";
 "Comment" = "Комментарий";
@@ -309,7 +306,6 @@
 "What are you doing now?" = "Чем Вы сейчас занимаетесь?";
 "What are you doing now? Now running: %@" = "Чем Вы сейчас занимаетесь? Текущая активность: %@";
 "Change" = "Сменить";
-"Track activity" = "Записать";
 
 // Bulk Delete
 "Bulk Delete" = "Bulk Delete";
@@ -329,6 +325,7 @@
 "Can't find any active account" = "Не могу найти активный аккаунт";
 "Please, login to Twitter first" = "Пожалуйста, залогиньтесь в Твиттер";
 "Preview" = "Preview";
+"Shake to reset" = "Shake to reset";
 "Restore default template?" = "Restore default template?";
 "Restore default template" = "Restore default template";
 
