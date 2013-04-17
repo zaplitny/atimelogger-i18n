@@ -30,6 +30,8 @@
 "Color" = "Цвет";
 "Icon" = "Иконка";
 "Select icon" = "Выберите иконку";
+"Default" = "Станд.";
+"User" = "Польз.";
 
 "Number of activities" = "Активности";
 "Restore" = "Восстановить";
@@ -54,12 +56,11 @@
 "My plan" = "Мой план";
 "Max duration" = "Макс продолж";
 "Finish before" = "Закончить до";
-"Finish" = "Finish";
+"Finish" = "Закончить";
 "Now" = "Сейчас";
 
 "Date range" = "Период";
 "Select range" = "Выберите период";
-"Create backup" = "Создать бэкап";
 "Send by email" = "Послать на email";
 "Select activity type" = "Выберите тип активности";
 "Select type" = "Выберите тип";
@@ -117,19 +118,23 @@
 "Edit interval" = "";
 "From" = "Начало";
 "To" = "Конец";
-"Duration" = "Продолжительность";
+"Duration" = "Duration";
 
 // Format
 "%dh %dm" = "%dч %dм";
 "%dm" = "%dм";
 "%dh" = "%d ч";
-"< 1m" = "< 1м";
+"< 1m" = "< 1 м";
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MM/dd" = "MM/dd";
+"MM/dd/yy" = "MM/dd/yy";
 "dd/MM" = "dd/MM";
+"dd/MM/yy" = "dd/MM/yy";
 "dd MMM" = "dd MMM";
+"dd MMM, yyyy" = "dd MMM, yyyy";
 "MMM dd" = "MMM dd";
+"MMM dd, yyyy" = "MMM dd, yyyy";
 "MMM, yyyy" = "MMM, yyyy";
 "MMMM dd, cccc" = "MMMM dd, cccc";
 
@@ -150,12 +155,14 @@
 "Days" = "Дни";
 "Hours" = "Часы";
 "No activity types" = "Нет типов активности";
+"Archived types" = "Архив";
 "Archive" = "Архивировать";
 "Unarchive" = "Разархивировать";
 "Archive activity type?" = "Архивировать тип активности?";
 "Unarchive activity type?" = "Разархивировать тип активности?";
 "Select color" = "Выберите цвет";
 "Move to .." = "Переместить ..";
+"Top" = "Top";
 "Graph type" = "Тип графика";
 "Histogram" = "Бар чарт";
 "Line" = "Линия";
@@ -182,14 +189,38 @@
 "Goal type" = "Тип цели";
 "Goal duration" = "Длительность";
 "%@ per day" = "%@ в день";
+"%@ per week" = "%@ за неделю";
+"%@ per month" = "%@ за месяц";
 "%@ per interval" = "%@ за интервал";
 "%@ per activity" = "%@ за активность";
-"Alert" = "Alert";
+"Alert" = "Уведомление";
 "Delete goal?" = "Удалить цель?";
 "Activity duration" = "Activity duration";
 "Interval duration" = "Interval duration";
 "Day duration" = "Day duration";
 "Congratulations! Goal reached: '%@'" = "Поздравляем! Цель достигнута: '%@'";
+"Goal alert" = "Уведомление";
+"No sound" = "Без звука";
+"Alarm" = "Alarm";
+"Din" = "Din";
+"SMS Received" = "SMS Received";
+
+// In-App
+"Packs" = "Packs";
+"Icon Packs" = "Icon Packs";
+"In-App Shop" = "In-App Shop";
+"purchased" = "purchased";
+"All Packs" = "All Packs";
+"Eat & Cook" = "Eat & Cook";
+"Family" = "Family";
+"Finance & Shopping" = "Finance & Shopping";
+"Home & Self-Care" = "Home & Self-Care";
+"Musical Instruments" = "Musical Instruments";
+"Relax & Party" = "Relax & Party";
+//"Sport" = "Sport";
+//"Study" = "Study";
+"Transport & Tourism" = "Transport & Tourism";
+"No internet connection" = "No internet connection";
 
 // Backups
 "Backups" = "Бэкапы";
@@ -205,6 +236,7 @@
 "Help" = "Помощь";
 "Loading..." = "Загрузка...";
 "Contact us" = "Связаться с нами";
+"Feedback" = "Feedback";
 "Review us on iTunes" = "Написать отзыв в iTunes";
 "Follow us on Twitter" = "Читать нас в Twitter";
 "Like us on Facebook" = "Лайкнуть в Facebook";
@@ -236,23 +268,24 @@
 "Duration format" = "Формат длительности";
 "Passcode Lock" = "Пароль";
 "Pie chart" = "Пирог";
-"Top level" = "Top level";
+"Top level" = "Верхний уровень";
 "On" = "Вкл";
 "Off" = "Выкл";
 "Color picker" = "Выбор цвета";
 "Predefined" = "Заданные";
 "History list" = "Список";
-"By day" = "Интервалы";
+"By activity entry" = "Записи";
 "By activity type" = "Типы активностей";
 "Display auto-lock" = "Блокировка экрана";
 "Major timer" = "Главный таймер";
 "Count up" = "Обычный";
 "Count down" = "Обратный отсчет";
 "CSV duration format" = "Формат CSV";
+"Show year in CSV" = "Show year in CSV";
 "Decimal" = "Decimal";
 "Application" = "Application";
-"Default edit field" = "Default edit field";
-"Simple" = "Simple";
+"Default edit field" = "Редактировать с";
+"Simple" = "Простое";
 "Complex" = "Complex";
 "Tap on history or running activity" = "Нажатие в Истории или по активности";
 "Tapping anywhere takes us to 'Edit activity'" = "Нажатие в любом месте ячейке ведет в 'Редактирование активности'";
@@ -261,6 +294,28 @@
 "10 seconds" = "10 секунд";
 "1 minute" = "1 минута";
 "5 minutes" = "5 минут";
+"Comment on start" = "Comment on start";
+"Comment on stop" = "Comment on stop";
+"Remind" = "Напоминание";
+"Interval" = "Интервал";
+"Every hour" = "Каждый час";
+"Every 2 hours" = "Каждые 2 часа";
+"Every %d minutes" = "Каждые %d минут";
+"15 minutes" = "15 минут";
+"20 minutes" = "20 минут";
+"30 minutes" = "30 минут";
+"1 hour" = "1 час";
+"2 hours" = "2 часа";
+"What are you doing now?" = "Чем Вы сейчас занимаетесь?";
+"What are you doing now? Now running: %@" = "Чем Вы сейчас занимаетесь? Текущая активность: %@";
+"Change" = "Сменить";
+"Track activity" = "Записать";
+
+// Bulk Delete
+"Bulk Delete" = "Bulk Delete";
+"Deleting..." = "Удаление...";
+"Removed successfully" = "Удалено успешно";
+"Do you really want to remove %d entries" = "Вы действительно хотите удалить %d записей";
 
 // Twitter
 "Tweet activities" = "Tweet activities";
@@ -273,6 +328,9 @@
 "Message template" = "Шаблон сообщения";
 "Can't find any active account" = "Не могу найти активный аккаунт";
 "Please, login to Twitter first" = "Пожалуйста, залогиньтесь в Твиттер";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
 
 // Warnings
 "Warning" = "Внимание";
@@ -286,7 +344,6 @@
 "Welcome" = "Добро пожаловать";
 "View" = "Посмотреть";
 "No, thanks" = "Нет, спасибо";
-
 
 // Categories
 "Sleep" = "Сон";
@@ -317,6 +374,7 @@
 "Passcode Lock" = "Пароль";
 
 "Enable" = "Включить";
+"Disabled" = "Отключено";
 
 "Turn Passcode Off" = "Отключить пароль";
 "Turn Passcode On" = "Включить пароль";
