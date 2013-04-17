@@ -82,9 +82,6 @@
 "Start new activity and stop running" = "結束正在進行的活動並開始新活動";
 "Started %activity%" = "已開始 %activity%";
 "Just logged %duration% of %activity%" = "已記錄 %activity% 的 %duration%";
-"Preview" = "預覽";
-"Restore default template?" = "確定還原預設範本？";
-"Restore default template" = "還原預設範本";
 
 "Resume" = "繼續";
 "Comment" = "註解";
@@ -309,7 +306,6 @@
 "What are you doing now?" = "What are you doing now?";
 "What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
 "Change" = "Change";
-"Track activity" = "Track activity";
 
 // Bulk Delete
 "Bulk Delete" = "Bulk Delete";
@@ -328,9 +324,10 @@
 "Message template" = "訊息範本";
 "Can't find any active account" = "找不到任何有效的帳戶";
 "Please, login to Twitter first" = "請先登錄 Twitter";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
+"Preview" = "預覽";
+"Shake to reset" = "Shake to reset";
+"Restore default template?" = "確定還原預設範本？";
+"Restore default template" = "還原預設範本";
 
 // Warnings
 "Warning" = "警告";
