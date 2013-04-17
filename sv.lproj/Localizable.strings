@@ -82,9 +82,6 @@
 "Start new activity and stop running" = "Start new activity and stop running";
 "Started %activity%" = "Started %activity%";
 "Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
 
 "Resume" = "Återuppta";
 "Comment" = "Kommentar";
@@ -309,7 +306,6 @@
 "What are you doing now?" = "What are you doing now?";
 "What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
 "Change" = "Change";
-"Track activity" = "Track activity";
 
 // Bulk Delete
 "Bulk Delete" = "Bulk Delete";
@@ -329,6 +325,7 @@
 "Can't find any active account" = "Kan inte hitta något aktivt konto";
 "Please, login to Twitter first" = "Logga in på Twitter först";
 "Preview" = "Preview";
+"Shake to reset" = "Shake to reset";
 "Restore default template?" = "Restore default template?";
 "Restore default template" = "Restore default template";
 
