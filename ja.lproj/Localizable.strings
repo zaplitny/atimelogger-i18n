@@ -82,6 +82,9 @@
 "Start new activity and stop running" = "現在の記録を停止し、新記録を開始";
 "Started %activity%" = "%activity%を開始しました！";
 "Just logged %duration% of %activity%" = "%activity%を記録しました！タイム：%duration%";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
 
 "Resume" = "再開";
 "Comment" = "コメント";
@@ -125,9 +128,13 @@
 "MMMM d" = "MM月 d日";
 "MMMM d, ccc" = "MM月 d日, ccc";
 "MM/dd" = "MM月/d日";
+"MM/dd/yy" = "MM/dd/yy";
 "dd/MM" = "d日/MM月";
+"dd/MM/yy" = "d日/MM月/yy";
 "dd MMM" = "d日 MM月";
+"dd MMM, yyyy" = "d日 MM月, yyyy";
 "MMM dd" = "MM月 d日";
+"MMM dd, yyyy" = "MM月 d日, yyyy";
 "MMM, yyyy" = "MMM, yyyy";
 "MMMM dd, cccc" = "MM月 d日, cccc";
 
@@ -155,6 +162,7 @@
 "Unarchive activity type?" = "ログ種類をアーカイブから復元？";
 "Select color" = "色を選択";
 "Move to .." = "移動する ...";
+"Top" = "Top";
 "Graph type" = "グラフ表示";
 "Histogram" = "縦棒グラフ";
 "Line" = "折り線グラフ";
@@ -273,6 +281,7 @@
 "Count up" = "カウントアップ";
 "Count down" = "カウントダウン";
 "CSV duration format" = "CSVの期間形式";
+"Show year in CSV" = "Show year in CSV";
 "Decimal" = "小数";
 "Application" = "アプリ時間の形式と同じ";
 "Default edit field" = "変更する時の優先";
@@ -287,6 +296,26 @@
 "5 minutes" = "5分";
 "Comment on start" = "開始時コメント入力";
 "Comment on stop" = "停止時コメント入力";
+"Remind" = "Remind";
+"Interval" = "Interval";
+"Every hour" = "Every hour";
+"Every 2 hours" = "Every 2 hours";
+"Every %d minutes" = "Every %d minutes";
+"15 minutes" = "15 minutes";
+"20 minutes" = "20 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"What are you doing now?" = "What are you doing now?";
+"What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
+"Change" = "Change";
+"Track activity" = "Track activity";
+
+// Bulk Delete
+"Bulk Delete" = "Bulk Delete";
+"Deleting..." = "Deleting...";
+"Removed successfully" = "Removed successfully";
+"Do you really want to remove %d entries" = "Do you really want to remove %d entries";
 
 // Twitter
 "Tweet activities" = "ログをツイートする";
@@ -345,6 +374,7 @@
 "Passcode Lock" = "パスコードロック";
 
 "Enable" = "オン";
+"Disabled" = "Disabled";
 
 "Turn Passcode Off" = "パスコードロックをオフにする";
 "Turn Passcode On" = "パスコードロックをオンにする";
