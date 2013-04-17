@@ -82,10 +82,6 @@
 "Start new activity and stop running" = "現在の記録を停止し、新記録を開始";
 "Started %activity%" = "%activity%を開始しました！";
 "Just logged %duration% of %activity%" = "%activity%を記録しました！タイム：%duration%";
-"Preview" = "表示";
-"Shake to reset" = "シェイクでリセット";
-"Restore default template?" = "例のツイートを復元しますか？";
-"Restore default template" = "例のツイートを復元";
 
 "Resume" = "再開";
 "Comment" = "コメント";
@@ -135,7 +131,7 @@
 "dd MMM" = "d日 MM月";
 "dd MMM, yyyy" = "d日 MM月, yyyy年";
 "MMM dd" = "MM月 d日";
-"MMM dd, yyyy" = ""yyyy年 MM月 d日";
+"MMM dd, yyyy" = "yyyy年 MM月 d日";
 "MMM, yyyy" = "MM月, yyyy年";
 "MMMM dd, cccc" = "MM月 d日, cccc";
 
@@ -310,8 +306,6 @@
 "What are you doing now?" = "今は何をやってますか？";
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
-"Track activity" = "Track activity";
-"Start" = "開始";
 
 // Bulk Delete
 "Bulk Delete" = "一括削除";
