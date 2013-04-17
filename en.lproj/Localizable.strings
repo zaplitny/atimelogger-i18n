@@ -30,8 +30,10 @@
 "Color" = "Color";
 "Icon" = "Icon";
 "Select icon" = "Select icon";
+"Default" = "Default";
+"User" = "User";
 
-"Number of activities" = "Number of activities";
+"Number of activities" = "Activities";
 "Restore" = "Restore";
 
 // Activities
@@ -126,9 +128,13 @@
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MM/dd" = "MM/dd";
+"MM/dd/yy" = "MM/dd/yy";
 "dd/MM" = "dd/MM";
+"dd/MM/yy" = "dd/MM/yy";
 "dd MMM" = "dd MMM";
+"dd MMM, yyyy" = "dd MMM, yyyy";
 "MMM dd" = "MMM dd";
+"MMM dd, yyyy" = "MMM dd, yyyy";
 "MMM, yyyy" = "MMM, yyyy";
 "MMMM dd, cccc" = "MMMM dd, cccc";
 
@@ -149,12 +155,14 @@
 "Days" = "Days";
 "Hours" = "Hours";
 "No activity types" = "No activity types";
+"Archived types" = "Archived types";
 "Archive" = "Archive";
 "Unarchive" = "Unarchive";
 "Archive activity type?" = "Archive activity type?";
 "Unarchive activity type?" = "Unarchive activity type?";
 "Select color" = "Select color";
 "Move to .." = "Move to ..";
+"Top" = "Top";
 "Graph type" = "Graph type";
 "Histogram" = "Histogram";
 "Line" = "Line";
@@ -181,6 +189,8 @@
 "Goal type" = "Goal type";
 "Goal duration" = "Goal duration";
 "%@ per day" = "%@ per day";
+"%@ per week" = "%@ per week";
+"%@ per month" = "%@ per month";
 "%@ per interval" = "%@ per interval";
 "%@ per activity" = "%@ per activity";
 "Alert" = "Alert";
@@ -189,6 +199,28 @@
 "Interval duration" = "Interval duration";
 "Day duration" = "Day duration";
 "Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
+"Goal alert" = "Goal alert";
+"No sound" = "No sound";
+"Alarm" = "Alarm";
+"Din" = "Din";
+"SMS Received" = "SMS Received";
+
+// In-App
+"Packs" = "Packs";
+"Icon Packs" = "Icon Packs";
+"In-App Shop" = "In-App Shop";
+"purchased" = "purchased";
+"All Packs" = "All Packs";
+"Eat & Cook" = "Eat & Cook";
+"Family" = "Family";
+"Finance & Shopping" = "Finance & Shopping";
+"Home & Self-Care" = "Home & Self-Care";
+"Musical Instruments" = "Musical Instruments";
+"Relax & Party" = "Relax & Party";
+//"Sport" = "Sport";
+//"Study" = "Study";
+"Transport & Tourism" = "Transport & Tourism";
+"No internet connection" = "No internet connection";
 
 // Backups
 "Backups" = "Backups";
@@ -204,6 +236,7 @@
 "Help" = "Help";
 "Loading..." = "Loading...";
 "Contact us" = "Contact us";
+"Feedback" = "Feedback";
 "Review us on iTunes" = "Review us on iTunes";
 "Follow us on Twitter" = "Follow us on Twitter";
 "Like us on Facebook" = "Like us on Facebook";
@@ -241,13 +274,14 @@
 "Color picker" = "Color picker";
 "Predefined" = "Predefined";
 "History list" = "History list";
-"By day" = "By day";
+"By activity entry" = "By activity entry";
 "By activity type" = "By activity type";
 "Display auto-lock" = "Display auto-lock";
 "Major timer" = "Major timer";
 "Count up" = "Count up";
 "Count down" = "Count down";
 "CSV duration format" = "CSV duration format";
+"Show year in CSV" = "Show year in CSV";
 "Decimal" = "Decimal";
 "Application" = "Application";
 "Default edit field" = "Default edit field";
@@ -260,6 +294,28 @@
 "10 seconds" = "10 seconds";
 "1 minute" = "1 minute";
 "5 minutes" = "5 minutes";
+"Comment on start" = "Comment on start";
+"Comment on stop" = "Comment on stop";
+"Remind" = "Remind";
+"Interval" = "Interval";
+"Every hour" = "Every hour";
+"Every 2 hours" = "Every 2 hours";
+"Every %d minutes" = "Every %d minutes";
+"15 minutes" = "15 minutes";
+"20 minutes" = "20 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"What are you doing now?" = "What are you doing now?";
+"What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
+"Change" = "Change";
+"Track activity" = "Track activity";
+
+// Bulk Delete
+"Bulk Delete" = "Bulk Delete";
+"Deleting..." = "Deleting...";
+"Removed successfully" = "Removed successfully";
+"Do you really want to remove %d entries" = "Do you really want to remove %d entries";
 
 // Twitter
 "Tweet activities" = "Tweet activities";
@@ -272,6 +328,9 @@
 "Message template" = "Message template";
 "Can't find any active account" = "Can't find any active account";
 "Please, login to Twitter first" = "Please, login to Twitter first";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
 
 // Warnings
 "Warning" = "Warning";
@@ -315,6 +374,7 @@
 "Passcode Lock" = "Passcode Lock";
 
 "Enable" = "Enable";
+"Disabled" = "Disabled";
 
 "Turn Passcode Off" = "Turn Passcode Off";
 "Turn Passcode On" = "Turn Passcode On";
