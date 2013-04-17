@@ -128,9 +128,13 @@
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MM/dd" = "MM/dd";
+"MM/dd/yy" = "MM/dd/yy";
 "dd/MM" = "dd/MM";
+"dd/MM/yy" = "dd/MM/yy";
 "dd MMM" = "dd MMM";
+"dd MMM, yyyy" = "dd MMM, yyyy";
 "MMM dd" = "MMM dd";
+"MMM dd, yyyy" = "MMM dd, yyyy";
 "MMM, yyyy" = "MMM, yyyy";
 "MMMM dd, cccc" = "MMMM dd, cccc";
 
@@ -158,6 +162,7 @@
 "Unarchive activity type?" = "Aktivera aktivitetstypen?";
 "Select color" = "Välj färg";
 "Move to .." = "Flytta till ..";
+"Top" = "Top";
 "Graph type" = "Graftyp";
 "Histogram" = "Histogram";
 "Line" = "Linje";
@@ -194,6 +199,28 @@
 "Interval duration" = "Längd per intervall";
 "Day duration" = "Längd per dag";
 "Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
+"Goal alert" = "Goal alert";
+"No sound" = "No sound";
+"Alarm" = "Alarm";
+"Din" = "Din";
+"SMS Received" = "SMS Received";
+
+// In-App
+"Packs" = "Packs";
+"Icon Packs" = "Icon Packs";
+"In-App Shop" = "In-App Shop";
+"purchased" = "purchased";
+"All Packs" = "All Packs";
+"Eat & Cook" = "Eat & Cook";
+"Family" = "Family";
+"Finance & Shopping" = "Finance & Shopping";
+"Home & Self-Care" = "Home & Self-Care";
+"Musical Instruments" = "Musical Instruments";
+"Relax & Party" = "Relax & Party";
+//"Sport" = "Sport";
+//"Study" = "Study";
+"Transport & Tourism" = "Transport & Tourism";
+"No internet connection" = "No internet connection";
 
 // Backups
 "Backups" = "Backuper";
@@ -254,6 +281,7 @@
 "Count up" = "Räkna upp";
 "Count down" = "Räkna ned";
 "CSV duration format" = "CSV tidslängdformat";
+"Show year in CSV" = "Show year in CSV";
 "Decimal" = "Decimal";
 "Application" = "Applikation";
 "Default edit field" = "Default edit field";
@@ -266,6 +294,28 @@
 "10 seconds" = "10 seconds";
 "1 minute" = "1 minute";
 "5 minutes" = "5 minutes";
+"Comment on start" = "Comment on start";
+"Comment on stop" = "Comment on stop";
+"Remind" = "Remind";
+"Interval" = "Interval";
+"Every hour" = "Every hour";
+"Every 2 hours" = "Every 2 hours";
+"Every %d minutes" = "Every %d minutes";
+"15 minutes" = "15 minutes";
+"20 minutes" = "20 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"What are you doing now?" = "What are you doing now?";
+"What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
+"Change" = "Change";
+"Track activity" = "Track activity";
+
+// Bulk Delete
+"Bulk Delete" = "Bulk Delete";
+"Deleting..." = "Deleting...";
+"Removed successfully" = "Removed successfully";
+"Do you really want to remove %d entries" = "Do you really want to remove %d entries";
 
 // Twitter
 "Tweet activities" = "Twittra aktiviter";
@@ -278,6 +328,9 @@
 "Message template" = "Meddelandemall";
 "Can't find any active account" = "Kan inte hitta något aktivt konto";
 "Please, login to Twitter first" = "Logga in på Twitter först";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
 
 // Warnings
 "Warning" = "Varning";
@@ -321,6 +374,7 @@
 "Passcode Lock" = "Lösenkodslås";
 
 "Enable" = "Enable";
+"Disabled" = "Disabled";
 
 "Turn Passcode Off" = "Stäng av lösenkod";
 "Turn Passcode On" = "Slå på lösenkod";
