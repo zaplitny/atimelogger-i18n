@@ -82,9 +82,6 @@
 "Start new activity and stop running" = "结束正在进行的活动并开始新活动";
 "Started %activity%" = "已开始 %activity%";
 "Just logged %duration% of %activity%" = "已记录 %duration% of %activity%";
-"Preview" = "预览";
-"Restore default template?" = "确定恢复默认模板？";
-"Restore default template" = "恢复默认模板";
 
 "Resume" = "继续";
 "Comment" = "备注";
@@ -309,7 +306,6 @@
 "What are you doing now?" = "What are you doing now?";
 "What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
 "Change" = "Change";
-"Track activity" = "Track activity";
 
 // Bulk Delete
 "Bulk Delete" = "Bulk Delete";
@@ -328,9 +324,10 @@
 "Message template" = "信息模板";
 "Can't find any active account" = "无法发现有效帐户";
 "Please, login to Twitter first" = "请先登录Twitter";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
+"Preview" = "预览";
+"Shake to reset" = "Shake to reset";
+"Restore default template?" = "确定恢复默认模板？";
+"Restore default template" = "恢复默认模板";
 
 // Warnings
 "Warning" = "警告";
