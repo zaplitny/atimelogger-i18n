@@ -82,9 +82,6 @@
 "Start new activity and stop running" = "새 활동 시작시, 기존활동 종료";
 "Started %activity%" = "Started %activity%";
 "Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
-"Preview" = "Preview";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
 
 "Resume" = "다시 시작";
 "Comment" = "설명";
@@ -309,7 +306,6 @@
 "What are you doing now?" = "What are you doing now?";
 "What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
 "Change" = "Change";
-"Track activity" = "Track activity";
 
 // Bulk Delete
 "Bulk Delete" = "Bulk Delete";
@@ -329,6 +325,7 @@
 "Can't find any active account" = "계정을 찾을 수 없습니다";
 "Please, login to Twitter first" = "먼저 Twitter에 로그인 해주세요";
 "Preview" = "Preview";
+"Shake to reset" = "Shake to reset";
 "Restore default template?" = "Restore default template?";
 "Restore default template" = "Restore default template";
 
