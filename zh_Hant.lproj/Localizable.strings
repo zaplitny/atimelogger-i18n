@@ -10,7 +10,7 @@
 "About" = "關於";
 
 "Save" = "儲存";
-"Update" = "更新";
+"Update"  = "更新";
 "Edit" = "編輯";
 "Delete" = "刪除";
 "Cancel" = "取消";
@@ -30,6 +30,8 @@
 "Color" = "顏色";
 "Icon" = "圖示";
 "Select icon" = "選擇圖示";
+"Default" = "Default";
+"User" = "User";
 
 "Number of activities" = "活動數量";
 "Restore" = "復原";
@@ -51,7 +53,7 @@
 "Enter comment" = "輸入註解";
 "Time Left" = "剩餘時間";
 "Overtime" = "超過時間";
-"My plan" = "活動計劃";
+"My plan" = "我的計劃";
 "Max duration" = "最大持續時間";
 "Finish before" = "在...之前結束";
 "Finish" = "結束";
@@ -114,8 +116,8 @@
 
 // Intervals
 "Edit interval" = "編輯時間間隔";
-"From" = "開始時間";
-"To" = "結束時間";
+"From" = "開始";
+"To" = "結束";
 "Duration" = "持續時間";
 
 // Format
@@ -126,9 +128,13 @@
 "MMMM d" = "MMMM d";
 "MMMM d, ccc" = "MMMM d, ccc";
 "MM/dd" = "MM/dd";
+"MM/dd/yy" = "MM/dd/yy";
 "dd/MM" = "dd/MM";
+"dd/MM/yy" = "dd/MM/yy";
 "dd MMM" = "dd MMM";
+"dd MMM, yyyy" = "dd MMM, yyyy";
 "MMM dd" = "MMM dd";
+"MMM dd, yyyy" = "MMM dd, yyyy";
 "MMM, yyyy" = "MMM, yyyy";
 "MMMM dd, cccc" = "MMMM dd, cccc";
 
@@ -149,12 +155,14 @@
 "Days" = "天數";
 "Hours" = "小時數";
 "No activity types" = "無活動類型";
+"Archived types" = "Archived types";
 "Archive" = "封存";
 "Unarchive" = "取消封存";
 "Archive activity type?" = "確定封存活動類型？";
 "Unarchive activity type?" = "確定取消封存活動類型？";
-"Select color" = "選擇顏色";
 "Move to .." = "移動至...";
+"Top" = "Top";
+"Select color" = "選擇顏色";
 "Graph type" = "圖表類型";
 "Histogram" = "長條圖";
 "Line" = "折線圖";
@@ -181,6 +189,8 @@
 "Goal type" = "目標類型";
 "Goal duration" = "目標持續時間";
 "%@ per day" = "%@ 每天";
+"%@ per week" = "%@ per week";
+"%@ per month" = "%@ per month";
 "%@ per interval" = "%@ 每個時間間隔";
 "%@ per activity" = "%@ 每個活動";
 "Alert" = "警告";
@@ -189,6 +199,28 @@
 "Interval duration" = "間隔持續時間";
 "Day duration" = "日持續時間";
 "Congratulations! Goal reached: '%@'" = "恭喜您！目標達成：「%@」";
+"Goal alert" = "Goal alert";
+"No sound" = "No sound";
+"Alarm" = "Alarm";
+"Din" = "Din";
+"SMS Received" = "SMS Received";
+
+// In-App
+"Packs" = "Packs";
+"Icon Packs" = "Icon Packs";
+"In-App Shop" = "In-App Shop";
+"purchased" = "purchased";
+"All Packs" = "All Packs";
+"Eat & Cook" = "Eat & Cook";
+"Family" = "Family";
+"Finance & Shopping" = "Finance & Shopping";
+"Home & Self-Care" = "Home & Self-Care";
+"Musical Instruments" = "Musical Instruments";
+"Relax & Party" = "Relax & Party";
+//"Sport" = "Sport";
+//"Study" = "Study";
+"Transport & Tourism" = "Transport & Tourism";
+"No internet connection" = "No internet connection";
 
 // Backups
 "Backups" = "備份";
@@ -204,6 +236,7 @@
 "Help" = "求助";
 "Loading..." = "載入中...";
 "Contact us" = "連絡我們";
+"Feedback" = "Feedback";
 "Review us on iTunes" = "在 iTunes 中評論";
 "Follow us on Twitter" = "追蹤我們的 Twitter";
 "Like us on Facebook" = "在 Facebook 上按個讚";
@@ -241,13 +274,14 @@
 "Color picker" = "顏色選擇";
 "Predefined" = "預先定義的顏色";
 "History list" = "歷史清單";
-"By day" = "依時間排序";
+"By activity entry" = "依時間排序";
 "By activity type" = "依活動類型排序";
 "Display auto-lock" = "畫面自動鎖定";
 "Major timer" = "主計時器";
 "Count up" = "正數計時";
 "Count down" = "倒數計時";
 "CSV duration format" = "CSV 持續時間格式";
+"Show year in CSV" = "Show year in CSV";
 "Decimal" = "小數";
 "Application" = "應用";
 "Default edit field" = "預設編輯欄位";
@@ -260,6 +294,28 @@
 "10 seconds" = "10 秒";
 "1 minute" = "1 分鐘";
 "5 minutes" = "5 分鐘";
+"Comment on start" = "Comment on start";
+"Comment on stop" = "Comment on stop";
+"Remind" = "Remind";
+"Interval" = "Interval";
+"Every hour" = "Every hour";
+"Every 2 hours" = "Every 2 hours";
+"Every %d minutes" = "Every %d minutes";
+"15 minutes" = "15 minutes";
+"20 minutes" = "20 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"What are you doing now?" = "What are you doing now?";
+"What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
+"Change" = "Change";
+"Track activity" = "Track activity";
+
+// Bulk Delete
+"Bulk Delete" = "Bulk Delete";
+"Deleting..." = "Deleting...";
+"Removed successfully" = "Removed successfully";
+"Do you really want to remove %d entries" = "Do you really want to remove %d entries";
 
 // Twitter
 "Tweet activities" = "Tweet 活動";
@@ -272,6 +328,9 @@
 "Message template" = "訊息範本";
 "Can't find any active account" = "找不到任何有效的帳戶";
 "Please, login to Twitter first" = "請先登錄 Twitter";
+"Preview" = "Preview";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
 
 // Warnings
 "Warning" = "警告";
@@ -315,6 +374,7 @@
 "Passcode Lock" = "密碼鎖定";
 
 "Enable" = "啟用";
+"Disabled" = "Disabled";
 
 "Turn Passcode Off" = "關閉密碼鎖定";
 "Turn Passcode On" = "開啟密碼鎖定";
