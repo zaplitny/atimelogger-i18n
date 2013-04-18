@@ -30,8 +30,8 @@
 "Color" = "颜色";
 "Icon" = "图标";
 "Select icon" = "选择图标";
-"Default" = "Default";
-"User" = "User";
+"Default" = "默认";
+"User" = "用户添加";
 
 "Number of activities" = "活动数量";
 "Restore" = "还原";
@@ -53,7 +53,7 @@
 "Enter comment" = "增加备注";
 "Time Left" = "剩余时间";
 "Overtime" = "超时";
-"My plan" = "活动计划";
+"My plan" = "设置活动计划";
 "Max duration" = "最大持续时间";
 "Finish before" = "在...之前结束";
 "Finish" = "结束";
@@ -189,35 +189,35 @@
 "%@ per week" = "%@ per week";
 "%@ per month" = "%@ per month";
 "%@ per interval" = "%@ 每时间段";
-"%@ per activity" = "%@ 每活动";
-"Alert" = "警告";
+"%@ per activity" = "%@ 活动每次";
+"Alert" = "提醒";
 "Delete goal?" = "删除目标？";
 "Activity duration" = "活动持续时间";
 "Interval duration" = "时间段持续时间";
 "Day duration" = "Day持续时间";
 "Congratulations! Goal reached: '%@'" = "恭喜您！ 目标达成: '%@'";
-"Goal alert" = "Goal alert";
-"No sound" = "No sound";
-"Alarm" = "Alarm";
-"Din" = "Din";
-"SMS Received" = "SMS Received";
+"Goal alert" = "目标提醒";
+"No sound" = "无声";
+"Alarm" = "闹铃声";
+"Din" = "叮";
+"SMS Received" = "SMS接收音";
 
 // In-App
-"Packs" = "Packs";
-"Icon Packs" = "Icon Packs";
-"In-App Shop" = "In-App Shop";
-"purchased" = "purchased";
-"All Packs" = "All Packs";
-"Eat & Cook" = "Eat & Cook";
-"Family" = "Family";
-"Finance & Shopping" = "Finance & Shopping";
-"Home & Self-Care" = "Home & Self-Care";
-"Musical Instruments" = "Musical Instruments";
-"Relax & Party" = "Relax & Party";
+"Packs" = "拓展包";
+"Icon Packs" = "图标拓展包";
+"In-App Shop" = "应用内商店";
+"purchased" = "已购";
+"All Packs" = "所有拓展包";
+"Eat & Cook" = "餐饮类";
+"Family" = "家庭类";
+"Finance & Shopping" = "财务类";
+"Home & Self-Care" = "家务及自理类";
+"Musical Instruments" = "乐器类";
+"Relax & Party" = "休闲放松及聚会类";
 //"Sport" = "Sport";
 //"Study" = "Study";
-"Transport & Tourism" = "Transport & Tourism";
-"No internet connection" = "No internet connection";
+"Transport & Tourism" = "交通及旅游类";
+"No internet connection" = "无网络连接";
 
 // Backups
 "Backups" = "备份";
@@ -233,7 +233,7 @@
 "Help" = "帮助";
 "Loading..." = "载入中...";
 "Contact us" = "联系我们";
-"Feedback" = "Feedback";
+"Feedback" = "反馈";
 "Review us on iTunes" = "在iTunes中评论";
 "Follow us on Twitter" = "在Twitter上Follow";
 "Like us on Facebook" = "在Facebook上Like";
@@ -247,10 +247,10 @@
 
 // Settings
 "Week starts on" = "每周第一天";
-"Theme" = "主题";
-"Action on start" = "开始活动";
-"Warnings" = "警告";
-"Formats" = "格式";
+"Theme" = "主题样式";
+"Action on start" = "开始新活动时";
+"Warnings" = "弹出警告";
+"Formats" = "格式设置";
 "Advanced" = "高级设置";
 "Select theme" = "选择主题";
 "Select day" = "选择日期";
@@ -264,21 +264,21 @@
 "Day format" = "日期格式";
 "Duration format" = "持续时间格式";
 "Passcode Lock" = "密码锁定";
-"Pie chart" = "饼图";
-"Top level" = "顶层";
+"Pie chart" = "饼图界面";
+"Top level" = "按照群组察看";
 "On" = "打开";
 "Off" = "关闭";
 "Color picker" = "颜色选择";
 "Predefined" = "预设定的颜色";
-"History list" = "历史清单";
+"History list" = "活动历史清单";
 "By activity entry" = "按照时间排序";
 "By activity type" = "按照类别排序";
 "Display auto-lock" = "自动锁屏";
 "Major timer" = "主计时器";
 "Count up" = "正计数";
 "Count down" = "倒计数";
-"CSV duration format" = "CSV持续时间格式";
-"Show year in CSV" = "Show year in CSV";
+"CSV duration format" = "CSV文件持续时间格式";
+"Show year in CSV" = "在CSV文件中显示年份";
 "Decimal" = "小数";
 "Application" = "应用";
 "Default edit field" = "默认编辑字段";
@@ -291,27 +291,27 @@
 "10 seconds" = "10 秒";
 "1 minute" = "1 分钟";
 "5 minutes" = "5 分钟";
-"Comment on start" = "Comment on start";
-"Comment on stop" = "Comment on stop";
-"Remind" = "Remind";
-"Interval" = "Interval";
-"Every hour" = "Every hour";
-"Every 2 hours" = "Every 2 hours";
-"Every %d minutes" = "Every %d minutes";
-"15 minutes" = "15 minutes";
-"20 minutes" = "20 minutes";
-"30 minutes" = "30 minutes";
-"1 hour" = "1 hour";
-"2 hours" = "2 hours";
-"What are you doing now?" = "What are you doing now?";
-"What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
-"Change" = "Change";
+"Comment on start" = "开始活动时备注";
+"Comment on stop" = "结束活动时备注";
+"Remind" = "提醒";
+"Interval" = "间隔";
+"Every hour" = "每 1小时";
+"Every 2 hours" = "每 2小时";
+"Every %d minutes" = "每 %d 分钟";
+"15 minutes" = "15 分钟";
+"20 minutes" = "20 分钟";
+"30 minutes" = "30 分钟";
+"1 hour" = "1小时";
+"2 hours" = "2小时";
+"What are you doing now?" = "您现在正在做什么？";
+"What are you doing now? Now running: %@" = "您现在正在做什么？ Now running: %@";
+"Change" = "更改";
 
 // Bulk Delete
-"Bulk Delete" = "Bulk Delete";
-"Deleting..." = "Deleting...";
-"Removed successfully" = "Removed successfully";
-"Do you really want to remove %d entries" = "Do you really want to remove %d entries";
+"Bulk Delete" = "批量删除";
+"Deleting..." = "正在删除...";
+"Removed successfully" = "移除成功";
+"Do you really want to remove %d entries" = "请问您确定移除 %d 条目";
 
 // Twitter
 "Tweet activities" = "Tweet活动";
@@ -325,7 +325,7 @@
 "Can't find any active account" = "无法发现有效帐户";
 "Please, login to Twitter first" = "请先登录Twitter";
 "Preview" = "预览";
-"Shake to reset" = "Shake to reset";
+"Shake to reset" = "摇晃重置";
 "Restore default template?" = "确定恢复默认模板？";
 "Restore default template" = "恢复默认模板";
 
@@ -371,7 +371,7 @@
 "Passcode Lock" = "密码锁定";
 
 "Enable" = "开启";
-"Disabled" = "Disabled";
+"Disabled" = "关闭";
 
 "Turn Passcode Off" = "关闭密码锁定";
 "Turn Passcode On" = "开启密码锁定";
