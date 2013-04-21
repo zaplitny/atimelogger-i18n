@@ -5,13 +5,13 @@ Version 1.1
 アップデートの詳細はアプリのブログをご覧ください（英語） www.aloggers.com
 
 新しい機能：
-★翻訳：韓国語、中国語（繁体字、簡体字）
-★「一日」のカレンダー表示
-★パスコードロック
-★好きな色を選択可能に
-★「期間の編集」で「現在」ボタンを追加
-★開始日の時間を「スマート選択」→自動的に前の記録の終了日の時間を選択するようになりました
-★画面の自動ロックを「オフ」にすることが可能に
+★　翻訳：韓国語、中国語（繁体字、簡体字）
+★　「一日」のカレンダー表示
+★　パスコードロック
+★　好きな色を選択可能に
+★　「期間の編集」で「現在」ボタンを追加
+★　開始日の時間を「スマート選択」→自動的に前の記録の終了日の時間を選択するようになりました
+★　画面の自動ロックを「オフ」にすることが可能に
 
 改善した機能：
 ✓ 円グラフの凡例に時間の詳細を追加
@@ -19,7 +19,7 @@ Version 1.1
 ✓ 「記録画面」でグループを表示せずに、カテゴリを表示することが可能に
 ✓ 位置情報サービスの改善
 
-バクの修正：
+バク修正：
 ✝ 旧aTimeLoggerのバックアップを復元する時に、実行中のログがある場合のバグを修正
 
 #####################
@@ -47,7 +47,7 @@ FacebookページやTwitterも忘れないでね！
 ✓ ログ種類を複数選択してる時に「全てを選択／選択を解除」を追加
 ✓ ログ種類でグループへの「移動する」ボタンを追加
 
-バクの修正：
+バク修正：
 ✝ 記録時間バグを修正
 ✝ カレンダーでam/pmのバグを修正
 ✝ 英語以外の言語でのhtmlレポートのバグを修正
@@ -73,18 +73,19 @@ Version 1.3
 
 Version 1.3.1
 
-New features: 
-- application is now Universal - it looks much better now on the iPad. 
-- 'Remind Me' feature will ask what are you doing every N minutes. If you often forget to switch activities, it's a valuable feature for you. Access it in 'Settings' -> 'Advanced'. 
-- 'Bulk Delete' feature. Use this feature if you want to delete a large number of historical activity records. 
+新しい機能：
+★　TimeLoggers 2のiPad版を追加しました！これでもっとキレイになったはずです！
+★　リマインダーを設定することができるようになりました！
+　↳「環境設定→詳細」この機能は毎～分間ごと「今なにをやってますか？」と聞いてくれます。
+★　一括削除機能を追加しました。一気に複数の記録ログを削除できるためです。
 
-Improvements: 
-- CSV report includes year in dates if needed (see 'Settings' -> 'Reports') 
-- added CSV duration format with better precision 
-- improved naming of backups 
-- backup can be deleted with a swipe in the backup list 
-- save activity types selection now available in reports 
-- icons and fonts have better quality on non-retina displays 
+改善した機能：
+✓ CSVレポートでは日付に'年'も表示可能になりました。（設定→レポート）
+✓ CSVの期間形式の正確さ改善
+✓ バックアップの名前付けの改善
+✓ スワイプでバックアップを削除できるようになりました。
+✓ save activity types selection now available in reports 
+✓ レティナディスプレイがない機械でのアイコンの質の改善
 
-Bug fixes: 
-- fixed wrong countdown when multiple activities were shown
+バク修正：
+✝ 複数の記録が表示してる時に、間違ったカウントダウンの表示を修正しました。
