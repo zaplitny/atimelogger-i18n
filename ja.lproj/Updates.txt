@@ -73,8 +73,8 @@ Version 1.3
 
 Version 1.3.1
 
-IMPORTANT NOTE 
-Simultaneous activities are available but disabled by default. To enable them just go to Settings -> Advanced and set 'Action on start' to 'None'. 
+！！注意！！
+同時に複数の記録タイマーが可能ですが、初期設定で無効になってます。有効にするには「環境設定」→「記録画面」→「開始時の動作」のところで「なし」を選んでください。
 
 新しい機能：
 -　TimeLoggers 2のiPad版を追加しました！これでもっとキレイになったはずです！
