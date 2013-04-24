@@ -53,7 +53,7 @@
 "Enter comment" = "增加备注";
 "Time Left" = "剩余时间";
 "Overtime" = "超时";
-"My plan" = "设置活动计划";
+"My plan" = "设置计划";
 "Max duration" = "最大持续时间";
 "Finish before" = "在...之前结束";
 "Finish" = "结束";
@@ -293,7 +293,7 @@
 "5 minutes" = "5 分钟";
 "Comment on start" = "开始活动时备注";
 "Comment on stop" = "结束活动时备注";
-"Remind" = "提醒";
+"Remind" = "提醒我（正在做什么）";
 "Interval" = "间隔";
 "Every hour" = "每 1小时";
 "Every 2 hours" = "每 2小时";
@@ -301,10 +301,10 @@
 "15 minutes" = "15 分钟";
 "20 minutes" = "20 分钟";
 "30 minutes" = "30 分钟";
-"1 hour" = "1小时";
-"2 hours" = "2小时";
+"1 hour" = "1 小时";
+"2 hours" = "2 小时";
 "What are you doing now?" = "您现在正在做什么？";
-"What are you doing now? Now running: %@" = "您现在正在做什么？ Now running: %@";
+"What are you doing now? Now running: %@" = "您现在正在做什么？ 正在进行活动: %@";
 "Change" = "更改";
 
 // Bulk Delete
