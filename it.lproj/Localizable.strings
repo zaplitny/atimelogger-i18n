@@ -3,38 +3,38 @@
 "Activity types" = "Activity types";
 "Types" = "Types";
 "tab.category" = "Types";
-"More" = "More";
-"Backup/Restore" = "Backup/Restore";
-"Reports" = "Reports";
-"Settings" = "Settings";
-"About" = "About";
+"More" = "Altro";
+"Backup/Restore" = "Backup/Ripristino";
+"Reports" = "Resoconti";
+"Settings" = "Impostazioni";
+"About" = "Informazioni";
 
-"Save" = "Save";
+"Save" = "Salva";
 "Update"  = "Update";
-"Edit" = "Edit";
-"Delete" = "Delete";
-"Cancel" = "Cancel";
+"Edit" = "Modifica";
+"Delete" = "Cancella";
+"Cancel" = "Annulla";
 "Back" = "Back";
 "Close" = "Close";
 
-"Day" = "Day";
-"Week" = "Week";
-"Month" = "Month";
+"Day" = "Giorno";
+"Week" = "Settimana";
+"Month" = "Mese";
 
 "Group" = "Group";
 "Groups" = "Groups";
 "Activity type" = "Activity type";
 
-"Name" = "Name";
+"Name" = "Nome";
 "Image" = "Image";
-"Color" = "Color";
+"Color" = "Colore";
 "Icon" = "Icon";
 "Select icon" = "Select icon";
 "Default" = "Default";
 "User" = "User";
 
 "Number of activities" = "Activities";
-"Restore" = "Restore";
+"Restore" = "Ripristino";
 
 // Activities
 "Are you sure you want to pause the activity?" = "Are you sure you want to pause the activity?";
@@ -74,7 +74,7 @@
 "Untracked time" = "Untracked time";
 "Details" = "Details";
 "None" = "None";
-"Stop" = "Stop";
+"Stop" = "Ferma";
 "Pause" = "Pause";
 "Start" = "Start";
 "Start new activity simultaneously" = "Start new activity simultaneously";
