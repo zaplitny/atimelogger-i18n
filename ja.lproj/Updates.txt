@@ -92,3 +92,11 @@ Version 1.3.1
 
 バク修正：
 - 複数の記録が表示してる時に、間違ったカウントダウンの表示を修正しました。
+
+######################
+
+Version 1.3.2
+
+Fixed: 
+- 'Remind Me' feature didn't work on iPod Touch; 
+- crash after select 'Remind Me' hours
