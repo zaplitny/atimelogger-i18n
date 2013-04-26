@@ -1,37 +1,37 @@
-Version 1.3.1
+v1.3.1
 
-IMPORTANT NOTE 
-Simultaneous activities are available but disabled by default. To enable them just go to Settings -> Activities and set 'Action on start' to 'None'. 
+重要提示：
+同時進行多項動作的功能仍然可以使用但是預設關閉。如果想要開啟只需點擊「設定」 -> 「進階設定」，設定「開始新動作時」為「無」即可。
+新特性：
+- 軟體已升級為通用軟體。iPad 上面的展示比以往更好。
+- 「提醒我」功能會每若干分鐘(具體可設定)彈出提示問您在做什麼。如果您經常忘記切換動作的話，這是個非常好用的功能。該功能可在「設定」 -> 「進階設定」中開啟。
+- 「批次刪除」功能。該功能在刪除大量的歷史記錄時更加方便。
 
-New features: 
-- application is now Universal - it looks much better now on the iPad 
-- 'Remind Me' feature will ask what are you doing every N minutes. If you often forget to switch activities, it's a valuable feature for you. Access it in 'Settings' -> 'Advanced' 
-- 'Bulk Delete' feature. Use this feature if you want to delete a large number of historical activity records 
+提升和改進：
+- 如有需要的話 CSV 報告中的日期可包含年份 (參見「設定」->「報告」) 
+- CSV 檔案中的持續時間格式更加精確
+- 改進備份檔案的命名 
+- 備份清單中的備份檔案可以透過簡單的划動手勢來進行刪除
+- 大幅改進圖示和字型在非視網膜螢幕下的顯示效果
 
-Improvements: 
-- CSV report includes year in dates if needed (see 'Settings' -> 'Reports') 
-- added CSV duration format with better precision 
-- improved naming of backups 
-- backup can be deleted with a swipe in the backup list 
-- icons and fonts have better quality on non-retina displays 
+漏洞的修補：
+- 修正同時進行多項動作時錯誤的倒數計時顯示
+---------------------------------------------
+v1.3
 
-Bug fixes: 
-- fixed wrong countdown when multiple activities were shown
+新特性：
+★ 新增圖示包。您可以在軟體中購買多個系列的豐富圖示。
 
-Version 1.3
+提升和改進：
+✓ 新增選項：當開始或者中止動作時自動要求加入註解；
+✓ 不同的目的可以有不同的提示音效；
+✓ 在目的設定中可以進行任務的多選(在過去的版本中止能夠單選)。
 
-New Features: 
-★ icon packs. You can purchase wide range of icons inside the app
+漏洞的修補：
+✝ HTML 報告中包含了全部資料。
+---------------------------------------------
+v1.2
 
-Improvements: 
-✓ comment screen can be shown every time you start or stop activity;
-✓ different sounds in goals;
-✓ multiple activity types in goals
-
-Bugs fixed: 
-✝ total statistics in html report
-
-版本 1.2
 感謝大家積極的建議和意見反應！
 
 這個新版本花了很多的時間來準備，最後這次的更新包含許多新功能和功能的提昇。下面是「新功能」 的一覽表。您可以透過拜訪我們在 www.aloggers.com 的應用程式 Blog，得到更多詳細資訊並學習如何使用最新的功能。
