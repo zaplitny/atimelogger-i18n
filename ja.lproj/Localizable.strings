@@ -246,53 +246,65 @@
 "Ideas generator" = "発案協力";
 
 // Settings
-"Week starts on" = "開始曜日";
 "Theme" = "テーマ";
-"Action on start" = "開始時の動作";
-"Warnings" = "警告";
-"Formats" = "形式";
-"Advanced" = "詳細";
 "Select theme" = "テーマの選択";
-"Select day" = "日付の選択";
-"Select action" = "開始時の動作";
-"Time picker interval" = "時間間隔の設定";
-"%d minutes" = "%d 分";
-"%d min" = "%d 分";
+"Warnings" = "警告";
 "Activity status change" = "記録変更の際";
 "Delete in History" = "記録削除の際";
-"Select interval" = "時間間隔の設定";
+"Formats" = "形式";
 "Day format" = "日付の形式";
 "Duration format" = "時間の形式";
 "Passcode Lock" = "パスコードロック";
-"Pie chart" = "円グラフ";
-"Top level" = "全体的";
 "On" = "オン";
 "Off" = "オフ";
-"Color picker" = "色の選択";
-"Predefined" = "既定色から";
-"History list" = "履歴リストの表示";
-"By activity entry" = "記録別";
-"By activity type" = "ログ種類別";
+
+// Settings - Activities
 "Display auto-lock" = "ディスプレイ自動ロック";
 "Major timer" = "タイマーの優先";
 "Count up" = "カウントアップ";
 "Count down" = "カウントダウン";
-"CSV duration format" = "CSVの期間形式";
-"Show year in CSV" = "CSVで年間を表示";
-"Decimal" = "小数";
-"Application" = "アプリ時間の形式と同じ";
+"Action on start" = "開始時の動作";
+"Select action" = "開始時の動作";
+"Comment on start" = "開始時コメント入力";
+"Comment on stop" = "停止時コメント入力";
 "Default edit field" = "変更する時の優先";
-"Simple" = "簡単";
-"Complex" = "複雑";
-"Tap on history or running activity" = "履歴か記録のタイマーをタップする際";
-"Tapping anywhere takes us to 'Edit activity'" = "でこタップしても、「記録編集」に移動します";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "アイコンをタップする際「記録の編集」に移動し、アイコンの隣のとこをタップする際「期間の編集」に移動します";
 "Min. activity duration" = "最短記録時間";
 "10 seconds" = "10秒";
 "1 minute" = "1分";
 "5 minutes" = "5分";
-"Comment on start" = "開始時コメント入力";
-"Comment on stop" = "停止時コメント入力";
+
+// Settings - History List
+"History list" = "履歴リストの表示";
+"By activity entry" = "記録別";
+"By activity type" = "ログ種類別";
+"Pie chart" = "円グラフ";
+"Top level" = "全体的";
+
+// Settings - Activity Types
+"Color picker" = "色の選択";
+"Predefined" = "既定色から";
+
+// Settings - Report
+"CSV duration format" = "CSVの期間形式";
+"Show year in CSV" = "CSVで年間を表示";
+"Decimal" = "小数";
+"Application" = "アプリ時間の形式と同じ";
+
+
+// Settings - Advanced
+"Advanced" = "詳細";
+"Tap on history or running activity" = "履歴か記録のタイマーをタップする際";
+"Simple" = "簡単";
+"Tapping anywhere takes us to 'Edit activity'" = "でこタップしても、「記録編集」に移動します";
+"Complex" = "複雑";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "アイコンをタップする際「記録の編集」に移動し、アイコンの隣のとこをタップする際「期間の編集」に移動します";
+"Time picker interval" = "時間間隔の設定";
+"Select interval" = "時間間隔の設定";
+"%d minutes" = "%d 分";
+"%d min" = "%d 分";
+"Week starts on" = "開始曜日";
+"Select day" = "日付の選択";
+
 "Remind" = "リマインダー";
 "Interval" = "期間";
 "Every hour" = "1時間ごと";
@@ -306,6 +318,7 @@
 "What are you doing now?" = "今は何をやってますか？";
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
+
 
 // Bulk Delete
 "Bulk Delete" = "一括削除";
