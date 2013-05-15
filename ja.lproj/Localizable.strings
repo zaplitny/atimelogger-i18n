@@ -43,8 +43,8 @@
 "Are you sure you want to pause/stop running activities and resume this one?" = "現在の記録を中断／停止してこの記録を再開しますか？";
 "Are you sure you want to start the activity?" = "記録を開始しますか？";
 "Are you sure you want to pause/stop running activities and start this one?" = "現在の記録を中断／停止してこの記録を開始しますか？";
-"Create activity" = "ログの作成";
-"Edit activity" = "編集";
+"Create activity" = "記録の作成";
+"Edit activity" = "記録の編集";
 "Intervals" = "期間";
 "Running" = "記録中";
 "Paused" = "中断";
@@ -142,9 +142,9 @@
 
 // Activity Types
 "Create group" = "グループの作成";
-"Create type" = "ログの作成";
+"Create type" = "ログ種類の作成";
 "Edit group" = "グループの編集";
-"Edit type" = "ログの編集";
+"Edit type" = "ログ種類の編集";
 "Bar chart" = "棒グラフ";
 "Items" = "項目";
 "Select/deselect all" = "全てを選択／選択を解除";
