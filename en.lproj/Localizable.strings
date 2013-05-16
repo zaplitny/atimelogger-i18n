@@ -246,53 +246,64 @@
 "Ideas generator" = "Ideas generator";
 
 // Settings
-"Week starts on" = "Week starts on";
 "Theme" = "Theme";
-"Action on start" = "Action on start";
-"Warnings" = "Warnings";
-"Formats" = "Formats";
-"Advanced" = "Advanced";
 "Select theme" = "Select theme";
-"Select day" = "Select day";
-"Select action" = "Select action";
-"Time picker interval" = "Time picker interval";
-"%d minutes" = "%d minutes";
-"%d min" = "%d min";
+"Warnings" = "Warnings";
 "Activity status change" = "Activity status change";
 "Delete in History" = "Delete in History";
-"Select interval" = "Select interval";
+"Formats" = "Formats";
 "Day format" = "Day format";
 "Duration format" = "Duration format";
 "Passcode Lock" = "Passcode Lock";
-"Pie chart" = "Pie chart";
-"Top level" = "Top level";
 "On" = "On";
 "Off" = "Off";
-"Color picker" = "Color picker";
-"Predefined" = "Predefined";
-"History list" = "History list";
-"By activity entry" = "By activity entry";
-"By activity type" = "By activity type";
+
+// Settings - Activities
 "Display auto-lock" = "Display auto-lock";
 "Major timer" = "Major timer";
 "Count up" = "Count up";
 "Count down" = "Count down";
-"CSV duration format" = "CSV duration format";
-"Show year in CSV" = "Show year in CSV";
-"Decimal" = "Decimal";
-"Application" = "Application";
+"Action on start" = "Action on start";
+"Select action" = "Select action";
+"Comment on start" = "Comment on start";
+"Comment on stop" = "Comment on stop";
 "Default edit field" = "Default edit field";
-"Simple" = "Simple";
-"Complex" = "Complex";
-"Tap on history or running activity" = "Tap on history or running activity";
-"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
 "Min. activity duration" = "Min. activity duration";
 "10 seconds" = "10 seconds";
 "1 minute" = "1 minute";
 "5 minutes" = "5 minutes";
-"Comment on start" = "Comment on start";
-"Comment on stop" = "Comment on stop";
+
+// Settings - History List
+"History list" = "History list";
+"By activity entry" = "By activity entry";
+"By activity type" = "By activity type";
+"Pie chart" = "Pie chart";
+"Top level" = "Top level";
+
+// Settings - Activity Types
+"Color picker" = "Color picker";
+"Predefined" = "Predefined";
+
+// Settings - Report
+"CSV duration format" = "CSV duration format";
+"Show year in CSV" = "Show year in CSV";
+"Decimal" = "Decimal";
+"Application" = "Application";
+
+// Settings - Advanced
+"Advanced" = "Advanced";
+"Tap on history or running activity" = "Tap on history or running activity";
+"Simple" = "Simple";
+"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
+"Complex" = "Complex";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
+"Time picker interval" = "Time picker interval";
+"Select interval" = "Select interval";
+"%d minutes" = "%d minutes";
+"%d min" = "%d min";
+"Week starts on" = "Week starts on";
+"Select day" = "Select day";
+
 "Remind" = "Remind";
 "Interval" = "Interval";
 "Every hour" = "Every hour";
@@ -306,6 +317,10 @@
 "What are you doing now?" = "What are you doing now?";
 "What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
 "Change" = "Change";
+
+"Start/end time precision" = "Start/end time precision";
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
 
 // Bulk Delete
 "Bulk Delete" = "Bulk Delete";
