@@ -214,6 +214,7 @@
 "Home & Self-Care" = "日常生活＆ライフスタイル";
 "Musical Instruments" = "楽器";
 "Relax & Party" = "リラックス＆パーティー";
+"Home & Self-care" = "家事＆セルフケア"
 //"Sport" = "スポーツ";
 //"Study" = "勉強";
 "Transport & Tourism" = "交通＆ツーリズム";
@@ -228,7 +229,7 @@
 "Restore complete" = "復元が完了しました";
 "Restored successfully" = "復元が成功しました";
 
-// More
+// More - About this app
 "Version" = "バージョン";
 "Help" = "ヘルプ";
 "Loading..." = "読込中...";
@@ -244,6 +245,9 @@
 "Chinese" = "中国語";
 "Swedish" = "スウェーデン語";
 "Ideas generator" = "発案協力";
+"Send debug data" = "デバッグデータを送信"
+"Send db file" = "dbファイルを送信"
+"Local notifications" = "ローカル告知"
 
 // Settings
 "Theme" = "テーマ";
@@ -278,7 +282,7 @@
 "By activity entry" = "記録別";
 "By activity type" = "ログ種類別";
 "Pie chart" = "円グラフ";
-"Top level" = "全体的";
+"Top level" = "全体的（グループ別）";
 
 // Settings - Activity Types
 "Color picker" = "色の選択";
@@ -318,9 +322,9 @@
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
 
-"Start/end time precision" = "Start/end time precision";
-"Seconds" = "Seconds";
-"Minutes" = "Minutes";
+"Start/end time precision" = "開始／停止時の正確さ";
+"Seconds" = "秒間";
+"Minutes" = "分間";
 
 // Bulk Delete
 "Bulk Delete" = "一括削除";
