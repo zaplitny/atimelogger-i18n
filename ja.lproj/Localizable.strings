@@ -290,7 +290,6 @@
 "Decimal" = "小数";
 "Application" = "アプリ時間の形式と同じ";
 
-
 // Settings - Advanced
 "Advanced" = "詳細";
 "Tap on history or running activity" = "履歴か記録のタイマーをタップする際";
@@ -319,6 +318,9 @@
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
 
+"Start/end time precision" = "Start/end time precision";
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
 
 // Bulk Delete
 "Bulk Delete" = "一括削除";
