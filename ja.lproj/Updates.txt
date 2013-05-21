@@ -100,3 +100,13 @@ Version 1.3.2
 バク修正：
 - iPod touchでリマインダー機能が使えなかったバグを修正しました。
 - リマインダーの時間を選択した後のバグを修正しました。
+
+######################
+
+Version 1.3.3
+
+- Introduced start/end time precision. If you think 14 minutes is wrong for 8:00 - 8:15 go to 
+Settings -> Advanced -> Precision and select 'Minutes'. Visit our blog (www.aloggers.com) to 
+understand how it works 
+- Bug fixes and performance improvements
+
