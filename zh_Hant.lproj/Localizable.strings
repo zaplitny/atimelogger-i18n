@@ -4,7 +4,7 @@
 "Types" = "類型";
 "tab.category" = "標籤類別";
 "More" = "更多";
-"Backup/Restore" = "備份/復原";
+"Backup/Restore" = "備份 / 復原";
 "Reports" = "報告";
 "Settings" = "設定";
 "About" = "關於";
@@ -40,9 +40,9 @@
 "Are you sure you want to pause the activity?" = "您確定要暫停此活動嗎？";
 "Are you sure you want to stop the activity?" = "您確定要結束此活動嗎？";
 "Are you sure you want to resume the activity?" = "您確定要繼續此活動嗎？";
-"Are you sure you want to pause/stop running activities and resume this one?" = "您確定要暫停/結束正在進行的活動並繼續此活動嗎？";
+"Are you sure you want to pause/stop running activities and resume this one?" = "您確定要暫停 / 結束正在進行的活動並繼續此活動嗎？";
 "Are you sure you want to start the activity?" = "您確定要開始此活動嗎？";
-"Are you sure you want to pause/stop running activities and start this one?" = "您確定要暫停/結束正在進行的活動並開始此活動嗎？";
+"Are you sure you want to pause/stop running activities and start this one?" = "您確定要暫停 / 結束正在進行的活動並開始此活動嗎？";
 "Create activity" = "建立新活動";
 "Edit activity" = "編輯活動";
 "Intervals" = "時間間隔";
@@ -55,7 +55,7 @@
 "Overtime" = "超過時間";
 "My plan" = "我的計劃";
 "Max duration" = "最大持續時間";
-"Finish before" = "在...之前結束";
+"Finish before" = "在... 之前結束";
 "Finish" = "結束";
 "Now" = "現在";
 
@@ -138,7 +138,7 @@
 // History
 "Total time tracked" = "所有記錄的時間";
 "Nothing tracked for selected period" = "這段時間內沒有任何記錄";
-"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "變更時段，請按 «+» 開始/重新開始一個活動，或者請選擇活動圖示開始新活動";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "變更時段，請按 «+» 開始 / 重新開始一個活動，或者請選擇活動圖示開始新活動";
 
 // Categories
 "Create group" = "建立群組";
@@ -147,7 +147,7 @@
 "Edit type" = "編輯類型";
 "Bar chart" = "長條圖";
 "Items" = "項目";
-"Select/deselect all" = "全選/取消全選";
+"Select/deselect all" = "全選 / 取消全選";
 "Total time" = "總時間";
 "Days" = "天數";
 "Hours" = "小時數";
@@ -246,53 +246,64 @@
 "Ideas generator" = "創意貢獻者";
 
 // Settings
-"Week starts on" = "每週開始於";
 "Theme" = "主題";
-"Action on start" = "開始活動";
-"Warnings" = "警告";
-"Formats" = "格式";
-"Advanced" = "進階";
 "Select theme" = "選擇主題";
-"Select day" = "選擇時間";
-"Select action" = "選擇活動";
-"Time picker interval" = "時間選擇的間隔";
-"%d minutes" = "%d 分鐘";
-"%d min" = "%d 分鐘";
+"Warnings" = "警告";
 "Activity status change" = "變更活動狀態";
 "Delete in History" = "在歷史中刪除";
-"Select interval" = "選擇時間間隔";
+"Formats" = "格式";
 "Day format" = "日期格式";
 "Duration format" = "持續時間格式";
 "Passcode Lock" = "密碼鎖定";
-"Pie chart" = "圓形圖";
-"Top level" = "頂層";
 "On" = "開啟";
 "Off" = "關閉";
-"Color picker" = "顏色選擇";
-"Predefined" = "預先定義的顏色";
-"History list" = "歷史清單";
-"By activity entry" = "依時間排序";
-"By activity type" = "依活動類型排序";
+
+// Settings - Activities
 "Display auto-lock" = "畫面自動鎖定";
 "Major timer" = "主計時器";
 "Count up" = "正數計時";
 "Count down" = "倒數計時";
-"CSV duration format" = "CSV 檔案持續時間格式";
-"Show year in CSV" = "在 CSV 檔案中顯示年份";
-"Decimal" = "小數";
-"Application" = "應用";
+"Action on start" = "開始活動";
+"Select action" = "選擇活動";
+"Comment on start" = "開始時備註";
+"Comment on stop" = "結束時備註";
 "Default edit field" = "預設編輯欄位";
-"Simple" = "簡單";
-"Complex" = "複雜";
-"Tap on history or running activity" = "點選歷史或者正在進行的活動";
-"Tapping anywhere takes us to 'Edit activity'" = "點選任意位置可以「編輯活動」";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "點選圖示可以「編輯活動」，點擊文字部分可以「編輯時間間隔」";
 "Min. activity duration" = "最小活動持續時間";
 "10 seconds" = "10 秒";
 "1 minute" = "1 分鐘";
 "5 minutes" = "5 分鐘";
-"Comment on start" = "開始時備註";
-"Comment on stop" = "結束時備註";
+
+// Settings - History List
+"History list" = "歷史清單";
+"By activity entry" = "依時間排序";
+"By activity type" = "依活動類型排序";
+"Pie chart" = "圓形圖";
+"Top level" = "頂層";
+
+// Settings - Activity Types
+"Color picker" = "顏色選擇";
+"Predefined" = "預先定義的顏色";
+
+// Settings - Report
+"CSV duration format" = "CSV 檔案持續時間格式";
+"Show year in CSV" = "在 CSV 檔案中顯示年份";
+"Decimal" = "小數";
+"Application" = "應用";
+
+// Settings - Advanced
+"Advanced" = "進階";
+"Tap on history or running activity" = "點選歷史或者正在進行的活動";
+"Simple" = "簡單";
+"Tapping anywhere takes us to 'Edit activity'" = "點選任意位置可以「編輯活動」";
+"Complex" = "複雜";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "點選圖示可以「編輯活動」，點擊文字部分可以「編輯時間間隔」";
+"Time picker interval" = "時間選擇的間隔";
+"Select interval" = "選擇時間間隔";
+"%d minutes" = "%d 分鐘";
+"%d min" = "%d 分鐘";
+"Week starts on" = "每週開始於";
+"Select day" = "選擇時間";
+
 "Remind" = "提醒";
 "Interval" = "間隔";
 "Every hour" = "每 1 小時";
@@ -306,6 +317,10 @@
 "What are you doing now?" = "您現在正在做什麼？";
 "What are you doing now? Now running: %@" = "您現在正在做什麼？現在正在：%@";
 "Change" = "變更";
+
+"Start/end time precision" = "開始/結束時間位數";
+"Seconds" = "秒";
+"Minutes" = "分";
 
 // Bulk Delete
 "Bulk Delete" = "批次刪除";
