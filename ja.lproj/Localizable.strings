@@ -1,8 +1,8 @@
 "Activities" = "記録画面";
 "History" = "履歴";
-"Activity types" = "ログ種類";
+"Activity types" = "アクティビティの種類";
 "Types" = "種類";
-"tab.category" = "ログ種類";
+"tab.category" = "アクティビティの種類";
 "More" = "設定";
 "Backup/Restore" = "バックアップ／復元";
 "Reports" = "レポート";
@@ -23,7 +23,7 @@
 
 "Group" = "グループ";
 "Groups" = "グループ";
-"Activity type" = "ログ種類";
+"Activity type" = "アクティビティの種類";
 
 "Name" = "名前";
 "Image" = "アイコン";
@@ -36,7 +36,7 @@
 "Number of activities" = "記録回数";
 "Restore" = "復元";
 
-// Activities
+// Activities　なるべく「ログ」という単語を避けて、「アクティビティ」または「記録」で翻訳していきましょう。
 "Are you sure you want to pause the activity?" = "記録を中断しますか？";
 "Are you sure you want to stop the activity?" = "記録を停止しますか？";
 "Are you sure you want to resume the activity?" = "記録を再開しますか？";
@@ -62,8 +62,8 @@
 "Date range" = "期間";
 "Select range" = "期間の選択";
 "Send by email" = "メールで送信";
-"Select activity type" = "ログの選択";
-"Select type" = "ログの選択";
+"Select activity type" = "アクティビティの選択";
+"Select type" = "種類の選択";
 "Create report" = "レポートの作成";
 "Creating report..." = "レポートの作成...";
 "Report" = "レポート";
@@ -142,21 +142,21 @@
 
 // Activity Types
 "Create group" = "グループの作成";
-"Create type" = "ログ種類の作成";
+"Create type" = "アクティビティの種類の作成";
 "Edit group" = "グループの編集";
-"Edit type" = "ログ種類の編集";
+"Edit type" = "アクティビティの種類の編集";
 "Bar chart" = "棒グラフ";
 "Items" = "項目";
 "Select/deselect all" = "全てを選択／選択を解除";
 "Total time" = "合計時間";
 "Days" = "日";
 "Hours" = "時間";
-"No activity types" = "ログが存在しません";
-"Archived types" = "アーカイブしたログ種類";
+"No activity types" = "アクティビティの種類がありません";
+"Archived types" = "アーカイブしたアクティビティの種類";
 "Archive" = "アーカイブ";
 "Unarchive" = "アーカイブから復元";
-"Archive activity type?" = "ログ種類をアーカイブ？";
-"Unarchive activity type?" = "ログ種類をアーカイブから復元？";
+"Archive activity type?" = "アクティビティの種類をアーカイブ？";
+"Unarchive activity type?" = "アクティビティの種類をアーカイブから復元？";
 "Select color" = "色を選択";
 "Move to .." = "移動する ...";
 "Top" = "グループから出す";
@@ -165,7 +165,7 @@
 "Line" = "折り線グラフ";
 "Area" = "面グラフ";
 "Max hours" = "時間の最大数"; // it's bar chart settings 
-"You can't track anything without activity types. Click «+» to add activity type" = "ログがないと記録を取ることができません。＋をタップしてログを作成してください。";
+"You can't track anything without activity types. Click «+» to add activity type" = "アクティビティがないと記録を取ることができません。＋をタップしてログを作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 
 // Reports
@@ -280,8 +280,8 @@
 // Settings - History List
 "History list" = "履歴リストの表示";
 "By activity entry" = "記録別";
-"By activity type" = "ログ種類別";
-"Pie chart" = "円グラフ";
+"By activity type" = "アクティビティの種類別";
+"Pie chart" = "円グラフの表示";
 "Top level" = "全体的（グループ別）";
 
 // Settings - Activity Types
@@ -330,10 +330,10 @@
 "Bulk Delete" = "一括削除";
 "Deleting..." = "削除中...";
 "Removed successfully" = "削除が成功しました";
-"Do you really want to remove %d entries" = "本当に%d個のログを削除しますか？";
+"Do you really want to remove %d entries" = "本当に%d個の記録を削除しますか？";
 
 // Twitter
-"Tweet activities" = "ログをツイートする";
+"Tweet activities" = "記録をツイートする";
 "Show tweet sheet" = "ツイートの入力欄を表示";
 "Twitter account" = "Twitter アカウント";
 "Tweet on start" = "記録の開始時にツイート";
@@ -352,8 +352,8 @@
 "Warning" = "警告";
 "Delete time interval?" = "削除しますか？";
 "Delete activity?" = "記録を削除しますか？";
-"Deleting activity type will delete all its recorded activities. Are you sure?" = "ログを削除するとその記録がすべて削除されます。よろしいですか？";
-"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "グループを削除するとそのサブグループ、ログ、記録がすべて削除されます。よろしいですか？";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "アクティビティの種類を削除するとその記録がすべて削除されます。よろしいですか？";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "グループを削除するとそのサブグループ、アクティビティ、記録がすべて削除されます。よろしいですか？";
 "Restore will delete old data and overwrites with backed up data. Are you sure?" = "復元すると過去の記録が削除されてバックアップデータで上書きされます。よろしいですか？";
 "Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "すでにグループが作成されているため、設定を無効にできませんでした。まずグループを削除してください";
 "welcome.message" = "aTimelogger 2にようこそ！初めての起動です。初めて使う方のための簡易マニュアルと旧バージョンからの移行手順を案内しています。";
