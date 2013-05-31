@@ -1,8 +1,8 @@
 "Activities" = "記録画面";
 "History" = "履歴";
-"Activity types" = "アクティビティの種類";
+"Activity types" = "ｱｸﾃｨﾋﾞﾃｨの種類";
 "Types" = "種類";
-"tab.category" = "アクティビティの種類";
+"tab.category" = "ｱｸﾃｨﾋﾞﾃｨの種類";
 "More" = "設定";
 "Backup/Restore" = "バックアップ／復元";
 "Reports" = "レポート";
@@ -23,7 +23,7 @@
 
 "Group" = "グループ";
 "Groups" = "グループ";
-"Activity type" = "アクティビティの種類";
+"Activity type" = "ｱｸﾃｨﾋﾞﾃｨの種類";
 
 "Name" = "名前";
 "Image" = "アイコン";
@@ -113,8 +113,8 @@
 
 // Intervals
 "Edit interval" = "期間の編集";
-"From" = "開始日";
-"To" = "終了日";
+"From" = "開始";
+"To" = "終了";
 "Duration" = "記録時間";
 
 // Format
@@ -142,9 +142,9 @@
 
 // Activity Types
 "Create group" = "グループの作成";
-"Create type" = "アクティビティの種類の作成";
+"Create type" = "ｱｸﾃｨﾋﾞﾃｨの種類の作成";
 "Edit group" = "グループの編集";
-"Edit type" = "アクティビティの種類の編集";
+"Edit type" = "ｱｸﾃｨﾋﾞﾃｨの種類の編集";
 "Bar chart" = "棒グラフ";
 "Items" = "項目";
 "Select/deselect all" = "全てを選択／選択を解除";
@@ -280,7 +280,7 @@
 // Settings - History List
 "History list" = "履歴リストの表示";
 "By activity entry" = "記録別";
-"By activity type" = "アクティビティの種類別";
+"By activity type" = "ｱｸﾃｨﾋﾞﾃｨの種類別";
 "Pie chart" = "円グラフの表示";
 "Top level" = "全体的（グループ別）";
 
@@ -298,7 +298,7 @@
 "Advanced" = "詳細";
 "Tap on history or running activity" = "履歴か記録のタイマーをタップする際";
 "Simple" = "簡単";
-"Tapping anywhere takes us to 'Edit activity'" = "でこタップしても、「記録編集」に移動します";
+"Tapping anywhere takes us to 'Edit activity'" = "でこタップしても、「記録の編集」に移動します";
 "Complex" = "複雑";
 "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "アイコンをタップする際「記録の編集」に移動し、アイコンの隣のとこをタップする際「期間の編集」に移動します";
 "Time picker interval" = "時間間隔の設定";
@@ -322,6 +322,7 @@
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
 
+"Precision" = "正確さ"
 "Start/end time precision" = "開始／停止時の正確さ";
 "Seconds" = "秒間";
 "Minutes" = "分間";
@@ -360,6 +361,9 @@
 "Welcome" = "ようこそ";
 "View" = "表示する";
 "No, thanks" = "表示しない";
+"Save error" = "保存時にエラー"
+"Activity type should be selected" = "アクティビティの種類の選択が必要"
+
 
 // Predefined Activity Types
 "Sleep" = "睡眠";
