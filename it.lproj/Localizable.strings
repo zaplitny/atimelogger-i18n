@@ -2,7 +2,7 @@
 "History" = "Cronologia";
 "Activity types" = "Tipi di attività";
 "Types" = "Tipi";
-"tab.category" = "tab.category";
+"tab.category" = "Tipi";
 "More" = "Altro";
 "Backup/Restore" = "Backup/Ripristina";
 "Reports" = "Resoconti";
@@ -129,11 +129,11 @@
 "dd/MM" = "dd/MM";
 "dd/MM/yy" = "dd/MM/yy";
 "dd MMM" = "dd MMM";
-"dd MMM, yyyy" = "gg MMM, aaaa";
-"MMM dd" = "MMM gg";
-"MMM dd, yyyy" = "MMM gg, aaaa";
-"MMM, yyyy" = "MMM, aaaa";
-"MMMM dd, cccc" = "MMMM gg, tttt";
+"dd MMM, yyyy" = "dd MMM, yyyy";
+"MMM dd" = "MMM dd";
+"MMM dd, yyyy" = "MMM dd, yyyy";
+"MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MMMM dd, cccc";
 
 // History
 "Total time tracked" = "Tempo totale registrato";
@@ -244,55 +244,69 @@
 "Chinese" = "Cinese";
 "Swedish" = "Svedese";
 "Ideas generator" = "Ideatore";
+"Send debug data" = "Send debug data";
+"Send db file" = "Send db file";
+"Local notifications" = "Local notifications";
 
 // Settings
-"Week starts on" = "La settimana inizia con";
 "Theme" = "Tema";
-"Action on start" = "Azione all’avvio";
-"Warnings" = "Avvisi";
-"Formats" = "Formati";
-"Advanced" = "Avanzate";
 "Select theme" = "Seleziona tema";
-"Select day" = "Seleziona giorno";
-"Select action" = "Seleziona azione";
-"Time picker interval" = "Intervallo di tempo che viene registrato";
-"%d minutes" = "%d minuti";
-"%d min" = "%d min";
+"Warnings" = "Avvisi";
 "Activity status change" = "Cambia stato attività";
 "Delete in History" = "Elimina nella cronologia";
-"Select interval" = "Seleziona intervallo";
+"Formats" = "Formati";
 "Day format" = "Formato per il giorno";
 "Duration format" = "Formato per la durata";
 "Passcode Lock" = "Blocco con codice";
-"Pie chart" = "Grafico a torta";
-"Top level" = "Livello più alto";
 "On" = "Acceso";
 "Off" = "Spento";
-"Color picker" = "Color picker";
-"Predefined" = "Predefinito";
-"History list" = "Lista di attività";
-"By activity entry" = "Inserisci per attività";
-"By activity type" = "Inserisci per tipologia";
+
+// Settings - Activities
 "Display auto-lock" = "Blocco automatico del display";
 "Major timer" = "Timer principale";
 "Count up" = "Count up";
 "Count down" = "Count down";
-"CSV duration format" = "Formato di durata CSV";
-"Show year in CSV" = "Mostra anno in CSV";
-"Decimal" = "Decimali";
-"Application" = "Applicazione";
+"Action on start" = "Azione all’avvio";
+"Select action" = "Seleziona azione";
+"Comment on start" = "Commenti sull’avvio";
+"Comment on stop" = "Commenti sullo stop";
 "Default edit field" = "Modifica campo di default";
-"Simple" = "Semplice";
-"Complex" = "Complesso";
-"Tap on history or running activity" = "Tocca cronologia o attività in corso";
-"Tapping anywhere takes us to 'Edit activity'" = "Toccando ovunque tornerai a ‘Modifica attività’";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Toccando sull’icona tornarai a ‘Modifica attività’, toccando su una parte del testo tornerai a ‘Modifica intervallo’";
 "Min. activity duration" = "Min. durata attività";
 "10 seconds" = "10 secondi";
 "1 minute" = "1 minuti";
 "5 minutes" = "5 minuti";
-"Comment on start" = "Commenti sull’avvio";
-"Comment on stop" = "Commenti sullo stop";
+
+// Settings - History List
+"History list" = "Lista di attività";
+"By activity entry" = "Inserisci per attività";
+"By activity type" = "Inserisci per tipologia";
+"Pie chart" = "Grafico a torta";
+"Top level" = "Livello più alto";
+
+// Settings - Activity Types
+"Color picker" = "Color picker";
+"Predefined" = "Predefinito";
+
+// Settings - Report
+"CSV duration format" = "Formato di durata CSV";
+"Show year in CSV" = "Mostra anno in CSV";
+"Decimal" = "Decimali";
+"Application" = "Applicazione";
+
+// Settings - Advanced
+"Advanced" = "Avanzate";
+"Tap on history or running activity" = "Tocca cronologia o attività in corso";
+"Simple" = "Semplice";
+"Tapping anywhere takes us to 'Edit activity'" = "Toccando ovunque tornerai a ‘Modifica attività’";
+"Complex" = "Complesso";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Toccando sull’icona tornarai a ‘Modifica attività’, toccando su una parte del testo tornerai a ‘Modifica intervallo’";
+"Time picker interval" = "Intervallo di tempo che viene registrato";
+"Select interval" = "Seleziona intervallo";
+"%d minutes" = "%d minuti";
+"%d min" = "%d min";
+"Week starts on" = "La settimana inizia con";
+"Select day" = "Seleziona giorno";
+
 "Remind" = "Ricorda";
 "Interval" = "Intervallo";
 "Every hour" = "Ogni ora";
@@ -306,6 +320,11 @@
 "What are you doing now?" = "Cosa stai facendo ora?";
 "What are you doing now? Now running: %@" = "Cosa stai facendo ora? Ora in corso: %@";
 "Change" = "Cambia";
+
+"Precision" = "Precision";
+"Start/end time precision" = "Start/end time precision";
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
 
 // Bulk Delete
 "Bulk Delete" = "Svuota cestino";
@@ -329,6 +348,26 @@
 "Restore default template?" = "Restore default template?";
 "Restore default template" = "Restore default template";
 
+// Synchronize
+"Synchronize" = "Synchronize";
+"Synchronization" = "Synchronization";
+"Connecting to server..." = "Connecting to server...";
+"Downloading data..." = "Downloading data...";
+"Synced successfully" = "Synced successfully";
+"Sign in" = "Sign in";
+"Log out" = "Log out";
+"Sync finished" = "Sync finished";
+"Now everything is up to date" = "Now everything is up to date";
+"Sync frequency" = "Sync frequency";
+"Manual" = "Manual";
+"On every change" = "On every change";
+"Remote" = "Remote";
+"Local" = "Local";
+"Conflict resolving" = "Conflict resolving";
+"Create account" = "Create account";
+"Logging out will unsync all of your data. Are you sure?" = "Logging out will unsync all of your data. Are you sure?";
+"Synchronization error. See 'More'->'Synchronization' to find out why" = "Synchronization error. See 'More'->'Synchronization' to find out why";
+
 // Warnings
 "Warning" = "Avviso";
 "Delete time interval?" = "Elimina l’intervallo di tempo?";
@@ -341,6 +380,8 @@
 "Welcome" = "Benvenuto";
 "View" = "Vedi";
 "No, thanks" = "No, grazie";
+"Save error" = "Save error";
+"Activity type should be selected" = "Activity type should be selected";
 
 //Categories
 "Sleep" = "Dormire";
@@ -369,8 +410,10 @@
 
 // passcode
 "Passcode Lock" = "Blocco con codice";
+
 "Enable" = "Abilita";
 "Disabled" = "Disabilita";
+
 "Turn Passcode Off" = "Attiva il blocco con codice";
 "Turn Passcode On" = "Attiva il blocco con codice";
 "Change Passcode" = "Cambia codice";
@@ -378,6 +421,7 @@
 "Turn off Passcode" = "Disattiva il blocco con codice";
 "Enter Passcode" = "Inserisci il codice";
 "Passcodes did not match. Try again." = "Il codice non corrisponde. Prova ancora.";
+
 "Enter your passcode" = "Inserisci il tuo codice";
 "Enter a passcode" = "Inserisci un codice";
 "Re-enter your passcode" = "Reinserisci il tuo codice";
