@@ -165,7 +165,7 @@
 "Line" = "折り線グラフ";
 "Area" = "面グラフ";
 "Max hours" = "時間の最大数"; // it's bar chart settings 
-"You can't track anything without activity types. Click «+» to add activity type" = "アクティビティがないと記録を取ることができません。＋をタップしてログを作成してください。";
+"You can't track anything without activity types. Click «+» to add activity type" = "アクティビティがないと記録を取ることができません。＋をタップしてｱｸﾃｨﾋﾞﾃのｨ種類を作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 
 // Reports
@@ -282,12 +282,12 @@
 "By activity type" = "ｱｸﾃｨﾋﾞﾃｨの種類別";
 "Pie chart" = "円グラフの表示";
 "Top level" = "全体的（グループ別）";
-"Switch on shake" = "Switch on shake";
-"Show warning" = "Show warning";
+"Switch on shake" = "シェイクで変更";
+"Show warning" = "警告を表示する";
 "Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
-"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
-"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
-"Change display mode?" = "Change display mode?";
+"Warning is shown when device is shaked" = "シェイクで警告を表示します";
+"Nothing happens when device is shaked" = "シェイクしても何も起こりません";
+"Change display mode?" = "表示を変更？";
 
 // Settings - Activity Types
 "Color picker" = "色の選択";
@@ -355,33 +355,33 @@
 "Restore default template" = "例のツイートを復元";
 
 // Synchronize
-"Synchronize" = "Synchronize";
-"Synchronization" = "Synchronization";
-"Connecting to server..." = "Connecting to server...";
-"Downloading data..." = "Downloading data...";
+"Synchronize" = "同期";
+"Synchronization" = "同期";
+"Connecting to server..." = "サーバーに接続中...";
+"Downloading data..." = "データをダウンロード中...";
 "Synced successfully" = "Synced successfully";
-"Sign in" = "Sign in";
-"Log out" = "Log out";
-"Sync finished" = "Sync finished";
+"Sign in" = "サインイン";
+"Log out" = "ログアウト";
+"Sync finished" = "同期しました";
 "Now everything is up to date" = "Now everything is up to date";
-"Sync frequency" = "Sync frequency";
-"Manual" = "Manual";
-"On every change" = "On every change";
-"Remote" = "Remote";
-"Local" = "Local";
+"Sync frequency" = "同期頻度";
+"Manual" = "手動";
+"On every change" = "全ての変更際";
+"Remote" = "リモート";
+"Local" = "ローカル";
 "Conflict resolving" = "Conflict resolving";
-"Create account" = "Create account";
-"Logging out will unsync all of your data. Are you sure?" = "Logging out will unsync all of your data. Are you sure?";
+"Create account" = "アカウントを作成";
+"Are you sure you want to logout?" = "Logging out will unsync all of your data. Are you sure?";
 "Synchronization error. See 'More'->'Synchronization' to find out why" = "Synchronization error. See 'More'->'Synchronization' to find out why";
-"Delete local and use remote" = "Delete local and use remote";
-"Merge" = "Merge";
+"Delete local and use remote" = "ローカルを削除し、リモートを使用";
+"Merge" = "併合";
 "You have data both on local client and remote server. You can delete local and use remote data OR data can be merged" = "You have data both on local client and remote server. You can delete local and use remote data OR data can be merged";
-"Nothing was changed" = "Nothing was changed";
-"Not synced" = "Not synced";
-"Last sync: %@" = "Last sync: %@";
-"Status: %@" = "Status: %@";
-"Try another password" = "Try another password";
-"Pushing changes to server..." = "Pushing changes to server...";
+"Nothing was changed" = "変更はありませんでした";
+"Not synced" = "同期しませんでした";
+"Last sync: %@" = "最新同期: %@";
+"Status: %@" = "ステータス: %@";
+"Update password" = "ﾊﾟｽﾜｰﾄﾞをｱｯﾌﾟﾃﾞｰﾄ";
+"Pushing changes to server..." = "変更をサーバーに送信中...";
 
 // Warnings
 "Warning" = "警告";
