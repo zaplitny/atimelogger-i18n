@@ -371,7 +371,7 @@
 "Local" = "ローカル";
 "Conflict resolving" = "Conflict resolving";
 "Create account" = "アカウントを作成";
-"Are you sure you want to logout?" = "Logging out will unsync all of your data. Are you sure?";
+"Are you sure you want to logout?" = "Are you sure you want to logout?"
 "Synchronization error. See 'More'->'Synchronization' to find out why" = "Synchronization error. See 'More'->'Synchronization' to find out why";
 "Delete local and use remote" = "ローカルを削除し、リモートを使用";
 "Merge" = "併合";
@@ -380,8 +380,19 @@
 "Not synced" = "同期しませんでした";
 "Last sync: %@" = "最新同期: %@";
 "Status: %@" = "ステータス: %@";
+"Status: success" = "Status: success";
+"Status: password is incorrect" = "Status: password is incorrect";
+"Status: conflicts occured during sync. To resolve conflicts press 'Synchronize' button" = "Status: conflicts occured during sync. To resolve conflicts press 'Synchronize' button";
+"Status: sync failed. Try again" = "Status: sync failed. Try again";
 "Update password" = "ﾊﾟｽﾜｰﾄﾞをｱｯﾌﾟﾃﾞｰﾄ";
 "Pushing changes to server..." = "変更をサーバーに送信中...";
+"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
+"Syncs with server only if you press 'Synchronize' button in 'More' -> 'Synchronization'" = "Syncs with server only if you press 'Synchronize' button in 'More' -> 'Synchronization'";
+"When conflict occurs local changes applied" = "When conflict occurs local changes applied";
+"When conflict occurs remote changes applied" = "When conflict occurs remote changes applied";
+"When conflict occurs user resolves it manually" = "When conflict occurs user resolves it manually";
+"Cannot continue" = "Cannot continue";
+"Resolve all conflicts first" = "Resolve all conflicts first";
 
 // Warnings
 "Warning" = "警告";
