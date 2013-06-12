@@ -214,7 +214,6 @@
 "Home & Self-Care" = "日常生活＆ライフスタイル";
 "Musical Instruments" = "楽器";
 "Relax & Party" = "リラックス＆パーティー";
-"Home & Self-care" = "家事＆セルフケア"
 //"Sport" = "スポーツ";
 //"Study" = "勉強";
 "Transport & Tourism" = "交通＆ツーリズム";
@@ -245,9 +244,9 @@
 "Chinese" = "中国語";
 "Swedish" = "スウェーデン語";
 "Ideas generator" = "発案協力";
-"Send debug data" = "デバッグデータを送信"
-"Send db file" = "dbファイルを送信"
-"Local notifications" = "ローカル告知"
+"Send debug data" = "デバッグデータを送信";
+"Send db file" = "dbファイルを送信";
+"Local notifications" = "ローカル告知";
 
 // Settings
 "Theme" = "テーマ";
@@ -283,6 +282,12 @@
 "By activity type" = "ｱｸﾃｨﾋﾞﾃｨの種類別";
 "Pie chart" = "円グラフの表示";
 "Top level" = "全体的（グループ別）";
+"Switch on shake" = "Switch on shake";
+"Show warning" = "Show warning";
+"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
+"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
+"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
+"Change display mode?" = "Change display mode?";
 
 // Settings - Activity Types
 "Color picker" = "色の選択";
@@ -322,7 +327,7 @@
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
 
-"Precision" = "正確さ"
+"Precision" = "正確さ";
 "Start/end time precision" = "開始／停止時の正確さ";
 "Seconds" = "秒間";
 "Minutes" = "分間";
@@ -349,6 +354,35 @@
 "Restore default template?" = "例のツイートを復元";
 "Restore default template" = "例のツイートを復元";
 
+// Synchronize
+"Synchronize" = "Synchronize";
+"Synchronization" = "Synchronization";
+"Connecting to server..." = "Connecting to server...";
+"Downloading data..." = "Downloading data...";
+"Synced successfully" = "Synced successfully";
+"Sign in" = "Sign in";
+"Log out" = "Log out";
+"Sync finished" = "Sync finished";
+"Now everything is up to date" = "Now everything is up to date";
+"Sync frequency" = "Sync frequency";
+"Manual" = "Manual";
+"On every change" = "On every change";
+"Remote" = "Remote";
+"Local" = "Local";
+"Conflict resolving" = "Conflict resolving";
+"Create account" = "Create account";
+"Logging out will unsync all of your data. Are you sure?" = "Logging out will unsync all of your data. Are you sure?";
+"Synchronization error. See 'More'->'Synchronization' to find out why" = "Synchronization error. See 'More'->'Synchronization' to find out why";
+"Delete local and use remote" = "Delete local and use remote";
+"Merge" = "Merge";
+"You have data both on local client and remote server. You can delete local and use remote data OR data can be merged" = "You have data both on local client and remote server. You can delete local and use remote data OR data can be merged";
+"Nothing was changed" = "Nothing was changed";
+"Not synced" = "Not synced";
+"Last sync: %@" = "Last sync: %@";
+"Status: %@" = "Status: %@";
+"Try another password" = "Try another password";
+"Pushing changes to server..." = "Pushing changes to server...";
+
 // Warnings
 "Warning" = "警告";
 "Delete time interval?" = "削除しますか？";
@@ -361,9 +395,8 @@
 "Welcome" = "ようこそ";
 "View" = "表示する";
 "No, thanks" = "表示しない";
-"Save error" = "保存時にエラー"
-"Activity type should be selected" = "アクティビティの種類の選択が必要"
-
+"Save error" = "保存時にエラー";
+"Activity type should be selected" = "アクティビティの種類の選択が必要";
 
 // Predefined Activity Types
 "Sleep" = "睡眠";
