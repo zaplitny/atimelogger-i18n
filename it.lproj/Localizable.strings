@@ -282,6 +282,12 @@
 "By activity type" = "Inserisci per tipologia";
 "Pie chart" = "Grafico a torta";
 "Top level" = "Livello più alto";
+"Switch on shake" = "Switch on shake";
+"Show warning" = "Show warning";
+"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
+"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
+"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
+"Change display mode?" = "Change display mode?";
 
 // Settings - Activity Types
 "Color picker" = "Color picker";
@@ -357,7 +363,6 @@
 "Sign in" = "Sign in";
 "Log out" = "Log out";
 "Sync finished" = "Sync finished";
-"Now everything is up to date" = "Now everything is up to date";
 "Sync frequency" = "Sync frequency";
 "Manual" = "Manual";
 "On every change" = "On every change";
@@ -365,8 +370,29 @@
 "Local" = "Local";
 "Conflict resolving" = "Conflict resolving";
 "Create account" = "Create account";
-"Logging out will unsync all of your data. Are you sure?" = "Logging out will unsync all of your data. Are you sure?";
-"Synchronization error. See 'More'->'Synchronization' to find out why" = "Synchronization error. See 'More'->'Synchronization' to find out why";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
+"Delete local and use remote" = "Delete local and use remote";
+"Merge" = "Merge";
+"You have data both on local client and remote server. You can delete local and use remote data OR the data can be merged" = "You have data both on local client and remote server. You can delete local and use remote data OR the data can be merged";
+"Nothing was changed" = "Nothing was changed";
+"Not synced" = "Not synced";
+"Last sync: %@" = "Last sync: %@";
+"Status: %@" = "Status: %@";
+"Status: success" = "Status: success";
+"Status: password is incorrect" = "Status: password is incorrect";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
+"Status: sync failed. Try again" = "Status: sync failed. Try again";
+"Update password" = "Update password";
+"Pushing changes to server..." = "Pushing changes to server...";
+"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
+"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
+"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
+"When conflict occurs user chooses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
+"Cannot continue" = "Cannot continue";
+"Resolve all conflicts first" = "Resolve all conflicts first";
+"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please chose which data you would like to preserve.";
 
 // Warnings
 "Warning" = "Avviso";
