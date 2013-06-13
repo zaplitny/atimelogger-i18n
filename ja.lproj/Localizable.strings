@@ -371,28 +371,29 @@
 "Local" = "ローカル";
 "Conflict resolving" = "Conflict resolving";
 "Create account" = "アカウントを作成";
-"Are you sure you want to logout?" = "Are you sure you want to logout?"
-"Synchronization error. See 'More'->'Synchronization' to find out why" = "Synchronization error. See 'More'->'Synchronization' to find out why";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
 "Delete local and use remote" = "ローカルを削除し、リモートを使用";
 "Merge" = "併合";
-"You have data both on local client and remote server. You can delete local and use remote data OR data can be merged" = "You have data both on local client and remote server. You can delete local and use remote data OR data can be merged";
+"You have data both on local client and remote server. You can delete local and use remote data OR the data can be merged" = "You have data both on local client and remote server. You can delete local and use remote data OR the data can be merged";
 "Nothing was changed" = "変更はありませんでした";
 "Not synced" = "同期しませんでした";
 "Last sync: %@" = "最新同期: %@";
 "Status: %@" = "ステータス: %@";
 "Status: success" = "Status: success";
 "Status: password is incorrect" = "Status: password is incorrect";
-"Status: conflicts occured during sync. To resolve conflicts press 'Synchronize' button" = "Status: conflicts occured during sync. To resolve conflicts press 'Synchronize' button";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
 "Status: sync failed. Try again" = "Status: sync failed. Try again";
 "Update password" = "ﾊﾟｽﾜｰﾄﾞをｱｯﾌﾟﾃﾞｰﾄ";
 "Pushing changes to server..." = "変更をサーバーに送信中...";
 "Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
-"Syncs with server only if you press 'Synchronize' button in 'More' -> 'Synchronization'" = "Syncs with server only if you press 'Synchronize' button in 'More' -> 'Synchronization'";
-"When conflict occurs local changes applied" = "When conflict occurs local changes applied";
-"When conflict occurs remote changes applied" = "When conflict occurs remote changes applied";
-"When conflict occurs user resolves it manually" = "When conflict occurs user resolves it manually";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
+"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
+"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
+"When conflict occurs user choses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
 "Cannot continue" = "Cannot continue";
 "Resolve all conflicts first" = "Resolve all conflicts first";
+"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please chose which data you would like to preserve.";
 
 // Warnings
 "Warning" = "警告";
