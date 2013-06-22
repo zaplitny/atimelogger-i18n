@@ -108,3 +108,19 @@ Version 1.3.3
 - 「開始／停止時の正確さ」を導入！秒数までの正確さで示さなくても、そういう風に記録されています。正確さを「分間」に設定したら、「01:10」の記録が「01:00」として記録されます。
 記録の正確さの設定は「環境設定」→「詳細」にあります。
 - バク修正と改善
+
+#####################
+
+Version 1.4
+
+We are excited to introduce sync with our web application. It's still in beta but it's already available for everyone. If you need to sync between different devices or want to see your data online just go and try it now. By default it's disabled, see article at blog.atimelogger.com to find out how to use it. 
+
+We made some goal improvements: 
+- progress is shown on the goals screen; 
+- goals can be of 2 types - limit duration or reach duration 
+Next updates will include even more goal improvements, just wait a little 
+
+We also added landscape support for iPad 
+
+Don't forget to rank our app in AppStore every new update - it helps us a lot. If you have any questions or suggestions contact us directly from application in More->About->Contact us 
+
