@@ -355,6 +355,7 @@
 "Restore default template" = "例のツイートを復元";
 
 // Synchronize
+"Sync" = "同期"
 "Synchronize" = "同期";
 "Synchronization" = "同期";
 "Connecting to server..." = "サーバーに接続中...";
@@ -362,6 +363,8 @@
 "Synced successfully" = "同期が完了しました";
 "Sign in" = "サインイン";
 "Log out" = "ログアウト";
+"Your email" = "メールアドレス"
+"Password" = "パスワード"
 "Sync finished" = "同期しました";
 "Now everything is up to date" = "Now everything is up to date"; // We won't use this string.
 "Sync frequency" = "同期の頻度";
