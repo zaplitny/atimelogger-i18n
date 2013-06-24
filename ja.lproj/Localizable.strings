@@ -367,6 +367,7 @@
 "Password" = "パスワード"
 "Sync finished" = "同期しました";
 "Now everything is up to date" = "Now everything is up to date"; // We won't use this string.
+"Everything is up to date" = "全ては変更済みです"
 "Sync frequency" = "同期の頻度";
 "Manual" = "手動";
 "On every change" = "全ての変更際";
