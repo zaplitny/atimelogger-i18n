@@ -165,8 +165,9 @@
 "Line" = "折り線グラフ";
 "Area" = "面グラフ";
 "Max hours" = "時間の最大数"; // it's bar chart settings 
-"You can't track anything without activity types. Click «+» to add activity type" = "アクティビティがないと記録を取ることができません。＋をタップしてｱｸﾃｨﾋﾞﾃのｨ種類を作成してください。";
+"You can't track anything without activity types. Click «+» to add activity types" = "アクティビティがないと記録を取ることができません。[＋]をタップしてアクティビティのｨ種類を作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
+"Click «+» to add child items to this group" = "[＋]ボタンでこのグループにアクティビティの種類を入れることができます";
 
 // Reports
 "All" = "全て";
@@ -355,7 +356,7 @@
 "Restore default template" = "例のツイートを復元";
 
 // Synchronize
-"Sync" = "同期"
+"Sync" = "同期";
 "Synchronize" = "同期";
 "Synchronization" = "同期";
 "Connecting to server..." = "サーバーに接続中...";
@@ -363,10 +364,11 @@
 "Synced successfully" = "同期が完了しました";
 "Sign in" = "サインイン";
 "Log out" = "ログアウト";
-"Your email" = "メールアドレス"
-"Password" = "パスワード"
+"Your email" = "メールアドレス";
+"Password" = "パスワード";
 "Sync finished" = "同期しました";
 "Now everything is up to date" = "Now everything is up to date"; // We won't use this string.
+"Everything is up to date" = "全ては変更済みです";
 "Sync frequency" = "同期の頻度";
 "Manual" = "手動";
 "On every change" = "全ての変更際";
@@ -387,7 +389,7 @@
 "Status: password is incorrect" = "ステータス: パスワードは間違っています";
 "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "ステータス: 同期中に問題が発生しました。問題を処理するには「同期」ボタンを押してください。";
 "Status: sync failed. Try again" = "ステータス: 同期に失敗しました。もう一度実行してください。";
-"Update password" = "ﾊﾟｽﾜｰﾄﾞをｱｯﾌﾟﾃﾞｰﾄ";
+"Update password" = "パスワードをアップデート";
 "Pushing changes to server..." = "変更をサーバーに送信中...";
 "Syncs with server every time change occurs." = "変更がある場合、その際同期を実行する";
 "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "「同期」ボタンを押す場合だけ同期する。「もっと」→「同期」";
