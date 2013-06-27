@@ -138,7 +138,7 @@
 // History
 "Total time tracked" = "所有記錄的時間";
 "Nothing tracked for selected period" = "這段時間內沒有任何記錄";
-"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "變更時段，請按 «+» 開始 / 重新開始一個活動，或者請選擇活動圖示開始新活動";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "變更時段，請按 «+» 開始/重新開始一個活動，或者請選擇活動圖示開始新活動";
 
 // Categories
 "Create group" = "建立群組";
@@ -147,7 +147,7 @@
 "Edit type" = "編輯類型";
 "Bar chart" = "長條圖";
 "Items" = "項目";
-"Select/deselect all" = "全選 / 取消全選";
+"Select/deselect all" = "全選/取消全選";
 "Total time" = "總時間";
 "Days" = "天數";
 "Hours" = "小時數";
@@ -244,6 +244,9 @@
 "Chinese" = "中文";
 "Swedish" = "瑞典文";
 "Ideas generator" = "創意貢獻者";
+"Send debug data" = "Send debug data";
+"Send db file" = "Send db file";
+"Local notifications" = "Local notifications";
 
 // Settings
 "Theme" = "主題";
@@ -279,6 +282,12 @@
 "By activity type" = "依活動類型排序";
 "Pie chart" = "圓形圖";
 "Top level" = "頂層";
+"Switch on shake" = "Switch on shake";
+"Show warning" = "Show warning";
+"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
+"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
+"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
+"Change display mode?" = "Change display mode?";
 
 // Settings - Activity Types
 "Color picker" = "顏色選擇";
@@ -318,9 +327,11 @@
 "What are you doing now? Now running: %@" = "您現在正在做什麼？現在正在：%@";
 "Change" = "變更";
 
-"Start/end time precision" = "開始/結束時間位數";
-"Seconds" = "秒";
-"Minutes" = "分";
+"Precision" = "Precision";
+"Start/end time precision" = "Start/end time precision";
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
+"Select precision" = "Select precision";
 
 // Bulk Delete
 "Bulk Delete" = "批次刪除";
@@ -344,6 +355,46 @@
 "Restore default template?" = "確定還原預設範本？";
 "Restore default template" = "還原預設範本";
 
+// Synchronize
+"Synchronize" = "Synchronize";
+"Synchronization" = "Synchronization";
+"Connecting to server..." = "Connecting to server...";
+"Downloading data..." = "Downloading data...";
+"Synced successfully" = "Synced successfully";
+"Sign in" = "Sign in";
+"Log out" = "Log out";
+"Sync finished" = "Sync finished";
+"Sync frequency" = "Sync frequency";
+"Manual" = "Manual";
+"On every change" = "On every change";
+"Remote" = "Remote";
+"Local" = "Local";
+"Conflict resolving" = "Conflict resolving";
+"Create account" = "Create account";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
+"Delete local and use remote" = "Delete local and use remote";
+"Merge" = "Merge";
+"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged";
+"Nothing was changed" = "Nothing was changed";
+"Not synced" = "Not synced";
+"Last sync: %@" = "Last sync: %@";
+"Status: %@" = "Status: %@";
+"Status: success" = "Status: success";
+"Status: password is incorrect" = "Status: password is incorrect";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
+"Status: sync failed. Try again" = "Status: sync failed. Try again";
+"Update password" = "Update password";
+"Pushing changes to server..." = "Pushing changes to server...";
+"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
+"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
+"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
+"When a conflict occurs the user chooses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
+"Cannot continue" = "Cannot continue";
+"Resolve all conflicts first" = "Resolve all conflicts first";
+"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please choose which data you would like to preserve.";
+
 // Warnings
 "Warning" = "警告";
 "Delete time interval?" = "刪除時間間隔？";
@@ -356,6 +407,8 @@
 "Welcome" = "歡迎";
 "View" = "檢視";
 "No, thanks" = "不用了，謝謝！";
+"Save error" = "Save error";
+"Activity type should be selected" = "Activity type should be selected";
 
 //Categories
 "Sleep" = "睡眠";
@@ -402,3 +455,5 @@
 "Enter your old passcode" = "輸入舊密碼";
 "Enter your new passcode" = "輸入新密碼";
 "Re-enter your new passcode" = "重新輸入新密碼";
+
+"http://atimelogger.com/versions.plist" = "http://atimelogger.com/versions_cnt.plist";
