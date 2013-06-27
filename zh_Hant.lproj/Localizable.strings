@@ -30,8 +30,8 @@
 "Color" = "顏色";
 "Icon" = "圖示";
 "Select icon" = "選擇圖示";
-"Default" = "Default";
-"User" = "User";
+"Default" = "預設";
+"User" = "使用者";
 
 "Number of activities" = "活動數量";
 "Restore" = "復原";
@@ -55,7 +55,7 @@
 "Overtime" = "超過時間";
 "My plan" = "我的計劃";
 "Max duration" = "最大持續時間";
-"Finish before" = "在...之前結束";
+"Finish before" = "在... 之前結束";
 "Finish" = "結束";
 "Now" = "現在";
 
@@ -228,7 +228,7 @@
 "Restore complete" = "還原完畢";
 "Restored successfully" = "還原成功";
 
-// More
+// More - About this app
 "Version" = "版本";
 "Help" = "求助";
 "Loading..." = "載入中...";
@@ -244,55 +244,75 @@
 "Chinese" = "中文";
 "Swedish" = "瑞典文";
 "Ideas generator" = "創意貢獻者";
+"Send debug data" = "傳送除錯資料";
+"Send db file" = "傳送資料庫檔案";
+"Local notifications" = "本地提醒";
 
 // Settings
-"Week starts on" = "每週開始於";
 "Theme" = "主題";
-"Action on start" = "開始活動";
-"Warnings" = "警告";
-"Formats" = "格式";
-"Advanced" = "進階";
 "Select theme" = "選擇主題";
-"Select day" = "選擇時間";
-"Select action" = "選擇活動";
-"Time picker interval" = "時間選擇的間隔";
-"%d minutes" = "%d 分鐘";
-"%d min" = "%d 分鐘";
+"Warnings" = "警告";
 "Activity status change" = "變更活動狀態";
 "Delete in History" = "在歷史中刪除";
-"Select interval" = "選擇時間間隔";
+"Formats" = "格式";
 "Day format" = "日期格式";
 "Duration format" = "持續時間格式";
 "Passcode Lock" = "密碼鎖定";
-"Pie chart" = "圓形圖";
-"Top level" = "頂層";
 "On" = "開啟";
 "Off" = "關閉";
-"Color picker" = "顏色選擇";
-"Predefined" = "預先定義的顏色";
-"History list" = "歷史清單";
-"By activity entry" = "依時間排序";
-"By activity type" = "依活動類型排序";
+
+// Settings - Activities
 "Display auto-lock" = "畫面自動鎖定";
 "Major timer" = "主計時器";
 "Count up" = "正數計時";
 "Count down" = "倒數計時";
+"Action on start" = "開始活動";
+"Select action" = "選擇活動";
+"Comment on start" = "開始時備註";
+"Comment on stop" = "結束時備註";
+"Default edit field" = "預設編輯欄位";
+"Min. activity duration" = "小活動持續時間";
+"10 seconds" = "10 秒";
+"1 minute" = "1 分鐘";
+"5 minutes" = "5 分鐘";
+
+// Settings - History List
+"History list" = "歷史清單";
+"By activity entry" = "依時間排序";
+"By activity type" = "依活動類型排序";
+"Pie chart" = "圓形圖";
+"Top level" = "頂層";
+"Switch on shake" = "搖晃切換";
+"Show warning" = "顯示警告";
+"Values switched without any warning when device is shaked" = "當裝置搖晃切換數值時不出現任何警告";
+"Warning is shown when device is shaked" = "當裝置搖晃時顯示警告";
+"Nothing happens when device is shaked" = "當裝置搖晃時不顯示警告";
+"Change display mode?" = "變更顯示模式？";
+
+// Settings - Activity Types
+"Color picker" = "顏色選擇";
+"Predefined" = "預先定義的顏色";
+
+// Settings - Report
 "CSV duration format" = "CSV 檔案持續時間格式";
 "Show year in CSV" = "在 CSV 檔案中顯示年份";
 "Decimal" = "小數";
 "Application" = "應用";
-"Default edit field" = "預設編輯欄位";
-"Simple" = "簡單";
-"Complex" = "複雜";
+
+// Settings - Advanced
+"Advanced" = "進階";
 "Tap on history or running activity" = "點選歷史或者正在進行的活動";
+"Simple" = "簡單";
 "Tapping anywhere takes us to 'Edit activity'" = "點選任意位置可以「編輯活動」";
+"Complex" = "複雜";
 "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "點選圖示可以「編輯活動」，點擊文字部分可以「編輯時間間隔」";
-"Min. activity duration" = "最小活動持續時間";
-"10 seconds" = "10 秒";
-"1 minute" = "1 分鐘";
-"5 minutes" = "5 分鐘";
-"Comment on start" = "開始時備註";
-"Comment on stop" = "結束時備註";
+"Time picker interval" = "時間選擇的間隔";
+"Select interval" = "選擇時間間隔";
+"%d minutes" = "%d 分鐘";
+"%d min" = "%d 分鐘";
+"Week starts on" = "每週開始於";
+"Select day" = "選擇時間";
+
 "Remind" = "提醒";
 "Interval" = "間隔";
 "Every hour" = "每 1 小時";
@@ -307,15 +327,20 @@
 "What are you doing now? Now running: %@" = "您現在正在做什麼？現在正在：%@";
 "Change" = "變更";
 
+"Precision" = "精確度";
+"Start/end time precision" = "開始/結束時間精確度";
+"Seconds" = "秒鐘";
+"Minutes" = "分鐘";
+
 // Bulk Delete
 "Bulk Delete" = "批次刪除";
 "Deleting..." = "正在刪除...";
 "Removed successfully" = "移除成功";
-"Do you really want to remove %d entries" = "您確定要移除 %d 個項目";
+"Do you really want to remove %d entries" = "您確定要移除 %d 個項目嗎？";
 
 // Twitter
 "Tweet activities" = "Tweet 活動";
-"Show tweet sheet" = "顯示 tweet sheet";
+"Show tweet sheet" = "顯示 tweet 輸入欄位";
 "Twitter account" = "Twitter 帳戶";
 "Tweet on start" = "在開始時發推文";
 "Tweet on stop" = "在結束時發推文";
@@ -325,9 +350,53 @@
 "Can't find any active account" = "找不到任何有效的帳戶";
 "Please, login to Twitter first" = "請先登錄 Twitter";
 "Preview" = "預覽";
-"Shake to reset" = "Shake to reset";
+"Shake to reset" = "搖晃重設";
 "Restore default template?" = "確定還原預設範本？";
 "Restore default template" = "還原預設範本";
+
+// Synchronize
+"Sync" = "同步"
+"Synchronize" = "同步";
+"Synchronization" = "同步";
+"Connecting to server..." = "正在連線到伺服器...";
+"Downloading data..." = "正在下載資料...";
+"Synced successfully" = "同步成功";
+"Sign in" = "登入";
+"Log out" = "登出";
+"Your email" = "您的 Email"
+"Password" = "密碼"
+"Sync finished" = "同步已完成";
+"Now everything is up to date" = "Now everything is up to date"; // We won't use this string.
+"Sync frequency" = "同步頻率";
+"Manual" = "手動";
+"On every change" = "每次變更時";
+"Remote" = "遠端";
+"Local" = "本地";
+"Conflict resolving" = "問題處理方式";
+"Create account" = "建立帳號";
+"Are you sure you want to logout?" = "您確定要登出嗎？";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "同步錯誤。請參閱「更多」→「同步」的詳細資訊。";
+"Delete local and use remote" = "刪除本地並使用遠端";
+"Merge" = "合併";
+"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "本地和遠端伺服器上都有您的資料。您可以刪除本地並使用遠端的資料或合併兩邊的資料";
+"Nothing was changed" = "沒有變更";
+"Not synced" = "未同步";
+"Last sync: %@" = "最新同步：%@";
+"Status: %@" = "狀態：%@";
+"Status: success" = "狀態：成功";
+"Status: password is incorrect" = "狀態：密碼錯誤";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "狀態：在同步時發生問題。若要解決問題，請按「同步」。";
+"Status: sync failed. Try again" = "狀態：同步失敗。再試一次";
+"Update password" = "更新密碼";
+"Pushing changes to server..." = "將變更推送到伺服器...";
+"Syncs with server every time change occurs." = "每次發生變化時都與伺服器同步。";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "只有當您按下「更多」的「同步」→「同步」，才會與伺服器同步";
+"When a conflict occurs the local data gets preserved" = "如果您遇到問題，保留本地資料";
+"When a conflict occurs the remote data gets preserved" = "如果您遇到問題，保留遠端資料";
+"When a conflict occurs the user chooses which data to preserve manually" = "如果您遇到此問題，您可以用手動的方式選擇想要保留的資料";
+"Cannot continue" = "您不能繼續執行";
+"Resolve all conflicts first" = "先解決所有問題";
+"conflict.warning" = "兩者的資料中有一個有變化，導致在同步過程中發生錯誤。請選擇要保留的資料。";
 
 // Warnings
 "Warning" = "警告";
@@ -341,8 +410,10 @@
 "Welcome" = "歡迎";
 "View" = "檢視";
 "No, thanks" = "不用了，謝謝！";
+"Save error" = "儲存時發生錯誤";
+"Activity type should be selected" = "必須要選擇活動類型";
 
-//Categories
+// Predefined Activity Types
 "Sleep" = "睡眠";
 "Transport" = "交通";
 "Work" = "工作";
