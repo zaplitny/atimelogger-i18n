@@ -53,7 +53,7 @@
 "Enter comment" = "增加备注";
 "Time Left" = "剩余时间";
 "Overtime" = "超时";
-"My plan" = "设置计划";
+"My plan" = "设置活动计划";
 "Max duration" = "最大持续时间";
 "Finish before" = "在...之前结束";
 "Finish" = "结束";
@@ -190,7 +190,7 @@
 "%@ per month" = "%@ per month";
 "%@ per interval" = "%@ 每时间段";
 "%@ per activity" = "%@ 活动每次";
-"Alert" = "提醒";
+"Alert" = "警告提示音";
 "Delete goal?" = "删除目标？";
 "Activity duration" = "活动持续时间";
 "Interval duration" = "时间段持续时间";
@@ -244,56 +244,76 @@
 "Chinese" = "中文";
 "Swedish" = "瑞典语";
 "Ideas generator" = "创意贡献者";
+"Send debug data" = "Send debug data";
+"Send db file" = "Send db file";
+"Local notifications" = "Local notifications";
 
 // Settings
-"Week starts on" = "每周第一天";
 "Theme" = "主题样式";
-"Action on start" = "开始新活动时";
-"Warnings" = "弹出警告";
-"Formats" = "格式设置";
-"Advanced" = "高级设置";
 "Select theme" = "选择主题";
-"Select day" = "选择日期";
-"Select action" = "选择活动";
-"Time picker interval" = "最小可选择时段";
-"%d minutes" = "%d 分钟";
-"%d min" = "%d 分钟";
+"Warnings" = "弹出警告";
 "Activity status change" = "活动状态变更";
 "Delete in History" = "在历史中删除";
-"Select interval" = "选择时间段";
+"Formats" = "格式设置";
 "Day format" = "日期格式";
 "Duration format" = "持续时间格式";
 "Passcode Lock" = "密码锁定";
-"Pie chart" = "饼图界面";
-"Top level" = "按照群组察看";
 "On" = "打开";
 "Off" = "关闭";
-"Color picker" = "颜色选择";
-"Predefined" = "预设定的颜色";
-"History list" = "活动历史清单";
-"By activity entry" = "按照时间排序";
-"By activity type" = "按照类别排序";
+
+// Settings - Activities
 "Display auto-lock" = "自动锁屏";
 "Major timer" = "主计时器";
 "Count up" = "正计数";
 "Count down" = "倒计数";
-"CSV duration format" = "CSV文件持续时间格式";
-"Show year in CSV" = "在CSV文件中显示年份";
-"Decimal" = "小数";
-"Application" = "应用";
+"Action on start" = "开始新活动时";
+"Select action" = "选择活动";
+"Comment on start" = "开始活动时备注";
+"Comment on stop" = "结束活动时备注";
 "Default edit field" = "默认编辑字段";
-"Simple" = "简单";
-"Complex" = "复杂";
-"Tap on history or running activity" = "点击历史或者正在进行的活动";
-"Tapping anywhere takes us to 'Edit activity'" = "点击任意位置可以“编辑活动”";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "点击图标可“编辑活动”，点击文字部分可“编辑时间段”";
 "Min. activity duration" = "最小活动持续时间";
 "10 seconds" = "10 秒";
 "1 minute" = "1 分钟";
 "5 minutes" = "5 分钟";
-"Comment on start" = "开始活动时备注";
-"Comment on stop" = "结束活动时备注";
-"Remind" = "提醒我（正在做什么）";
+
+// Settings - History List
+"History list" = "活动历史清单";
+"By activity entry" = "按照时间排序";
+"By activity type" = "按照类别排序";
+"Pie chart" = "饼图界面";
+"Top level" = "按照群组察看";
+"Switch on shake" = "Switch on shake";
+"Show warning" = "Show warning";
+"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
+"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
+"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
+"Change display mode?" = "Change display mode?";
+
+// Settings - Activity Types
+"Color picker" = "颜色选择";
+"Predefined" = "预设定的颜色";
+
+// Settings - Report
+"CSV duration format" = "CSV文件持续时间格式";
+"Show year in CSV" = "在CSV文件中显示年份";
+"Decimal" = "小数";
+"Application" = "应用";
+
+// Settings - Advanced
+"Advanced" = "高级设置";
+"Tap on history or running activity" = "点击历史或者正在进行的活动";
+"Simple" = "简单";
+"Complex" = "复杂";
+"Tapping anywhere takes us to 'Edit activity'" = "点击任意位置可以“编辑活动”";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "点击图标可“编辑活动”，点击文字部分可“编辑时间段”";
+"Time picker interval" = "最小可选择时段";
+"Select interval" = "选择时间段";
+"%d minutes" = "%d 分钟";
+"%d min" = "%d 分钟";
+"Week starts on" = "每周第一天";
+"Select day" = "选择日期";
+
+"Remind" = "提醒";
 "Interval" = "间隔";
 "Every hour" = "每 1小时";
 "Every 2 hours" = "每 2小时";
@@ -301,11 +321,17 @@
 "15 minutes" = "15 分钟";
 "20 minutes" = "20 分钟";
 "30 minutes" = "30 分钟";
-"1 hour" = "1 小时";
-"2 hours" = "2 小时";
+"1 hour" = "1小时";
+"2 hours" = "2小时";
 "What are you doing now?" = "您现在正在做什么？";
-"What are you doing now? Now running: %@" = "您现在正在做什么？ 正在进行活动: %@";
+"What are you doing now? Now running: %@" = "您现在正在做什么？ Now running: %@";
 "Change" = "更改";
+
+"Precision" = "Precision";
+"Start/end time precision" = "Start/end time precision";
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
+"Select precision" = "Select precision";
 
 // Bulk Delete
 "Bulk Delete" = "批量删除";
@@ -329,6 +355,46 @@
 "Restore default template?" = "确定恢复默认模板？";
 "Restore default template" = "恢复默认模板";
 
+// Synchronize
+"Synchronize" = "Synchronize";
+"Synchronization" = "Synchronization";
+"Connecting to server..." = "Connecting to server...";
+"Downloading data..." = "Downloading data...";
+"Synced successfully" = "Synced successfully";
+"Sign in" = "Sign in";
+"Log out" = "Log out";
+"Sync finished" = "Sync finished";
+"Sync frequency" = "Sync frequency";
+"Manual" = "Manual";
+"On every change" = "On every change";
+"Remote" = "Remote";
+"Local" = "Local";
+"Conflict resolving" = "Conflict resolving";
+"Create account" = "Create account";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
+"Delete local and use remote" = "Delete local and use remote";
+"Merge" = "Merge";
+"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged";
+"Nothing was changed" = "Nothing was changed";
+"Not synced" = "Not synced";
+"Last sync: %@" = "Last sync: %@";
+"Status: %@" = "Status: %@";
+"Status: success" = "Status: success";
+"Status: password is incorrect" = "Status: password is incorrect";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
+"Status: sync failed. Try again" = "Status: sync failed. Try again";
+"Update password" = "Update password";
+"Pushing changes to server..." = "Pushing changes to server...";
+"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
+"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
+"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
+"When a conflict occurs the user chooses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
+"Cannot continue" = "Cannot continue";
+"Resolve all conflicts first" = "Resolve all conflicts first";
+"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please choose which data you would like to preserve.";
+
 // Warnings
 "Warning" = "警告";
 "Delete time interval?" = "确认删除时间段?";
@@ -341,6 +407,8 @@
 "Welcome" = "欢迎";
 "View" = "查看";
 "No, thanks" = "不用了，谢谢!";
+"Save error" = "Save error";
+"Activity type should be selected" = "Activity type should be selected";
 
 //Categories
 "Sleep" = "睡眠";
@@ -387,3 +455,5 @@
 "Enter your old passcode" = "输入旧密码";
 "Enter your new passcode" = "输入新密码";
 "Re-enter your new passcode" = "重新输入新密码";
+
+"http://atimelogger.com/versions.plist" = "http://atimelogger.com/versions_cn.plist";
