@@ -53,7 +53,7 @@
 "Enter comment" = "增加备注";
 "Time Left" = "剩余时间";
 "Overtime" = "超时";
-"My plan" = "设置活动计划";
+"My plan" = "设置计划";
 "Max duration" = "最大持续时间";
 "Finish before" = "在...之前结束";
 "Finish" = "结束";
@@ -214,8 +214,8 @@
 "Home & Self-Care" = "家务及自理类";
 "Musical Instruments" = "乐器类";
 "Relax & Party" = "休闲放松及聚会类";
-//"Sport" = "Sport";
-//"Study" = "Study";
+//"Sport" = "运动类";
+//"Study" = "学习类";
 "Transport & Tourism" = "交通及旅游类";
 "No internet connection" = "无网络连接";
 
@@ -282,12 +282,12 @@
 "By activity type" = "按照类别排序";
 "Pie chart" = "饼图界面";
 "Top level" = "按照群组察看";
-"Switch on shake" = "Switch on shake";
-"Show warning" = "Show warning";
-"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
-"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
-"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
-"Change display mode?" = "Change display mode?";
+"Switch on shake" = "晃动手机更改显示";
+"Show warning" = "显示提示";
+"Values switched without any warning when device is shaked" = "晃动手机则直接更改显示模式";
+"Warning is shown when device is shaked" = "晃动手机则显示提示";
+"Nothing happens when device is shaked" = "晃动手机时无任何动作";
+"Change display mode?" = "确认更改显示模式吗？";
 
 // Settings - Activity Types
 "Color picker" = "颜色选择";
@@ -313,7 +313,7 @@
 "Week starts on" = "每周第一天";
 "Select day" = "选择日期";
 
-"Remind" = "提醒";
+"Remind" = "提醒我（正在做什么）";
 "Interval" = "间隔";
 "Every hour" = "每 1小时";
 "Every 2 hours" = "每 2小时";
@@ -321,17 +321,17 @@
 "15 minutes" = "15 分钟";
 "20 minutes" = "20 分钟";
 "30 minutes" = "30 分钟";
-"1 hour" = "1小时";
-"2 hours" = "2小时";
+"1 hour" = "1 小时";
+"2 hours" = "2 小时";
 "What are you doing now?" = "您现在正在做什么？";
-"What are you doing now? Now running: %@" = "您现在正在做什么？ Now running: %@";
+"What are you doing now? Now running: %@" = "您现在正在做什么？ 正在进行活动: %@";
 "Change" = "更改";
 
-"Precision" = "Precision";
-"Start/end time precision" = "Start/end time precision";
-"Seconds" = "Seconds";
-"Minutes" = "Minutes";
-"Select precision" = "Select precision";
+"Precision" = "精确度";
+"Start/end time precision" = "开始/结束时间 精确度";
+"Seconds" = "按秒计算";
+"Minutes" = "按分钟计算";
+"Select precision" = "选择精确度";
 
 // Bulk Delete
 "Bulk Delete" = "批量删除";
@@ -356,44 +356,44 @@
 "Restore default template" = "恢复默认模板";
 
 // Synchronize
-"Synchronize" = "Synchronize";
-"Synchronization" = "Synchronization";
-"Connecting to server..." = "Connecting to server...";
-"Downloading data..." = "Downloading data...";
-"Synced successfully" = "Synced successfully";
-"Sign in" = "Sign in";
-"Log out" = "Log out";
-"Sync finished" = "Sync finished";
-"Sync frequency" = "Sync frequency";
-"Manual" = "Manual";
-"On every change" = "On every change";
-"Remote" = "Remote";
-"Local" = "Local";
-"Conflict resolving" = "Conflict resolving";
-"Create account" = "Create account";
-"Are you sure you want to logout?" = "Are you sure you want to logout?";
-"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
-"Delete local and use remote" = "Delete local and use remote";
-"Merge" = "Merge";
-"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged";
-"Nothing was changed" = "Nothing was changed";
-"Not synced" = "Not synced";
-"Last sync: %@" = "Last sync: %@";
-"Status: %@" = "Status: %@";
-"Status: success" = "Status: success";
-"Status: password is incorrect" = "Status: password is incorrect";
-"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
-"Status: sync failed. Try again" = "Status: sync failed. Try again";
-"Update password" = "Update password";
-"Pushing changes to server..." = "Pushing changes to server...";
-"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
-"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
-"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
-"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
-"When a conflict occurs the user chooses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
-"Cannot continue" = "Cannot continue";
-"Resolve all conflicts first" = "Resolve all conflicts first";
-"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please choose which data you would like to preserve.";
+"Synchronize" = "同步";
+"Synchronization" = "同步";
+"Connecting to server..." = "正在连接服务器...";
+"Downloading data..." = "正在下载数据...";
+"Synced successfully" = "同步成功";
+"Sign in" = "登陆";
+"Log out" = "登出";
+"Sync finished" = "同步完成";
+"Sync frequency" = "同步频率";
+"Manual" = "手动";
+"On every change" = "任一改变";
+"Remote" = "远程";
+"Local" = "本地";
+"Conflict resolving" = "冲突解决";
+"Create account" = "新建帐户";
+"Are you sure you want to logout?" = "确认登出吗？";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "同步错误。 请点击 '更多' → '同步' 获得更多信息";
+"Delete local and use remote" = "删除本地数据使用远程数据";
+"Merge" = "合并";
+"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "本地客户端和远程服务器存在同一数据。您可以删除本地数据使用远程数据或者合并数据。";
+"Nothing was changed" = "无任何变更";
+"Not synced" = "未同步";
+"Last sync: %@" = "上次同步: %@";
+"Status: %@" = "状态: %@";
+"Status: success" = "状态: 成功";
+"Status: password is incorrect" = "状态: 密码不正确";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "状态: 同步时发生冲突。请点击 '同步'按钮来解决冲突数据。";
+"Status: sync failed. Try again" = "状态: 同步失败。请重试";
+"Update password" = "更新密码";
+"Pushing changes to server..." = "推送变更到服务器端...";
+"Syncs with server every time change occurs." = "当任一改变发生时与服务器同步。";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "仅当点击 '同步'按钮（'更多' → '同步'）时与服务器同步";
+"When a conflict occurs the local data gets preserved" = "当冲突发生时以本地数据为准";
+"When a conflict occurs the remote data gets preserved" = "当冲突发生时以远程数据为准";
+"When a conflict occurs the user chooses which data to preserve manually" = "当冲突发生时由用户选择以哪一数据为准";
+"Cannot continue" = "无法继续";
+"Resolve all conflicts first" = "先解决所有的冲突";
+"conflict.warning" = "同步时发生错误。请选择想要保存的数据。";
 
 // Warnings
 "Warning" = "警告";
@@ -407,8 +407,8 @@
 "Welcome" = "欢迎";
 "View" = "查看";
 "No, thanks" = "不用了，谢谢!";
-"Save error" = "Save error";
-"Activity type should be selected" = "Activity type should be selected";
+"Save error" = "保存错误";
+"Activity type should be selected" = "请选择活动类型";
 
 //Categories
 "Sleep" = "睡眠";
