@@ -165,9 +165,11 @@
 "Line" = "折り線グラフ";
 "Area" = "面グラフ";
 "Max hours" = "時間の最大数"; // it's bar chart settings 
-"You can't track anything without activity types. Click «+» to add activity types" = "アクティビティがないと記録を取ることができません。[＋]をタップしてアクティビティのｨ種類を作成してください。";
+"You can't track anything without activity types. Click «+» to add activity type" = "アクティビティがないと記録を取ることができません。[＋]をタップしてアクティビティのｨ種類を作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 "Click «+» to add child items to this group" = "[＋]ボタンでこのグループにアクティビティの種類を入れることができます";
+"By name" = "By name";
+"By time tracked" = "By time tracked";
 
 // Reports
 "All" = "全て";
@@ -186,6 +188,7 @@
 "Edit goal" = "目標を編集";
 "Goal type" = "目標の種類";
 "Goal duration" = "目標時間";
+"No goals" = "No goals";
 "%@ per day" = "%@ 日ごと";
 "%@ per week" = "%@ 週ごと";
 "%@ per month" = "%@ 月ごと";
@@ -332,6 +335,7 @@
 "Start/end time precision" = "開始／停止時の正確さ";
 "Seconds" = "秒間";
 "Minutes" = "分間";
+"Select precision" = "Select precision";
 
 // Bulk Delete
 "Bulk Delete" = "一括削除";
@@ -460,3 +464,5 @@
 "Enter your old passcode" = "古いパスコードを入力";
 "Enter your new passcode" = "新しいパスコードを入力";
 "Re-enter your new passcode" = "新しいパスコードを再入力";
+
+"http://atimelogger.com/versions.plist" = "http://atimelogger.com/versions_jp.plist";
