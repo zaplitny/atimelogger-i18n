@@ -168,8 +168,8 @@
 "You can't track anything without activity types. Click «+» to add activity type" = "アクティビティがないと記録を取ることができません。[＋]をタップしてアクティビティのｨ種類を作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 "Click «+» to add child items to this group" = "[＋]ボタンでこのグループにアクティビティの種類を入れることができます";
-"By name" = "By name";
-"By time tracked" = "By time tracked";
+"By name" = "名前で並び替える";
+"By time tracked" = "記録時間で並び替える";
 
 // Reports
 "All" = "全て";
@@ -199,12 +199,17 @@
 "Activity duration" = "記録ごと";
 "Interval duration" = "期間ごと";
 "Day duration" = "日ごと";
-"Congratulations! Goal reached: '%@'" = "おめでとう！目標を果たした：'%@'";
+"Congratulations! Goal reached：'%@'" = "おめでとう！目標を果たした：'%@'";
+"Attention! Time limit of the goal '%@' has just been reached." = "注意！'%@'の目標の制限期間に達しました。";
+// I would go for:
+// "Attention! Goal time limit reached: '%@'" = "注意！目標の制限期間に達成：'%@'";
 "Goal alert" = "目標警告";
 "No sound" = "音なし";
 "Alarm" = "アラーム";
 "Din" = "ディン";
 "SMS Received" = "メッセージ受信";
+"Limit duration" = "目標期間を制限";
+"Reach duration" = "目標期間を達成";
 
 // In-App
 "Packs" = "パック";
@@ -288,9 +293,9 @@
 "Top level" = "全体的（グループ別）";
 "Switch on shake" = "シェイクで変更";
 "Show warning" = "警告を表示する";
-"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
-"Warning is shown when device is shaked" = "シェイクで警告を表示します";
-"Nothing happens when device is shaked" = "シェイクしても何も起こりません";
+"Values switched without any warning when device is shaked" = "シェイクで表示を変更する時、警告を表示しない";
+"Warning is shown when device is shaked" = "シェイクで表示を変更する時、警告を表示する";
+"Nothing happens when device is shaked" = "シェイクで表示を変更することを無効にする";
 "Change display mode?" = "表示を変更？";
 
 // Settings - Activity Types
