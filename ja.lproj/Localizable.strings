@@ -168,8 +168,9 @@
 "You can't track anything without activity types. Click «+» to add activity type" = "アクティビティがないと記録を取ることができません。[＋]をタップしてアクティビティのｨ種類を作成してください。";
 "Click «Cancel» to discard or «Update» to apply changes" = "[キャンセル]をタップして変更を破棄するか、[更新]で";
 "Click «+» to add child items to this group" = "[＋]ボタンでこのグループにアクティビティの種類を入れることができます";
-"By name" = "名前で並び替える";
-"By time tracked" = "記録時間で並び替える";
+"Sort" = "並び替え";
+"By name" = "名前";
+"By time tracked" = "記録時間";
 
 // Reports
 "All" = "全て";
