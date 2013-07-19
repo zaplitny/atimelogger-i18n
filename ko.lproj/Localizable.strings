@@ -30,8 +30,8 @@
 "Color" = "색상";
 "Icon" = "아이콘";
 "Select icon" = "아이콘 선택";
-"Default" = "Default";
-"User" = "User";
+"Default" = "기본";
+"User" = "사용자 정의";
 
 "Number of activities" = "활동횟수";
 "Restore" = "복원";
@@ -55,8 +55,8 @@
 "Overtime" = "시간 초과";
 "My plan" = "나의 계획";
 "Max duration" = "최대 기간";
-"Finish before" = "Finish before";
-"Finish" = "Finish";
+"Finish before" = "미리 종료";
+"Finish" = "종료";
 "Now" = "지금";
 
 "Date range" = "날짜범위";
@@ -80,8 +80,8 @@
 "Start new activity simultaneously" = "새 활동 시작시, 기존활동 동시진행";
 "Start new activity and pause running" = "새 활동 시작시, 기존활동 일시정지";
 "Start new activity and stop running" = "새 활동 시작시, 기존활동 종료";
-"Started %activity%" = "Started %activity%";
-"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
+"Started %activity%" = "%activity% 시작";
+"Just logged %duration% of %activity%" = "%activity% 의 %duration% 을 기록했습니다";
 
 "Resume" = "다시 시작";
 "Comment" = "설명";
@@ -152,13 +152,13 @@
 "Days" = "일";
 "Hours" = "시간";
 "No activity types" = "활동유형이 없어요";
-"Archived types" = "Archived types";
+"Archived types" = "아카이브 속 활동유형";
 "Archive" = "아카이브에 보관";
 "Unarchive" = "보관하지 않음";
 "Archive activity type?" = "이 활동을 보관하실건가요?";
 "Unarchive activity type?" = "보관하지 않으실건가요?";
 "Select color" = "색상 선택";
-"Move to .." = "이동";
+"Move to .." = "이동 중 ..";
 "Top" = "Top";
 "Graph type" = "그래프 유형";
 "Histogram" = "막대 그래프";
@@ -173,7 +173,7 @@
 "%d activity types" = "%d가지 활동유형";
 "Show 'Other' time" = "나머지시간 표시";
 "Other" = "나머지시간";
-"Total" = "Total";
+"Total" = "총";
 "Saved successfully" = "저장 완료";
 "Save to..." = "저장 중...";
 "Documents" = "문서";
@@ -195,29 +195,29 @@
 "Activity duration" = "활동 기간";
 "Interval duration" = "활동 시간";
 "Day duration" = "활동 날짜";
-"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
-"Goal alert" = "Goal alert";
-"No sound" = "No sound";
-"Alarm" = "Alarm";
-"Din" = "Din";
-"SMS Received" = "SMS Received";
+"Congratulations! Goal reached: '%@'" = "목표달성! 당신 정말 최고예요!: '%@'";
+"Goal alert" = "Goal 알람";
+"No sound" = "무음";
+"Alarm" = "알람";
+"Din" = "경보";
+"SMS Received" = "SMS 문자";
 
 // In-App
-"Packs" = "Packs";
-"Icon Packs" = "Icon Packs";
-"In-App Shop" = "In-App Shop";
-"purchased" = "purchased";
-"All Packs" = "All Packs";
-"Eat & Cook" = "Eat & Cook";
-"Family" = "Family";
-"Finance & Shopping" = "Finance & Shopping";
-"Home & Self-Care" = "Home & Self-Care";
-"Musical Instruments" = "Musical Instruments";
-"Relax & Party" = "Relax & Party";
-//"Sport" = "Sport";
-//"Study" = "Study";
-"Transport & Tourism" = "Transport & Tourism";
-"No internet connection" = "No internet connection";
+"Packs" = "패키지";
+"Icon Packs" = "아이콘 패키지";
+"In-App Shop" = "아이콘 상점";
+"purchased" = "구입목록";
+"All Packs" = "모든 패키지";
+"Eat & Cook" = "음식;먹고 마시자";
+"Family" = "가정;가족의 소중함";
+"Finance & Shopping" = "돈;뭐니뭐니해도 머니";
+"Home & Self-Care" = "가전&명상;내안을 다스리자";
+"Musical Instruments" = "악기;음악은 내인생";
+"Relax & Party" = "휴식;휴가와 파티";
+//"Sport" = "스포츠;운동합시다";
+//"Study" = "공부;세상엔 배울게 많아요";
+"Transport & Tourism" = "여행;세상은 넓다";
+"No internet connection" = "인터넷 연결을 확인해주세요";
 
 // Backups
 "Backups" = "백업";
@@ -232,17 +232,17 @@
 "Version" = "버전";
 "Help" = "도움말";
 "Loading..." = "진행 중...";
-"Contact us" = "Contact us";
-"Feedback" = "Feedback";
+"Contact us" = "친절한 고객센터";
+"Feedback" = "피드백하기";
 "Review us on iTunes" = "iTunes에서 별점/댓글";
 "Follow us on Twitter" = "Twitter에서 팔로우";
 "Like us on Facebook" = "Facebook에서 좋아요";
-"Credits" = "Credits";
-"Icon design" = "Icon design";
-"Japanese" = "Japanese";
-"Korea Distributor" = "Korea Distributor";
-"Chinese" = "Chinese";
-"Swedish" = "Swedish";
+"Credits" = "제작진";
+"Icon design" = "아이콘 디자인";
+"Japanese" = "독도는 우리땅";
+"Korea Distributor" = "대한민국";
+"Chinese" = "중국";
+"Swedish" = "스웨덴";
 "Ideas generator" = "Ideas generator";
 
 // Settings
@@ -259,7 +259,7 @@
 "%d minutes" = "%d 분 간격";
 "%d min" = "%d 분";
 "Activity status change" = "활동상태 변경할 때";
-"Delete in History" = "Delete in History";
+"Delete in History" = "히스토리 삭제";
 "Select interval" = "시간 설정";
 "Day format" = "날짜 표시형식";
 "Duration format" = "시간 표시형식";
@@ -281,37 +281,37 @@
 "Show year in CSV" = "Show year in CSV";
 "Decimal" = "Decimal";
 "Application" = "Application";
-"Default edit field" = "Default edit field";
+"Default edit field" = "기본 설정 필드";
 "Simple" = "Simple";
 "Complex" = "Complex";
-"Tap on history or running activity" = "Tap on history or running activity";
-"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
+"Tap on history or running activity" = "진행이거나 기록된 활동을 탭하세요";
+"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to '활동 편집'";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to '활동 편집', tapping on the text part takes us to '기간 편집'";
 "Min. activity duration" = "Min. activity duration";
-"10 seconds" = "10 seconds";
-"1 minute" = "1 minute";
-"5 minutes" = "5 minutes";
-"Comment on start" = "Comment on start";
-"Comment on stop" = "Comment on stop";
-"Remind" = "Remind";
-"Interval" = "Interval";
-"Every hour" = "Every hour";
-"Every 2 hours" = "Every 2 hours";
-"Every %d minutes" = "Every %d minutes";
-"15 minutes" = "15 minutes";
-"20 minutes" = "20 minutes";
-"30 minutes" = "30 minutes";
-"1 hour" = "1 hour";
-"2 hours" = "2 hours";
-"What are you doing now?" = "What are you doing now?";
-"What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
-"Change" = "Change";
+"10 seconds" = "10 초";
+"1 minute" = "1 분";
+"5 minutes" = "5 분";
+"Comment on start" = "시작시 세부내용 작성";
+"Comment on stop" = "종료시 세부내용 작성";
+"Remind" = "미리알림";
+"Interval" = "시간 간격";
+"Every hour" = "매 시간 마다";
+"Every 2 hours" = "2 시간 마다";
+"Every %d minutes" = "%d 분 마다";
+"15 minutes" = "15 분";
+"20 minutes" = "20 분";
+"30 minutes" = "30 분";
+"1 hour" = "1 시간";
+"2 hours" = "2 시간";
+"What are you doing now?" = "현재 어떤 활동중이신가요??";
+"What are you doing now? Now running: %@" = "어떤 활동 중이신가요? 현재 진행 중: %@";
+"Change" = "변경";
 
 // Bulk Delete
-"Bulk Delete" = "Bulk Delete";
-"Deleting..." = "Deleting...";
-"Removed successfully" = "Removed successfully";
-"Do you really want to remove %d entries" = "Do you really want to remove %d entries";
+"Bulk Delete" = "삭제";
+"Deleting..." = "지우는 중...";
+"Removed successfully" = "삭제 완료";
+"Do you really want to remove %d entries" = "%d entries 를 정말로 삭제하실건가요?";
 
 // Twitter
 "Tweet activities" = "활동 Tweet하기";
@@ -324,10 +324,10 @@
 "Message template" = "메시지 템플릿";
 "Can't find any active account" = "계정을 찾을 수 없습니다";
 "Please, login to Twitter first" = "먼저 Twitter에 로그인 해주세요";
-"Preview" = "Preview";
-"Shake to reset" = "Shake to reset";
-"Restore default template?" = "Restore default template?";
-"Restore default template" = "Restore default template";
+"Preview" = "미리보기";
+"Shake to reset" = "흔들어서 리셋";
+"Restore default template?" = "기본 템플릿으로 복원하실건가요?";
+"Restore default template" = "기본 템플릿 복원";
 
 // Warnings
 "Warning" = "잠깐!";
@@ -371,7 +371,7 @@
 "Passcode Lock" = "비밀번호 잠금";
 
 "Enable" = "사용";
-"Disabled" = "Disabled";
+"Disabled" = "사용 불가";
 
 "Turn Passcode Off" = "잠금 끄기";
 "Turn Passcode On" = "잠금 켜기";
