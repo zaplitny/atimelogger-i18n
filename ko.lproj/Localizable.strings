@@ -167,6 +167,10 @@
 "Max hours" = "최대 시간(Y축)";
 "You can't track anything without activity types. Click «+» to add activity type" = "활동유형을 선택해주세요. 활동유형을 추가하시려면 «+»을 탭해주세요";
 "Click «Cancel» to discard or «Update» to apply changes" = "삭제하시려면 «취소»를, 변경사항을 적용하시려면 «업데이트»를 탭해주세요";
+"Click «+» to add child items to this group" = "Click «+» to add child items to this group";
+"Sort" = "Sort";
+"By name" = "By name";
+"By time tracked" = "By time tracked";
 
 // Reports
 "All" = "모두";
@@ -185,6 +189,7 @@
 "Edit goal" = "Goal 수정";
 "Goal type" = "Goal 유형";
 "Goal duration" = "Goal 기간";
+"No goals" = "No goals";
 "%@ per day" = "%@ per day";
 "%@ per week" = "%@ per week";
 "%@ per month" = "%@ per month";
@@ -196,11 +201,14 @@
 "Interval duration" = "활동 시간";
 "Day duration" = "활동 날짜";
 "Congratulations! Goal reached: '%@'" = "목표달성! 당신 정말 최고예요!: '%@'";
+"Attention! Time limit of the goal '%@' has just been reached." = "Attention! Time limit of the goal '%@' has just been reached.";
 "Goal alert" = "Goal 알람";
 "No sound" = "무음";
 "Alarm" = "알람";
 "Din" = "경보";
 "SMS Received" = "SMS 문자";
+"Limit duration" = "Limit duration";
+"Reach duration" = "Reach duration";
 
 // In-App
 "Packs" = "패키지";
@@ -244,55 +252,75 @@
 "Chinese" = "중국";
 "Swedish" = "스웨덴";
 "Ideas generator" = "Ideas generator";
+"Send debug data" = "Send debug data";
+"Send db file" = "Send db file";
+"Local notifications" = "Local notifications";
 
 // Settings
-"Week starts on" = "한 주의 시작";
 "Theme" = "테마";
-"Action on start" = "다른활동 진행 중일때";
-"Warnings" = "경고메시지";
-"Formats" = "표시형식";
-"Advanced" = "고급설정";
 "Select theme" = "테마 설정";
-"Select day" = "날짜 선택";
-"Select action" = "활동 선택";
-"Time picker interval" = "시간 측정간격";
-"%d minutes" = "%d 분 간격";
-"%d min" = "%d 분";
+"Warnings" = "경고메시지";
 "Activity status change" = "활동상태 변경할 때";
 "Delete in History" = "히스토리 삭제";
-"Select interval" = "시간 설정";
+"Formats" = "표시형식";
 "Day format" = "날짜 표시형식";
 "Duration format" = "시간 표시형식";
 "Passcode Lock" = "비밀번호 잠금";
-"Pie chart" = "파이차트";
-"Top level" = "최상위";
 "On" = "켬";
 "Off" = "끔";
-"Color picker" = "색상 추출기";
-"Predefined" = "정해진 색상";
-"History list" = "히스토리 목록";
-"By activity entry" = "날짜에 따른";
-"By activity type" = "활동유형에 따른";
+
+// Settings - Activities
 "Display auto-lock" = "자동잠금 표시";
 "Major timer" = "주요 타이머";
 "Count up" = "Count up";
 "Count down" = "Count down";
-"CSV duration format" = "CSV 기간 형식";
-"Show year in CSV" = "Show year in CSV";
-"Decimal" = "Decimal";
-"Application" = "Application";
+"Action on start" = "다른활동 진행 중일때";
+"Select action" = "활동 선택";
+"Comment on start" = "시작시 세부내용 작성";
+"Comment on stop" = "종료시 세부내용 작성";
 "Default edit field" = "기본 설정 필드";
-"Simple" = "Simple";
-"Complex" = "Complex";
-"Tap on history or running activity" = "진행이거나 기록된 활동을 탭하세요";
-"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to '활동 편집'";
-"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to '활동 편집', tapping on the text part takes us to '기간 편집'";
 "Min. activity duration" = "Min. activity duration";
 "10 seconds" = "10 초";
 "1 minute" = "1 분";
 "5 minutes" = "5 분";
-"Comment on start" = "시작시 세부내용 작성";
-"Comment on stop" = "종료시 세부내용 작성";
+
+// Settings - History List
+"History list" = "히스토리 목록";
+"By activity entry" = "날짜에 따른";
+"By activity type" = "활동유형에 따른";
+"Pie chart" = "파이차트";
+"Top level" = "최상위";
+"Switch on shake" = "Switch on shake";
+"Show warning" = "Show warning";
+"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
+"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
+"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
+"Change display mode?" = "Change display mode?";
+
+// Settings - Activity Types
+"Color picker" = "색상 추출기";
+"Predefined" = "정해진 색상";
+
+// Settings - Report
+"CSV duration format" = "CSV 기간 형식";
+"Show year in CSV" = "Show year in CSV";
+"Decimal" = "Decimal";
+"Application" = "Application";
+
+// Settings - Advanced
+"Advanced" = "고급설정";
+"Tap on history or running activity" = "진행이거나 기록된 활동을 탭하세요";
+"Simple" = "Simple";
+"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to '활동 편집'";
+"Complex" = "Complex";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to '활동 편집', tapping on the text part takes us to '기간 편집'";
+"Time picker interval" = "시간 측정간격";
+"Select interval" = "시간 설정";
+"%d minutes" = "%d 분 간격";
+"%d min" = "%d 분";
+"Week starts on" = "한 주의 시작";
+"Select day" = "날짜 선택";
+
 "Remind" = "미리알림";
 "Interval" = "시간 간격";
 "Every hour" = "매 시간 마다";
@@ -306,6 +334,12 @@
 "What are you doing now?" = "현재 어떤 활동중이신가요??";
 "What are you doing now? Now running: %@" = "어떤 활동 중이신가요? 현재 진행 중: %@";
 "Change" = "변경";
+
+"Precision" = "Precision";
+"Start/end time precision" = "Start/end time precision";
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
+"Select precision" = "Select precision";
 
 // Bulk Delete
 "Bulk Delete" = "삭제";
@@ -329,6 +363,49 @@
 "Restore default template?" = "기본 템플릿으로 복원하실건가요?";
 "Restore default template" = "기본 템플릿 복원";
 
+// Synchronize
+"Sync" = "Sync";
+"Synchronize" = "Synchronize";
+"Synchronization" = "Synchronization";
+"Connecting to server..." = "Connecting to server...";
+"Downloading data..." = "Downloading data...";
+"Synced successfully" = "Synced successfully";
+"Sign in" = "Sign in";
+"Log out" = "Log out";
+"Your email" = "Your email";
+"Password" = "Password";
+"Sync finished" = "Sync finished";
+"Sync frequency" = "Sync frequency";
+"Manual" = "Manual";
+"On every change" = "On every change";
+"Remote" = "Remote";
+"Local" = "Local";
+"Conflict resolving" = "Conflict resolving";
+"Create account" = "Create account";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
+"Delete local and use remote" = "Delete local and use remote";
+"Merge" = "Merge";
+"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged";
+"Nothing was changed" = "Nothing was changed";
+"Not synced" = "Not synced";
+"Last sync: %@" = "Last sync: %@";
+"Status: %@" = "Status: %@";
+"Status: success" = "Status: success";
+"Status: password is incorrect" = "Status: password is incorrect";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
+"Status: sync failed. Try again" = "Status: sync failed. Try again";
+"Update password" = "Update password";
+"Pushing changes to server..." = "Pushing changes to server...";
+"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
+"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
+"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
+"When a conflict occurs the user chooses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
+"Cannot continue" = "Cannot continue";
+"Resolve all conflicts first" = "Resolve all conflicts first";
+"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please choose which data you would like to preserve.";
+
 // Warnings
 "Warning" = "잠깐!";
 "Delete time interval?" = "활동시간을 삭제하실건가요?";
@@ -341,6 +418,8 @@
 "Welcome" = "안녕하세요!:D";
 "View" = "지금 볼게요";
 "No, thanks" = "아뇨, 괜찮아요";
+"Save error" = "Save error";
+"Activity type should be selected" = "Activity type should be selected";
 
 //Categories
 "Sleep" = "잠";
@@ -387,3 +466,5 @@
 "Enter your old passcode" = "이전 비밀번호 입력";
 "Enter your new passcode" = "새로운 비밀번호 입력";
 "Re-enter your new passcode" = "새 비밀번호 재입력";
+
+"http://atimelogger.com/versions.plist" = "http://atimelogger.com/versions_ko.plist";
