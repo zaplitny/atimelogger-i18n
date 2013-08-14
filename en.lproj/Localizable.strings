@@ -167,6 +167,10 @@
 "Max hours" = "Max hours";
 "You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
 "Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+"Click «+» to add child items to this group" = "Click «+» to add child items to this group";
+"Sort" = "Sort";
+"By name" = "By name";
+"By time tracked" = "By time tracked";
 
 // Reports
 "All" = "All";
@@ -185,6 +189,7 @@
 "Edit goal" = "Edit goal";
 "Goal type" = "Goal type";
 "Goal duration" = "Goal duration";
+"No goals" = "No goals";
 "%@ per day" = "%@ per day";
 "%@ per week" = "%@ per week";
 "%@ per month" = "%@ per month";
@@ -196,11 +201,14 @@
 "Interval duration" = "Interval duration";
 "Day duration" = "Day duration";
 "Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
+"Attention! Time limit of the goal '%@' has just been reached." = "Attention! Time limit of the goal '%@' has just been reached.";
 "Goal alert" = "Goal alert";
 "No sound" = "No sound";
 "Alarm" = "Alarm";
 "Din" = "Din";
 "SMS Received" = "SMS Received";
+"Limit duration" = "Limit duration";
+"Reach duration" = "Reach duration";
 
 // In-App
 "Packs" = "Packs";
@@ -244,6 +252,9 @@
 "Chinese" = "Chinese";
 "Swedish" = "Swedish";
 "Ideas generator" = "Ideas generator";
+"Send debug data" = "Send debug data";
+"Send db file" = "Send db file";
+"Local notifications" = "Local notifications";
 
 // Settings
 "Theme" = "Theme";
@@ -279,6 +290,12 @@
 "By activity type" = "By activity type";
 "Pie chart" = "Pie chart";
 "Top level" = "Top level";
+"Switch on shake" = "Switch on shake";
+"Show warning" = "Show warning";
+"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
+"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
+"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
+"Change display mode?" = "Change display mode?";
 
 // Settings - Activity Types
 "Color picker" = "Color picker";
@@ -318,9 +335,11 @@
 "What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
 "Change" = "Change";
 
+"Precision" = "Precision";
 "Start/end time precision" = "Start/end time precision";
 "Seconds" = "Seconds";
 "Minutes" = "Minutes";
+"Select precision" = "Select precision";
 
 // Bulk Delete
 "Bulk Delete" = "Bulk Delete";
@@ -344,6 +363,49 @@
 "Restore default template?" = "Restore default template?";
 "Restore default template" = "Restore default template";
 
+// Synchronize
+"Sync" = "Sync";
+"Synchronize" = "Synchronize";
+"Synchronization" = "Synchronization";
+"Connecting to server..." = "Connecting to server...";
+"Downloading data..." = "Downloading data...";
+"Synced successfully" = "Synced successfully";
+"Sign in" = "Sign in";
+"Log out" = "Log out";
+"Your email" = "Your email";
+"Password" = "Password";
+"Sync finished" = "Sync finished";
+"Sync frequency" = "Sync frequency";
+"Manual" = "Manual";
+"On every change" = "On every change";
+"Remote" = "Remote";
+"Local" = "Local";
+"Conflict resolving" = "Conflict resolving";
+"Create account" = "Create account";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
+"Delete local and use remote" = "Delete local and use remote";
+"Merge" = "Merge";
+"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged";
+"Nothing was changed" = "Nothing was changed";
+"Not synced" = "Not synced";
+"Last sync: %@" = "Last sync: %@";
+"Status: %@" = "Status: %@";
+"Status: success" = "Status: success";
+"Status: password is incorrect" = "Status: password is incorrect";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
+"Status: sync failed. Try again" = "Status: sync failed. Try again";
+"Update password" = "Update password";
+"Pushing changes to server..." = "Pushing changes to server...";
+"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
+"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
+"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
+"When a conflict occurs the user chooses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
+"Cannot continue" = "Cannot continue";
+"Resolve all conflicts first" = "Resolve all conflicts first";
+"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please choose which data you would like to preserve.";
+
 // Warnings
 "Warning" = "Warning";
 "Delete time interval?" = "Delete time interval?";
@@ -356,6 +418,8 @@
 "Welcome" = "Welcome";
 "View" = "View";
 "No, thanks" = "No, thanks";
+"Save error" = "Save error";
+"Activity type should be selected" = "Activity type should be selected";
 
 //Categories
 "Sleep" = "Sleep";
@@ -402,3 +466,5 @@
 "Enter your old passcode" = "Enter your old passcode";
 "Enter your new passcode" = "Enter your new passcode";
 "Re-enter your new passcode" = "Re-enter your new passcode";
+
+"http://atimelogger.com/versions.plist" = "http://atimelogger.com/versions.plist";
