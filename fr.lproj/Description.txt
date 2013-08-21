@@ -1,6 +1,3 @@
-★★★★★ 66% Discount for limited time only ★★★★★ 
-Data migration from aTimeLogger 1.x is possible 
-
 Application for tracking your everyday activities. 
 
 Spending only a few minutes a day on this app you will get daily, weekly and monthly statistics in the form of diagrams and graphs. Using this data you'll be able to control and manage you time. 
