@@ -1,0 +1,470 @@
+"Activities" = "Activities";
+"History" = "History";
+"Activity types" = "Activity types";
+"Types" = "Types";
+"tab.category" = "Types";
+"More" = "More";
+"Backup/Restore" = "Backup/Restore";
+"Reports" = "Reports";
+"Settings" = "Settings";
+"About" = "About";
+
+"Save" = "Save";
+"Update"  = "Update";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Back" = "Back";
+"Close" = "Close";
+
+"Day" = "Day";
+"Week" = "Week";
+"Month" = "Month";
+
+"Group" = "Group";
+"Groups" = "Groups";
+"Activity type" = "Activity type";
+
+"Name" = "Name";
+"Image" = "Image";
+"Color" = "Color";
+"Icon" = "Icon";
+"Select icon" = "Select icon";
+"Default" = "Default";
+"User" = "User";
+
+"Number of activities" = "Activities";
+"Restore" = "Restore";
+
+// Activities
+"Are you sure you want to pause the activity?" = "Are you sure you want to pause the activity?";
+"Are you sure you want to stop the activity?" = "Are you sure you want to stop the activity?";
+"Are you sure you want to resume the activity?" = "Are you sure you want to resume the activity?";
+"Are you sure you want to pause/stop running activities and resume this one?" = "Are you sure you want to pause/stop running activities and resume this one?";
+"Are you sure you want to start the activity?" = "Are you sure you want to start the activity?";
+"Are you sure you want to pause/stop running activities and start this one?" = "Are you sure you want to pause/stop running activities and start this one?";
+"Create activity" = "Create activity";
+"Edit activity" = "Edit activity";
+"Intervals" = "Intervals";
+"Running" = "Running";
+"Paused" = "Paused";
+"Stopped" = "Stopped";
+"Touch «+» to add time interval" = "Touch «+» to add time interval";
+"Enter comment" = "Enter comment";
+"Time Left" = "Time Left";
+"Overtime" = "Overtime";
+"My plan" = "My plan";
+"Max duration" = "Max duration";
+"Finish before" = "Finish before";
+"Finish" = "Finish";
+"Now" = "Now";
+
+"Date range" = "Date range";
+"Select range" = "Select range";
+"Send by email" = "Send by email";
+"Select activity type" = "Select activity type";
+"Select type" = "Select type";
+"Create report" = "Create report";
+"Creating report..." = "Creating report...";
+"Report" = "Report";
+"Select format" = "Select format";
+"Export" = "Export";
+
+"Twitter" = "Twitter";
+"Untracked time" = "Untracked time";
+"Details" = "Details";
+"None" = "None";
+"Stop" = "Stop";
+"Pause" = "Pause";
+"Start" = "Start";
+"Start new activity simultaneously" = "Start new activity simultaneously";
+"Start new activity and pause running" = "Start new activity and pause running";
+"Start new activity and stop running" = "Start new activity and stop running";
+"Started %activity%" = "Started %activity%";
+"Just logged %duration% of %activity%" = "Just logged %duration% of %activity%";
+
+"Resume" = "Resume";
+"Comment" = "Comment";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+
+// Notifications
+"Planned duration" = "Planned duration";
+"Planned finish" = "Planned finish";
+"Alert time" = "Alert time";
+"At time of event" = "At time of event";
+"1 min before" = "1 min before";
+"5 min before" = "5 min before";
+"10 min before" = "10 min before";
+"15 min before" = "15 min before";
+"Repeat interval" = "Repeat interval";
+"Every 5 min" = "Every 5 min";
+"Every 10 min" = "Every 10 min";
+"Every 15 min" = "Every 15 min";
+"Repeat times" = "Repeat times";
+"Never" = "Never";
+"Forever" = "Forever";
+"1 time" = "1 time";
+"2 times" = "2 times";
+"3 times" = "3 times";
+"4 times" = "4 times";
+"5 times" = "5 times";
+"Time to finish" = "Time to finish";
+
+// Intervals
+"Edit interval" = "Edit interval";
+"From" = "From";
+"To" = "To";
+"Duration" = "Duration";
+
+// Format
+"%dh %dm" = "%dh %dm";
+"%dm" = "%dm";
+"%dh" = "%d h";
+"< 1m" = "< 1m";
+"MMMM d" = "MMMM d";
+"MMMM d, ccc" = "MMMM d, ccc";
+"MM/dd" = "MM/dd";
+"MM/dd/yy" = "MM/dd/yy";
+"dd/MM" = "dd/MM";
+"dd/MM/yy" = "dd/MM/yy";
+"dd MMM" = "dd MMM";
+"dd MMM, yyyy" = "dd MMM, yyyy";
+"MMM dd" = "MMM dd";
+"MMM dd, yyyy" = "MMM dd, yyyy";
+"MMM, yyyy" = "MMM, yyyy";
+"MMMM dd, cccc" = "MMMM dd, cccc";
+
+// History
+"Total time tracked" = "Total time tracked";
+"Nothing tracked for selected period" = "Nothing tracked for selected period";
+"Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity" = "Change period, touch «+» to start/resume an activity or touch Activities icon to select a new activity";
+
+// Categories
+"Create group" = "Create group";
+"Create type" = "Create type";
+"Edit group" = "Edit group";
+"Edit type" = "Edit type";
+"Bar chart" = "Bar chart";
+"Items" = "Items";
+"Select/deselect all" = "Select/deselect all";
+"Total time" = "Total time";
+"Days" = "Days";
+"Hours" = "Hours";
+"No activity types" = "No activity types";
+"Archived types" = "Archived types";
+"Archive" = "Archive";
+"Unarchive" = "Unarchive";
+"Archive activity type?" = "Archive activity type?";
+"Unarchive activity type?" = "Unarchive activity type?";
+"Select color" = "Select color";
+"Move to .." = "Move to ..";
+"Top" = "Top";
+"Graph type" = "Graph type";
+"Histogram" = "Histogram";
+"Line" = "Line";
+"Area" = "Area";
+"Max hours" = "Max hours";
+"You can't track anything without activity types. Click «+» to add activity type" = "You can't track anything without activity types. Click «+» to add activity type";
+"Click «Cancel» to discard or «Update» to apply changes" = "Click «Cancel» to discard or «Update» to apply changes";
+"Click «+» to add child items to this group" = "Click «+» to add child items to this group";
+"Sort" = "Sort";
+"By name" = "By name";
+"By time tracked" = "By time tracked";
+
+// Reports
+"All" = "All";
+"%d activity types" = "%d activity types";
+"Show 'Other' time" = "Show 'Other' time";
+"Other" = "Other";
+"Total" = "Total";
+"Saved successfully" = "Saved successfully";
+"Save to..." = "Save to...";
+"Documents" = "Documents";
+"The device cannot send mail" = "The device cannot send mail";
+
+// Goals
+"Goals" = "Goals";
+"Create goal" = "Create goal";
+"Edit goal" = "Edit goal";
+"Goal type" = "Goal type";
+"Goal duration" = "Goal duration";
+"No goals" = "No goals";
+"%@ per day" = "%@ per day";
+"%@ per week" = "%@ per week";
+"%@ per month" = "%@ per month";
+"%@ per interval" = "%@ per interval";
+"%@ per activity" = "%@ per activity";
+"Alert" = "Alert";
+"Delete goal?" = "Delete goal?";
+"Activity duration" = "Activity duration";
+"Interval duration" = "Interval duration";
+"Day duration" = "Day duration";
+"Congratulations! Goal reached: '%@'" = "Congratulations! Goal reached: '%@'";
+"Attention! Time limit of the goal '%@' has just been reached." = "Attention! Time limit of the goal '%@' has just been reached.";
+"Goal alert" = "Goal alert";
+"No sound" = "No sound";
+"Alarm" = "Alarm";
+"Din" = "Din";
+"SMS Received" = "SMS Received";
+"Limit duration" = "Limit duration";
+"Reach duration" = "Reach duration";
+
+// In-App
+"Packs" = "Packs";
+"Icon Packs" = "Icon Packs";
+"In-App Shop" = "In-App Shop";
+"purchased" = "purchased";
+"All Packs" = "All Packs";
+"Eat & Cook" = "Eat & Cook";
+"Family" = "Family";
+"Finance & Shopping" = "Finance & Shopping";
+"Home & Self-Care" = "Home & Self-Care";
+"Musical Instruments" = "Musical Instruments";
+"Relax & Party" = "Relax & Party";
+//"Sport" = "Sport";
+//"Study" = "Study";
+"Transport & Tourism" = "Transport & Tourism";
+"No internet connection" = "No internet connection";
+
+// Backups
+"Backups" = "Backups";
+"Backup details" = "Backup details";
+"Create backup" = "Create backup";
+"Edit backup" = "Edit backup";
+"Restoring backup..." = "Restoring backup...";
+"Restore complete" = "Restore complete";
+"Restored successfully" = "Restored successfully";
+
+// More
+"Version" = "Version";
+"Help" = "Help";
+"Loading..." = "Loading...";
+"Contact us" = "Contact us";
+"Feedback" = "Feedback";
+"Review us on iTunes" = "Review us on iTunes";
+"Follow us on Twitter" = "Follow us on Twitter";
+"Like us on Facebook" = "Like us on Facebook";
+"Credits" = "Credits";
+"Icon design" = "Icon design";
+"Japanese" = "Japanese";
+"Korea Distributor" = "Korea Distributor";
+"Chinese" = "Chinese";
+"Swedish" = "Swedish";
+"Ideas generator" = "Ideas generator";
+"Send debug data" = "Send debug data";
+"Send db file" = "Send db file";
+"Local notifications" = "Local notifications";
+
+// Settings
+"Theme" = "Theme";
+"Select theme" = "Select theme";
+"Warnings" = "Warnings";
+"Activity status change" = "Activity status change";
+"Delete in History" = "Delete in History";
+"Formats" = "Formats";
+"Day format" = "Day format";
+"Duration format" = "Duration format";
+"Passcode Lock" = "Passcode Lock";
+"On" = "On";
+"Off" = "Off";
+
+// Settings - Activities
+"Display auto-lock" = "Display auto-lock";
+"Major timer" = "Major timer";
+"Count up" = "Count up";
+"Count down" = "Count down";
+"Action on start" = "Action on start";
+"Select action" = "Select action";
+"Comment on start" = "Comment on start";
+"Comment on stop" = "Comment on stop";
+"Default edit field" = "Default edit field";
+"Min. activity duration" = "Min. activity duration";
+"10 seconds" = "10 seconds";
+"1 minute" = "1 minute";
+"5 minutes" = "5 minutes";
+
+// Settings - History List
+"History list" = "History list";
+"By activity entry" = "By activity entry";
+"By activity type" = "By activity type";
+"Pie chart" = "Pie chart";
+"Top level" = "Top level";
+"Switch on shake" = "Switch on shake";
+"Show warning" = "Show warning";
+"Values switched without any warning when device is shaked" = "Values switched without any warning when device is shaked";
+"Warning is shown when device is shaked" = "Warning is shown when device is shaked";
+"Nothing happens when device is shaked" = "Nothing happens when device is shaked";
+"Change display mode?" = "Change display mode?";
+
+// Settings - Activity Types
+"Color picker" = "Color picker";
+"Predefined" = "Predefined";
+
+// Settings - Report
+"CSV duration format" = "CSV duration format";
+"Show year in CSV" = "Show year in CSV";
+"Decimal" = "Decimal";
+"Application" = "Application";
+
+// Settings - Advanced
+"Advanced" = "Advanced";
+"Tap on history or running activity" = "Tap on history or running activity";
+"Simple" = "Simple";
+"Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to 'Edit activity'";
+"Complex" = "Complex";
+"Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'";
+"Time picker interval" = "Time picker interval";
+"Select interval" = "Select interval";
+"%d minutes" = "%d minutes";
+"%d min" = "%d min";
+"Week starts on" = "Week starts on";
+"Select day" = "Select day";
+
+"Remind" = "Remind";
+"Interval" = "Interval";
+"Every hour" = "Every hour";
+"Every 2 hours" = "Every 2 hours";
+"Every %d minutes" = "Every %d minutes";
+"15 minutes" = "15 minutes";
+"20 minutes" = "20 minutes";
+"30 minutes" = "30 minutes";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"What are you doing now?" = "What are you doing now?";
+"What are you doing now? Now running: %@" = "What are you doing now? Now running: %@";
+"Change" = "Change";
+
+"Precision" = "Precision";
+"Start/end time precision" = "Start/end time precision";
+"Seconds" = "Seconds";
+"Minutes" = "Minutes";
+"Select precision" = "Select precision";
+
+// Bulk Delete
+"Bulk Delete" = "Bulk Delete";
+"Deleting..." = "Deleting...";
+"Removed successfully" = "Removed successfully";
+"Do you really want to remove %d entries" = "Do you really want to remove %d entries";
+
+// Twitter
+"Tweet activities" = "Tweet activities";
+"Show tweet sheet" = "Show tweet sheet";
+"Twitter account" = "Twitter account";
+"Tweet on start" = "Tweet on start";
+"Tweet on stop" = "Tweet on stop";
+"Template message" = "Template message";
+"Select account" = "Select account";
+"Message template" = "Message template";
+"Can't find any active account" = "Can't find any active account";
+"Please, login to Twitter first" = "Please, login to Twitter first";
+"Preview" = "Preview";
+"Shake to reset" = "Shake to reset";
+"Restore default template?" = "Restore default template?";
+"Restore default template" = "Restore default template";
+
+// Synchronize
+"Sync" = "Sync";
+"Synchronize" = "Synchronize";
+"Synchronization" = "Synchronization";
+"Connecting to server..." = "Connecting to server...";
+"Downloading data..." = "Downloading data...";
+"Synced successfully" = "Synced successfully";
+"Sign in" = "Sign in";
+"Log out" = "Log out";
+"Your email" = "Your email";
+"Password" = "Password";
+"Sync finished" = "Sync finished";
+"Sync frequency" = "Sync frequency";
+"Manual" = "Manual";
+"On every change" = "On every change";
+"Remote" = "Remote";
+"Local" = "Local";
+"Conflict resolving" = "Conflict resolving";
+"Create account" = "Create account";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Synchronization error. See 'More' → 'Synchronization' for more information" = "Synchronization error. See 'More' → 'Synchronization' for more information";
+"Delete local and use remote" = "Delete local and use remote";
+"Merge" = "Merge";
+"There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged" = "There is data on both your local client and the remote server. You can delete the local and use the remote data OR your data can be merged";
+"Nothing was changed" = "Nothing was changed";
+"Not synced" = "Not synced";
+"Last sync: %@" = "Last sync: %@";
+"Status: %@" = "Status: %@";
+"Status: success" = "Status: success";
+"Status: password is incorrect" = "Status: password is incorrect";
+"Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'" = "Status: conflicts occurred during sync. To resolve conflicts press 'Synchronize'";
+"Status: sync failed. Try again" = "Status: sync failed. Try again";
+"Update password" = "Update password";
+"Pushing changes to server..." = "Pushing changes to server...";
+"Syncs with server every time change occurs." = "Syncs with server every time change occurs.";
+"Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'" = "Syncs with server only if you press 'Synchronize' in 'More' → 'Synchronization'";
+"When a conflict occurs the local data gets preserved" = "When a conflict occurs the local data gets preserved";
+"When a conflict occurs the remote data gets preserved" = "When a conflict occurs the remote data gets preserved";
+"When a conflict occurs the user chooses which data to preserve manually" = "When conflict occurs user choses which data to preserve manually";
+"Cannot continue" = "Cannot continue";
+"Resolve all conflicts first" = "Resolve all conflicts first";
+"conflict.warning" = "There was a change on both sides which caused an error during synchronisation. Please choose which data you would like to preserve.";
+
+// Warnings
+"Warning" = "Warning";
+"Delete time interval?" = "Delete time interval?";
+"Delete activity?" = "Delete activity?";
+"Deleting activity type will delete all its recorded activities. Are you sure?" = "Deleting activity type will delete all its recorded activities. Are you sure?";
+"Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?" = "Deleting group will delete its subgroups, activity types and recorded activities. Are you sure?";
+"Restore will delete old data and overwrites with backed up data. Are you sure?" = "Restore will delete old data and overwrites with backed up data. Are you sure?";
+"Sorry. You have groups created. Disabling groups is not possible. Delete groups first" = "Sorry. You have groups created. Disabling groups is not possible. Delete groups first";
+"welcome.message" = "It's your first run of aTimeLogger 2. We prepared quick introduction for new users and migration tutorial for aTimeLogger 1.x users.";
+"Welcome" = "Welcome";
+"View" = "View";
+"No, thanks" = "No, thanks";
+"Save error" = "Save error";
+"Activity type should be selected" = "Activity type should be selected";
+
+//Categories
+"Sleep" = "Sleep";
+"Transport" = "Transport";
+"Work" = "Work";
+"Eat" = "Eat";
+"Sport" = "Sport";
+"Read" = "Read";
+"Shop" = "Shop";
+"Entertainment" = "Entertainment";
+"Housework" = "Housework";
+"Cinema" = "Cinema";
+"Walk" = "Walk";
+"Study" = "Study";
+"Internet" = "Internet";
+"Drink" = "Drink";
+
+// Days of week
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Sunday" = "Sunday";
+
+// passcode
+"Passcode Lock" = "Passcode Lock";
+
+"Enable" = "Enable";
+"Disabled" = "Disabled";
+
+"Turn Passcode Off" = "Turn Passcode Off";
+"Turn Passcode On" = "Turn Passcode On";
+"Change Passcode" = "Change Passcode";
+"Set Passcode" = "Set Passcode";
+"Turn off Passcode" = "Turn off Passcode";
+"Enter Passcode" = "Enter Passcode";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+
+"Enter your passcode" = "Enter your passcode";
+"Enter a passcode" = "Enter a passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Re-enter your new passcode" = "Re-enter your new passcode";
+
+"http://atimelogger.com/versions.plist" = "http://atimelogger.com/versions.plist";
